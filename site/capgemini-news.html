@@ -30,198 +30,126 @@
 }
   </script>
   <style>
-    :root { color-scheme: light dark; }
-    body {
-      font-family: -apple-system, system-ui, "Segoe UI", sans-serif; line-height: 1.5;
-      max-width: 880px; width: 100%; box-sizing: border-box;
-      margin: 0 auto; padding: clamp(16px, 4vw, 24px);
-      color: light-dark(#1f2937, #e5e7eb); background: light-dark(#ffffff, #0b1220);
+    :root {
+      color-scheme: light dark;
+      --bg: light-dark(#f4f6fa, #0b1220); --card: light-dark(#ffffff, #121b2e);
+      --ink: light-dark(#1f2937, #e5e7eb); --head: light-dark(#0f172a, #f8fafc);
+      --muted: light-dark(#64748b, #94a3b8); --line: light-dark(#e2e8f0, #1e293b);
+      --link: light-dark(#0b6bcb, #7cc4ff); --accent: #29b5e8;
+      --shadow: 0 1px 2px rgb(15 23 42 / .06), 0 4px 16px rgb(15 23 42 / .05);
     }
-    h1, h2, h3, h4 { color: light-dark(#0f172a, #f1f5f9); line-height: 1.25; }
-    h1 { font-size: 1.5rem; margin: 0.2em 0; }
-    h2 { font-size: 1.35rem; margin: 0.6em 0 0.2em; }
-    h3 { font-size: 1.15rem; margin-top: 1.6em; padding-bottom: 4px;
-         border-bottom: 1px solid light-dark(#e5e7eb, #1f2937); }
-    h4 { font-size: 1rem; margin-top: 1.2em; }
-    a { color: light-dark(#0b6bcb, #60a5fa); overflow-wrap: anywhere; }
-    code { font-size: 0.9em; background: light-dark(#f3f4f6, #1f2937); padding: 1px 4px; border-radius: 4px; }
-    ul { padding-left: 1.2em; }
-    .bar { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center;
-           padding: 10px 0; border-bottom: 1px solid light-dark(#e5e7eb, #1f2937); }
-    .bar label { font-weight: 600; }
-    select { font: inherit; padding: 4px 8px; border-radius: 6px; max-width: 100%;
-             border: 1px solid light-dark(#d1d5db, #374151);
-             background: light-dark(#fff, #111827); color: inherit; }
-    .muted { color: light-dark(#6b7280, #9ca3af); font-size: 0.9rem; }
-    section[hidden] { display: none; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 84px; }
+    body { margin: 0; background: var(--bg); color: var(--ink);
+           font: 16px/1.6 -apple-system, system-ui, "Segoe UI", Roboto, sans-serif; }
+    a { color: var(--link); text-decoration-thickness: 1px; text-underline-offset: 2px; overflow-wrap: anywhere; }
+    a:focus-visible, button:focus-visible, select:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    code { font-size: .85em; background: light-dark(#eef2f7, #1e293b); padding: 1px 5px; border-radius: 4px; }
+    .top { position: sticky; top: 0; z-index: 10; backdrop-filter: blur(10px);
+           background: light-dark(rgb(255 255 255 / .85), rgb(11 18 32 / .85)); border-bottom: 1px solid var(--line); }
+    .top-in, main { max-width: 900px; margin: 0 auto; padding: 0 clamp(14px, 4vw, 24px); }
+    .top-in { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; padding-block: 12px; }
+    .brand { display: flex; align-items: center; gap: 10px; margin-right: auto; }
+    .logo { width: 32px; height: 32px; border-radius: 8px; display: grid; place-items: center;
+            background: linear-gradient(135deg, #29b5e8, #0070c0); color: #fff; font-weight: 700; }
+    h1 { font-size: 1.1rem; margin: 0; color: var(--head); letter-spacing: -.01em; }
+    .sub { font-size: .8rem; color: var(--muted); }
+    .picker { display: flex; align-items: center; gap: 6px; }
+    select, button { font: inherit; font-size: .9rem; color: inherit; background: var(--card);
+                     border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; min-height: 36px; }
+    button { cursor: pointer; width: 36px; padding: 0; }
+    button:disabled { opacity: .35; cursor: default; }
+    main { padding-block: 24px 64px; }
+    .week h2 { font-size: clamp(1.4rem, 3.5vw, 1.9rem); line-height: 1.2; margin: 4px 0 12px;
+               color: var(--head); letter-spacing: -.02em; }
+    .stats { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+    .stat { font-size: .8rem; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; }
+    .stat:first-child { background: light-dark(#fff7e6, #3a2a06); border-color: light-dark(#f5c26b, #7a5a12); font-weight: 600; }
+    .note { font-size: .85rem; color: var(--muted); margin: 0 0 16px; }
+    .jump { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 24px; }
+    .chip { font-size: .8rem; text-decoration: none; color: var(--ink); background: var(--card);
+            border: 1px solid var(--line); border-left: 3px solid var(--k); border-radius: 6px; padding: 3px 10px; }
+    .chip:hover { border-color: var(--k); }
+    .chip.empty { color: var(--muted); }
+    .card { background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--k);
+            border-radius: 12px; padding: 18px clamp(16px, 3vw, 24px); margin-bottom: 18px; box-shadow: var(--shadow); }
+    .card h3 { display: flex; align-items: center; gap: 10px; font-size: 1.05rem; margin: 0 0 8px; color: var(--head); }
+    .dot { width: 10px; height: 10px; border-radius: 50%; background: var(--k); flex: none; }
+    .count { margin-left: auto; font-size: .75rem; font-weight: 600; color: var(--k);
+             background: color-mix(in srgb, var(--k) 14%, transparent); border-radius: 999px; padding: 1px 9px; }
+    .card.empty { box-shadow: none; background: transparent; border-style: dashed; border-top-style: solid; padding-block: 12px; }
+    .card.empty p { color: var(--muted); margin: 0; font-size: .9rem; }
+    .card.k-snowflake:not(.empty) { background: linear-gradient(180deg, color-mix(in srgb, var(--k) 9%, var(--card)), var(--card) 70%); }
+    .k-snowflake { --k: #29b5e8; } .k-subsid { --k: #8b5cf6; } .k-top { --k: #0f62fe; } .k-people { --k: #10b981; }
+    .k-compet { --k: #f97316; } .k-coming { --k: #eab308; } .k-also { --k: #94a3b8; } .k-manual { --k: #64748b; } .k-other { --k: #94a3b8; }
+    .story { position: relative; padding: 16px 0 6px 44px; border-top: 1px solid var(--line); }
+    .story:first-of-type { border-top: 0; padding-top: 6px; }
+    .num { position: absolute; left: 0; top: 16px; width: 30px; height: 30px; border-radius: 50%;
+           display: grid; place-items: center; font-size: .85rem; font-weight: 700;
+           color: var(--k); background: color-mix(in srgb, var(--k) 12%, transparent); }
+    .story:first-of-type .num { top: 6px; }
+    .story h4 { font-size: 1.02rem; line-height: 1.35; margin: 2px 0 4px; color: var(--head); }
+    .meta { font-size: .78rem; color: var(--muted); margin: 0 0 6px; text-transform: none; }
+    .story p { margin: 0 0 8px; }
+    ul { padding-left: 1.1em; margin: 6px 0; }
+    li { margin: 4px 0; }
+    li.lbl { list-style: none; margin-left: -1.1em; display: grid; grid-template-columns: 128px 1fr; gap: 12px; font-size: .92rem; }
+    .tag { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em;
+           align-self: start; padding: 2px 8px; white-space: nowrap; border-radius: 4px; text-align: center; margin-top: 2px; }
+    .lbl-why .tag { color: #0f62fe; background: color-mix(in srgb, #0f62fe 12%, transparent); }
+    .lbl-follow .tag { color: #059669; background: color-mix(in srgb, #10b981 14%, transparent); }
+    .lbl-source .tag { color: var(--muted); background: color-mix(in srgb, #94a3b8 16%, transparent); }
+    .lbl-source { font-size: .85rem; }
+    @media (max-width: 560px) { li.lbl { grid-template-columns: 1fr; gap: 2px; } .tag { justify-self: start; } .story { padding-left: 0; } .num { position: static; display: inline-grid; margin-bottom: 4px; } }
+    section.digest[hidden] { display: none; }
+    footer { text-align: center; font-size: .8rem; color: var(--muted); padding-bottom: 32px; }
   </style>
 </head>
 <body>
-  <h1>Capgemini news digest</h1>
-  <div class="bar">
-    <label for="week">Week</label>
-    <select id="week">
-      <option value="w2026-10-16" selected>Week ending 2026-10-16</option>
+  <div class="top"><div class="top-in">
+    <div class="brand"><div class="logo" aria-hidden="true">C</div>
+      <div><h1>Capgemini news digest</h1><div class="sub">Weekly partner intel for the Snowflake team - 2 weeks</div></div></div>
+    <div class="picker">
+      <button id="prev" aria-label="Previous (older) week" title="Older week">&#8249;</button>
+      <label class="sub" for="week" style="position:absolute;left:-9999px">Week</label>
+      <select id="week">
+      <option value="w2026-10-16" selected>Week ending 2026-10-16 (latest)</option>
       <option value="w2026-10-09">Week ending 2026-10-09</option>
-    </select>
-    <span class="muted">2 weeks - built 2026-10-16</span>
-  </div>
+      </select>
+      <button id="next" aria-label="Next (newer) week" title="Newer week">&#8250;</button>
+    </div>
+  </div></div>
+  <main>
   <section class="digest" id="w2026-10-16">
-<h2>Capgemini news - week of 9-16 October 2026</h2>
-<p>Status: DRAFT | Sources: 191 raw, 96 after collector, 31 kept in 11 stories | Judged: <code>raw/capgemini/2026-10-16.judged.json</code></p>
-<p>&quot;Why it matters&quot; and &quot;Follow-up&quot; lines are suggestions, not facts.</p>
-<h3>Snowflake mentions</h3>
-<p>None this week.</p>
-<h3>Subsidiaries (WNS, Kipi.ai)</h3>
-<p>None this week. (3 WNS website pages dropped as marketing.)</p>
-<h3>Top stories</h3>
-<h4>1. US suspends Capgemini from the PERM green-card program</h4>
-<p>Oct 9-14 | Les Affaires, Le Figaro, TradingView/Mint and others (8 articles)<br>The US administration suspended Capgemini, Microsoft and several IT services firms from PERM labour certification. Le Figaro reports Capgemini obtained 360 green cards through PERM in fiscal 2025; Indian analysts (Kotak) expect limited margin impact.</p>
-<ul>
-<li>Why it matters: pressure on Capgemini&#x27;s US staffing and onshore delivery.</li>
-<li>Follow-up: ask Capgemini US alliance contacts whether joint delivery teams are affected.</li>
-<li>Source: <a href="https://www.lesaffaires.com/bourse/microsoft-privee-de-permis-de-residence-permanente-pour-ses-salaries-par-le-gouvernement-americain/" target="_blank" rel="noopener noreferrer">Les Affaires</a>, <a href="https://www.lefigaro.fr/economie/prives-de-green-cards-pour-leurs-employes-microsoft-et-capgemini-dans-le-viseur-de-l-administration-trump-20261009" target="_blank" rel="noopener noreferrer">Le Figaro</a></li>
-</ul>
-<h4>2. Gartner names Capgemini &quot;Company to Beat&quot; for Sovereign AI Services</h4>
-<p>Oct 10 | Capgemini<br>Capgemini highlights Gartner&#x27;s 9 September report naming it Company to Beat for Sovereign AI Services.</p>
-<ul>
-<li>Why it matters: sovereignty is Capgemini&#x27;s lead AI message in Europe.</li>
-<li>Follow-up: bring Snowflake&#x27;s sovereignty and regional deployment story into joint EMEA pitches.</li>
-<li>Source: <a href="https://www.capgemini.com/be-en/news/analyst-recognition/capgemini-recognized-by-gartner-as-the-company-to-beat-for-sovereign-ai-services-in-the-september-9-2026-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>3. Research: 68% of automotive firms use or pilot agentic AI, only 5% have mature governance</h4>
-<p>Oct 12-13 | Capgemini Research Institute; ZDNET, LeMagIT, Autocar Professional, ET Auto, Fortune India, CXOToday (11 articles)<br>Survey of 800 automotive executives. Leaders credit stronger data foundations and governance rather than AI adoption itself.</p>
-<ul>
-<li>Why it matters: Capgemini frames data foundations as the blocker to scaling agentic AI - aligned with Snowflake&#x27;s data + AI governance story.</li>
-<li>Follow-up: use as a hook for joint automotive accounts.</li>
-<li>Source: <a href="https://www.capgemini.com/insights/research-library/ai-in-product-development/" target="_blank" rel="noopener noreferrer">Capgemini research</a></li>
-</ul>
-<h4>4. Client story: UK Ministry of Defence scales ADAPT procurement tool</h4>
-<p>Oct 12 | Capgemini<br>Unified procurement workflow scaled from the RAF to Navy, Army and Defence Digital; repeat deployments in 13 instead of 24 weeks, 30-40% cheaper.</p>
-<ul>
-<li>Why it matters: shows Capgemini&#x27;s reuse-and-scale model in UK public sector; application, not data platform.</li>
-<li>Source: <a href="https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/ministry-of-defence-scales-accelerated-define-and-procure-tool-to-modernize-and-standardize-procurement-workflows/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>5. Client story: Iberdrola runs portfolio management on ServiceNow PPMNow</h4>
-<p>Oct 12 | Capgemini<br>Capgemini implemented PPMNow on ServiceNow for Iberdrola&#x27;s global digital portfolio, integrated with legacy systems.</p>
-<ul>
-<li>Why it matters: active Capgemini-Iberdrola relationship and ServiceNow depth in utilities.</li>
-<li>Source: <a href="https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>6. Client story: Henkel Consumer Brands automates product carbon footprints</h4>
-<p>Oct 10 | Capgemini<br>Capgemini adapted Henkel&#x27;s HEART tool to calculate cradle-to-gate product carbon footprints for more than 50,000 consumer products.</p>
-<ul>
-<li>Why it matters: data-heavy sustainability use case at a large manufacturing client.</li>
-<li>Source: <a href="https://www.capgemini.com/nz-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h3>People &amp; org changes</h3>
-<ul>
-<li>Pratibha Sharma promoted to Vice President at Capgemini (Oct 9-15; role details not verified - source blocked). <a href="https://hrtoday.in/pratibha-sharma-elevated-to-vice-president-at-capgemini/" target="_blank" rel="noopener noreferrer">HR Today</a></li>
-</ul>
-<h3>Competitor partnerships (Databricks, Fabric, BigQuery, ...)</h3>
-<p>None this week.</p>
-<h3>Coming up</h3>
-<ul>
-<li>22 October: Capgemini is Knowledge Partner at AIRF 2026, Dubai (&quot;Agentic AI: From Mandate to Momentum&quot;). <a href="https://www.capgemini.com/ae-en/event/from-ai-mandate-to-momentum-capgemini-joins-airf-2026-as-knowledge-partner/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>30 October: Capgemini Q3 2026 revenues. <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">Investor calendar</a></li>
-</ul>
-<h3>Also noted</h3>
-<ul>
-<li>Sustainability in Action 2026: 1,000 sustainability leaders across five sectors (Oct 9-13). <a href="https://www.capgemini.com/fr-fr/perspectives/publications/sustainability-in-action-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>Holiday shopping: 65% of consumers plan to use AI, only 8% of retailers ready (Oct 12). <a href="https://www.capgemini.com/insights/expert-perspectives/how-ai-is-reshaping-holiday-shopping-in-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>Insurance research: 47% consider life insurance, cost and complexity block purchases (Oct 13-14). <a href="https://ceo.com.pl/en/capgemini-life-insurance-report-2027-consumers-purchase-barriers-41217/" target="_blank" rel="noopener noreferrer">CEO Magazyn</a></li>
-</ul>
-<h3>Manual checks</h3>
-<ul>
-<li>LinkedIn page: <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/capgemini/</a></li>
-<li>Press releases: <a href="https://www.capgemini.com/news/press-releases/" target="_blank" rel="noopener noreferrer">https://www.capgemini.com/news/press-releases/</a></li>
-<li>Investor calendar: <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">https://investors.capgemini.com/en/</a></li>
-</ul>
+<header class="week"><h2>Capgemini news - week of 9-16 October 2026</h2><div class="stats"><span class="stat">Status: DRAFT</span><span class="stat">Sources: 191 raw, 96 after collector, 31 kept in 11 stories</span><span class="stat">Judged: <code>raw/capgemini/2026-10-16.judged.json</code></span></div><p class="note">&quot;Why it matters&quot; and &quot;Follow-up&quot; lines are suggestions, not facts.</p><nav class="jump"><a class="chip k-snowflake empty" href="#w2026-10-16-snowflake-mentions">Snowflake mentions</a><a class="chip k-subsid empty" href="#w2026-10-16-subsidiaries-wns-kipi-ai">Subsidiaries</a><a class="chip k-top" href="#w2026-10-16-top-stories">Top stories</a><a class="chip k-people" href="#w2026-10-16-people-org-changes">People &amp; org changes</a><a class="chip k-compet empty" href="#w2026-10-16-competitor-partnerships-databricks-fabri">Competitor partnerships</a><a class="chip k-coming" href="#w2026-10-16-coming-up">Coming up</a><a class="chip k-also" href="#w2026-10-16-also-noted">Also noted</a><a class="chip k-manual" href="#w2026-10-16-manual-checks">Manual checks</a></nav></header><section class="card k-snowflake empty" id="w2026-10-16-snowflake-mentions"><h3><span class="dot"></span>Snowflake mentions</h3><p>None this week.</p></section><section class="card k-subsid empty" id="w2026-10-16-subsidiaries-wns-kipi-ai"><h3><span class="dot"></span>Subsidiaries (WNS, Kipi.ai)</h3><p>None this week. (3 WNS website pages dropped as marketing.)</p></section><section class="card k-top" id="w2026-10-16-top-stories"><h3><span class="dot"></span>Top stories<span class="count">6</span></h3><article class="story"><span class=num>1</span><h4>US suspends Capgemini from the PERM green-card program</h4><p class="meta">Oct 9-14 | Les Affaires, Le Figaro, TradingView/Mint and others (8 articles)</p><p>The US administration suspended Capgemini, Microsoft and several IT services firms from PERM labour certification. Le Figaro reports Capgemini obtained 360 green cards through PERM in fiscal 2025; Indian analysts (Kotak) expect limited margin impact.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>pressure on Capgemini&#x27;s US staffing and onshore delivery.</span></li><li class="lbl lbl-follow"><span class="tag">Follow-up</span><span>ask Capgemini US alliance contacts whether joint delivery teams are affected.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.lesaffaires.com/bourse/microsoft-privee-de-permis-de-residence-permanente-pour-ses-salaries-par-le-gouvernement-americain/" target="_blank" rel="noopener noreferrer">Les Affaires</a>, <a href="https://www.lefigaro.fr/economie/prives-de-green-cards-pour-leurs-employes-microsoft-et-capgemini-dans-le-viseur-de-l-administration-trump-20261009" target="_blank" rel="noopener noreferrer">Le Figaro</a></span></li></ul></article><article class="story"><span class=num>2</span><h4>Gartner names Capgemini &quot;Company to Beat&quot; for Sovereign AI Services</h4><p class="meta">Oct 10 | Capgemini</p><p>Capgemini highlights Gartner&#x27;s 9 September report naming it Company to Beat for Sovereign AI Services.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>sovereignty is Capgemini&#x27;s lead AI message in Europe.</span></li><li class="lbl lbl-follow"><span class="tag">Follow-up</span><span>bring Snowflake&#x27;s sovereignty and regional deployment story into joint EMEA pitches.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/be-en/news/analyst-recognition/capgemini-recognized-by-gartner-as-the-company-to-beat-for-sovereign-ai-services-in-the-september-9-2026-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>3</span><h4>Research: 68% of automotive firms use or pilot agentic AI, only 5% have mature governance</h4><p class="meta">Oct 12-13 | Capgemini Research Institute; ZDNET, LeMagIT, Autocar Professional, ET Auto, Fortune India, CXOToday (11 articles)</p><p>Survey of 800 automotive executives. Leaders credit stronger data foundations and governance rather than AI adoption itself.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>Capgemini frames data foundations as the blocker to scaling agentic AI - aligned with Snowflake&#x27;s data + AI governance story.</span></li><li class="lbl lbl-follow"><span class="tag">Follow-up</span><span>use as a hook for joint automotive accounts.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/insights/research-library/ai-in-product-development/" target="_blank" rel="noopener noreferrer">Capgemini research</a></span></li></ul></article><article class="story"><span class=num>4</span><h4>Client story: UK Ministry of Defence scales ADAPT procurement tool</h4><p class="meta">Oct 12 | Capgemini</p><p>Unified procurement workflow scaled from the RAF to Navy, Army and Defence Digital; repeat deployments in 13 instead of 24 weeks, 30-40% cheaper.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>shows Capgemini&#x27;s reuse-and-scale model in UK public sector; application, not data platform.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/ministry-of-defence-scales-accelerated-define-and-procure-tool-to-modernize-and-standardize-procurement-workflows/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>5</span><h4>Client story: Iberdrola runs portfolio management on ServiceNow PPMNow</h4><p class="meta">Oct 12 | Capgemini</p><p>Capgemini implemented PPMNow on ServiceNow for Iberdrola&#x27;s global digital portfolio, integrated with legacy systems.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>active Capgemini-Iberdrola relationship and ServiceNow depth in utilities.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>6</span><h4>Client story: Henkel Consumer Brands automates product carbon footprints</h4><p class="meta">Oct 10 | Capgemini</p><p>Capgemini adapted Henkel&#x27;s HEART tool to calculate cradle-to-gate product carbon footprints for more than 50,000 consumer products.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>data-heavy sustainability use case at a large manufacturing client.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/nz-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article></section><section class="card k-people" id="w2026-10-16-people-org-changes"><h3><span class="dot"></span>People &amp; org changes<span class="count">1</span></h3><ul><li>Pratibha Sharma promoted to Vice President at Capgemini (Oct 9-15; role details not verified - source blocked). <a href="https://hrtoday.in/pratibha-sharma-elevated-to-vice-president-at-capgemini/" target="_blank" rel="noopener noreferrer">HR Today</a></li></ul></section><section class="card k-compet empty" id="w2026-10-16-competitor-partnerships-databricks-fabri"><h3><span class="dot"></span>Competitor partnerships (Databricks, Fabric, BigQuery, ...)</h3><p>None this week.</p></section><section class="card k-coming" id="w2026-10-16-coming-up"><h3><span class="dot"></span>Coming up<span class="count">2</span></h3><ul><li>22 October: Capgemini is Knowledge Partner at AIRF 2026, Dubai (&quot;Agentic AI: From Mandate to Momentum&quot;). <a href="https://www.capgemini.com/ae-en/event/from-ai-mandate-to-momentum-capgemini-joins-airf-2026-as-knowledge-partner/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>30 October: Capgemini Q3 2026 revenues. <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">Investor calendar</a></li></ul></section><section class="card k-also" id="w2026-10-16-also-noted"><h3><span class="dot"></span>Also noted<span class="count">3</span></h3><ul><li>Sustainability in Action 2026: 1,000 sustainability leaders across five sectors (Oct 9-13). <a href="https://www.capgemini.com/fr-fr/perspectives/publications/sustainability-in-action-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>Holiday shopping: 65% of consumers plan to use AI, only 8% of retailers ready (Oct 12). <a href="https://www.capgemini.com/insights/expert-perspectives/how-ai-is-reshaping-holiday-shopping-in-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>Insurance research: 47% consider life insurance, cost and complexity block purchases (Oct 13-14). <a href="https://ceo.com.pl/en/capgemini-life-insurance-report-2027-consumers-purchase-barriers-41217/" target="_blank" rel="noopener noreferrer">CEO Magazyn</a></li></ul></section><section class="card k-manual" id="w2026-10-16-manual-checks"><h3><span class="dot"></span>Manual checks<span class="count">3</span></h3><ul><li>LinkedIn page: <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/capgemini/</a></li><li>Press releases: <a href="https://www.capgemini.com/news/press-releases/" target="_blank" rel="noopener noreferrer">https://www.capgemini.com/news/press-releases/</a></li><li>Investor calendar: <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">https://investors.capgemini.com/en/</a></li></ul></section>
   </section>
   <section class="digest" id="w2026-10-09">
-<h2>Capgemini news - week of 3-9 October 2026</h2>
-<p>Status: DRAFT (test run) | Sources: 216 raw, 103 after collector, 49 kept in 15 stories | Judged: <code>raw/capgemini/2026-10-09.judged.json</code></p>
-<p>&quot;Why it matters&quot; and &quot;Follow-up&quot; lines are suggestions, not facts.</p>
-<h3>Snowflake mentions</h3>
-<ul>
-<li>Kipi.ai, &quot;part of Capgemini&quot;, named Snowflake&#x27;s 2026 Global Telecom Partner of the Year - its fifth Snowflake Partner award. The award was given at Snowflake Summit 2026 (June); the page surfaced in news this week. <a href="https://www.kipi.ai/insights/blog/kipi-ai-named-2026-snowflake-global-telecom-partner-of-the-year" target="_blank" rel="noopener noreferrer">Kipi.ai</a></li>
-<li>Passing mention: HackerRank&#x27;s AI interviewer Chakra lists Snowflake and Capgemini among companies that tested it in beta (Oct 5). <a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/" target="_blank" rel="noopener noreferrer">TechCrunch</a></li>
-</ul>
-<h3>Subsidiaries (WNS, Kipi.ai)</h3>
-<ul>
-<li>See the Kipi.ai award above. No WNS news.</li>
-</ul>
-<h3>Top stories</h3>
-<h4>1. US suspends Capgemini from the PERM green-card program</h4>
-<p>Oct 8-9 | CNBC, Le Figaro, Times of India, Economic Times, heise and others (30 articles)<br>The US Department of Labor will not accept or process new Permanent Labor Certification applications for Cognizant, Infosys, Capgemini, Tata, Wipro and HCL; Microsoft and Adobe were suspended citing active federal investigations.</p>
-<ul>
-<li>Why it matters: pressure on Capgemini&#x27;s US staffing and onshore delivery.</li>
-<li>Follow-up: ask Capgemini US alliance contacts whether joint delivery teams are affected.</li>
-<li>Source: <a href="https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html" target="_blank" rel="noopener noreferrer">CNBC</a></li>
-</ul>
-<h4>2. HFS names Capgemini a Horizon 3 GCC Orchestrator (Market Leader)</h4>
-<p>Oct 8 | Capgemini<br>HFS Horizons evaluated 24 providers on evolving Global Capability Centers into AI-enabled, outcome-driven hubs.</p>
-<ul>
-<li>Why it matters: GCC build-and-operate is a growing route into large enterprises&#x27; data and AI teams.</li>
-<li>Source: <a href="https://www.capgemini.com/us-en/news/analyst-recognition/capgemini-has-been-positioned-by-hfs-research-as-a-horizon-3-gcc-orchestrator-market-leader-in-the-2026-hfs-horizons-global-capability-centers-gcc-services-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>3. Capgemini and ServiceNow: governed AI with Microsoft Agent 365 and AI Control Tower</h4>
-<p>Oct 7 | Aerocontact (Capgemini video)<br>Joint offer to govern, secure and scale AI agents across Microsoft Agent 365 and ServiceNow AI Control Tower.</p>
-<ul>
-<li>Why it matters: Capgemini is packaging agent governance with ServiceNow and Microsoft - a space where Snowflake Horizon and Cortex Agents compete for the data layer.</li>
-<li>Source: <a href="https://www.aerocontact.com/videos/157286-capgemini-and-servicenow-partner-for-governed-ai-with-agent-365-and-ai-control-tower" target="_blank" rel="noopener noreferrer">Aerocontact</a></li>
-</ul>
-<h4>4. Client story: Beobank modernises HR on SAP</h4>
-<p>Oct 7 | Capgemini<br>Capgemini and SAP automated HR processes at Beobank (Belgian retail bank, ~800,000 clients), including merit, bonus and performance-linked rewards.</p>
-<ul>
-<li>Source: <a href="https://www.capgemini.com/us-en/news/client-stories/beobank-builds-a-scalable-people-platform-to-improve-employee-experience-and-business-agility/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>5. Client story: Henkel Consumer Brands automates product carbon footprints</h4>
-<p>Oct 7-9 | Capgemini, Sustainability Magazine<br>HEART tool adapted to calculate cradle-to-gate product carbon footprints for more than 50,000 consumer products.</p>
-<ul>
-<li>Why it matters: data-heavy sustainability use case at a large manufacturing client.</li>
-<li>Source: <a href="https://www.capgemini.com/us-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h4>6. Client story: Iberdrola runs portfolio management on ServiceNow PPMNow</h4>
-<p>Oct 6 | Capgemini<br>Capgemini implemented PPMNow on ServiceNow for Iberdrola&#x27;s global digital portfolio.</p>
-<ul>
-<li>Source: <a href="https://www.capgemini.com/be-en/news/client-stories/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-</ul>
-<h3>People &amp; org changes</h3>
-<ul>
-<li>Pratibha Sharma promoted to Vice President at Capgemini (Oct 9). <a href="https://veloxxmedia.com/pratibha-sharma-has-been-elevated-to-vice-president-at-capgemini/" target="_blank" rel="noopener noreferrer">Veloxx Media</a></li>
-</ul>
-<h3>Competitor partnerships (Databricks, Fabric, BigQuery, ...)</h3>
-<p>None this week.</p>
-<h3>Coming up</h3>
-<ul>
-<li>30 October: Capgemini Q3 2026 revenues. <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">Investor calendar</a></li>
-</ul>
-<h3>Also noted</h3>
-<ul>
-<li>Expert perspective &quot;Scale AI with trusted data&quot;: fragmented, outdated data - not models - blocks enterprise AI (Oct 6). <a href="https://www.capgemini.com/insights/expert-perspectives/scale-ai-with-trusted-data/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>Sustainability in Action 2026 report launched (Oct 3). <a href="https://www.capgemini.com/fi-en/insights/research-library/sustainability-in-action-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>UK cut of climate research: 84% of UK organisations felt climate impact on revenue (Oct 7). <a href="https://environment-analyst.com/global/111727/capgemini-report-84-of-uk-organisations-have-felt-climates-impact-on-revenues" target="_blank" rel="noopener noreferrer">Environment Analyst</a></li>
-<li>Public-sector AI research for the Middle East and Singapore (Oct 6-7). <a href="https://www.capgemini.com/ae-en/insights/expert-perspectives/a-growing-share-of-middle-eastern-public-sector-organizations-are-scaling-ai-with-success/" target="_blank" rel="noopener noreferrer">Capgemini</a></li>
-<li>NIET and Capgemini open CodeXperience Center, Greater Noida (Oct 6-7). <a href="https://bestcolleges.indiatoday.in/latest-news/niet-capgemini-launch-codexperience-center-at-greater-noida-campus-11916" target="_blank" rel="noopener noreferrer">India Today</a></li>
-<li>Capgemini and BMW executives on AI in automotive (Oct 6; video, not checked). <a href="https://www.autonews.com/video/capgemini-and-bmw-executives-outline-how-ai-is-giving-automakers-superpowers/" target="_blank" rel="noopener noreferrer">Automotive News</a></li>
-</ul>
-<h3>Manual checks</h3>
-<ul>
-<li>LinkedIn page: <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/capgemini/</a></li>
-<li>Press releases: <a href="https://www.capgemini.com/news/press-releases/" target="_blank" rel="noopener noreferrer">https://www.capgemini.com/news/press-releases/</a></li>
-<li>Investor calendar: <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">https://investors.capgemini.com/en/</a></li>
-</ul>
+<header class="week"><h2>Capgemini news - week of 3-9 October 2026</h2><div class="stats"><span class="stat">Status: DRAFT (test run)</span><span class="stat">Sources: 216 raw, 103 after collector, 49 kept in 15 stories</span><span class="stat">Judged: <code>raw/capgemini/2026-10-09.judged.json</code></span></div><p class="note">&quot;Why it matters&quot; and &quot;Follow-up&quot; lines are suggestions, not facts.</p><nav class="jump"><a class="chip k-snowflake" href="#w2026-10-09-snowflake-mentions">Snowflake mentions</a><a class="chip k-subsid" href="#w2026-10-09-subsidiaries-wns-kipi-ai">Subsidiaries</a><a class="chip k-top" href="#w2026-10-09-top-stories">Top stories</a><a class="chip k-people" href="#w2026-10-09-people-org-changes">People &amp; org changes</a><a class="chip k-compet empty" href="#w2026-10-09-competitor-partnerships-databricks-fabri">Competitor partnerships</a><a class="chip k-coming" href="#w2026-10-09-coming-up">Coming up</a><a class="chip k-also" href="#w2026-10-09-also-noted">Also noted</a><a class="chip k-manual" href="#w2026-10-09-manual-checks">Manual checks</a></nav></header><section class="card k-snowflake" id="w2026-10-09-snowflake-mentions"><h3><span class="dot"></span>Snowflake mentions<span class="count">2</span></h3><ul><li>Kipi.ai, &quot;part of Capgemini&quot;, named Snowflake&#x27;s 2026 Global Telecom Partner of the Year - its fifth Snowflake Partner award. The award was given at Snowflake Summit 2026 (June); the page surfaced in news this week. <a href="https://www.kipi.ai/insights/blog/kipi-ai-named-2026-snowflake-global-telecom-partner-of-the-year" target="_blank" rel="noopener noreferrer">Kipi.ai</a></li><li>Passing mention: HackerRank&#x27;s AI interviewer Chakra lists Snowflake and Capgemini among companies that tested it in beta (Oct 5). <a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/" target="_blank" rel="noopener noreferrer">TechCrunch</a></li></ul></section><section class="card k-subsid" id="w2026-10-09-subsidiaries-wns-kipi-ai"><h3><span class="dot"></span>Subsidiaries (WNS, Kipi.ai)<span class="count">1</span></h3><ul><li>See the Kipi.ai award above. No WNS news.</li></ul></section><section class="card k-top" id="w2026-10-09-top-stories"><h3><span class="dot"></span>Top stories<span class="count">6</span></h3><article class="story"><span class=num>1</span><h4>US suspends Capgemini from the PERM green-card program</h4><p class="meta">Oct 8-9 | CNBC, Le Figaro, Times of India, Economic Times, heise and others (30 articles)</p><p>The US Department of Labor will not accept or process new Permanent Labor Certification applications for Cognizant, Infosys, Capgemini, Tata, Wipro and HCL; Microsoft and Adobe were suspended citing active federal investigations.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>pressure on Capgemini&#x27;s US staffing and onshore delivery.</span></li><li class="lbl lbl-follow"><span class="tag">Follow-up</span><span>ask Capgemini US alliance contacts whether joint delivery teams are affected.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html" target="_blank" rel="noopener noreferrer">CNBC</a></span></li></ul></article><article class="story"><span class=num>2</span><h4>HFS names Capgemini a Horizon 3 GCC Orchestrator (Market Leader)</h4><p class="meta">Oct 8 | Capgemini</p><p>HFS Horizons evaluated 24 providers on evolving Global Capability Centers into AI-enabled, outcome-driven hubs.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>GCC build-and-operate is a growing route into large enterprises&#x27; data and AI teams.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/us-en/news/analyst-recognition/capgemini-has-been-positioned-by-hfs-research-as-a-horizon-3-gcc-orchestrator-market-leader-in-the-2026-hfs-horizons-global-capability-centers-gcc-services-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>3</span><h4>Capgemini and ServiceNow: governed AI with Microsoft Agent 365 and AI Control Tower</h4><p class="meta">Oct 7 | Aerocontact (Capgemini video)</p><p>Joint offer to govern, secure and scale AI agents across Microsoft Agent 365 and ServiceNow AI Control Tower.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>Capgemini is packaging agent governance with ServiceNow and Microsoft - a space where Snowflake Horizon and Cortex Agents compete for the data layer.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.aerocontact.com/videos/157286-capgemini-and-servicenow-partner-for-governed-ai-with-agent-365-and-ai-control-tower" target="_blank" rel="noopener noreferrer">Aerocontact</a></span></li></ul></article><article class="story"><span class=num>4</span><h4>Client story: Beobank modernises HR on SAP</h4><p class="meta">Oct 7 | Capgemini</p><p>Capgemini and SAP automated HR processes at Beobank (Belgian retail bank, ~800,000 clients), including merit, bonus and performance-linked rewards.</p><ul><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/us-en/news/client-stories/beobank-builds-a-scalable-people-platform-to-improve-employee-experience-and-business-agility/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>5</span><h4>Client story: Henkel Consumer Brands automates product carbon footprints</h4><p class="meta">Oct 7-9 | Capgemini, Sustainability Magazine</p><p>HEART tool adapted to calculate cradle-to-gate product carbon footprints for more than 50,000 consumer products.</p><ul><li class="lbl lbl-why"><span class="tag">Why it matters</span><span>data-heavy sustainability use case at a large manufacturing client.</span></li><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/us-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article><article class="story"><span class=num>6</span><h4>Client story: Iberdrola runs portfolio management on ServiceNow PPMNow</h4><p class="meta">Oct 6 | Capgemini</p><p>Capgemini implemented PPMNow on ServiceNow for Iberdrola&#x27;s global digital portfolio.</p><ul><li class="lbl lbl-source"><span class="tag">Source</span><span><a href="https://www.capgemini.com/be-en/news/client-stories/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/" target="_blank" rel="noopener noreferrer">Capgemini</a></span></li></ul></article></section><section class="card k-people" id="w2026-10-09-people-org-changes"><h3><span class="dot"></span>People &amp; org changes<span class="count">1</span></h3><ul><li>Pratibha Sharma promoted to Vice President at Capgemini (Oct 9). <a href="https://veloxxmedia.com/pratibha-sharma-has-been-elevated-to-vice-president-at-capgemini/" target="_blank" rel="noopener noreferrer">Veloxx Media</a></li></ul></section><section class="card k-compet empty" id="w2026-10-09-competitor-partnerships-databricks-fabri"><h3><span class="dot"></span>Competitor partnerships (Databricks, Fabric, BigQuery, ...)</h3><p>None this week.</p></section><section class="card k-coming" id="w2026-10-09-coming-up"><h3><span class="dot"></span>Coming up<span class="count">1</span></h3><ul><li>30 October: Capgemini Q3 2026 revenues. <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">Investor calendar</a></li></ul></section><section class="card k-also" id="w2026-10-09-also-noted"><h3><span class="dot"></span>Also noted<span class="count">6</span></h3><ul><li>Expert perspective &quot;Scale AI with trusted data&quot;: fragmented, outdated data - not models - blocks enterprise AI (Oct 6). <a href="https://www.capgemini.com/insights/expert-perspectives/scale-ai-with-trusted-data/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>Sustainability in Action 2026 report launched (Oct 3). <a href="https://www.capgemini.com/fi-en/insights/research-library/sustainability-in-action-2026/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>UK cut of climate research: 84% of UK organisations felt climate impact on revenue (Oct 7). <a href="https://environment-analyst.com/global/111727/capgemini-report-84-of-uk-organisations-have-felt-climates-impact-on-revenues" target="_blank" rel="noopener noreferrer">Environment Analyst</a></li><li>Public-sector AI research for the Middle East and Singapore (Oct 6-7). <a href="https://www.capgemini.com/ae-en/insights/expert-perspectives/a-growing-share-of-middle-eastern-public-sector-organizations-are-scaling-ai-with-success/" target="_blank" rel="noopener noreferrer">Capgemini</a></li><li>NIET and Capgemini open CodeXperience Center, Greater Noida (Oct 6-7). <a href="https://bestcolleges.indiatoday.in/latest-news/niet-capgemini-launch-codexperience-center-at-greater-noida-campus-11916" target="_blank" rel="noopener noreferrer">India Today</a></li><li>Capgemini and BMW executives on AI in automotive (Oct 6; video, not checked). <a href="https://www.autonews.com/video/capgemini-and-bmw-executives-outline-how-ai-is-giving-automakers-superpowers/" target="_blank" rel="noopener noreferrer">Automotive News</a></li></ul></section><section class="card k-manual" id="w2026-10-09-manual-checks"><h3><span class="dot"></span>Manual checks<span class="count">3</span></h3><ul><li>LinkedIn page: <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/capgemini/</a></li><li>Press releases: <a href="https://www.capgemini.com/news/press-releases/" target="_blank" rel="noopener noreferrer">https://www.capgemini.com/news/press-releases/</a></li><li>Investor calendar: <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">https://investors.capgemini.com/en/</a></li></ul></section>
   </section>
+  </main>
+  <footer>Built 2026-10-16 from public sources. Suggestions are not facts - check the linked articles.</footer>
   <script>
     // Static page: all weeks are pre-rendered; this only shows the selected one.
-    var weekEl = document.getElementById('week');
-    function show(id) {
-      document.querySelectorAll('section.digest').forEach(function (s) { s.hidden = s.id !== id; });
+    var weekEl = document.getElementById('week'), prev = document.getElementById('prev'), next = document.getElementById('next');
+    function show() {
+      document.querySelectorAll('section.digest').forEach(function (s) { s.hidden = s.id !== weekEl.value; });
+      next.disabled = weekEl.selectedIndex === 0;
+      prev.disabled = weekEl.selectedIndex === weekEl.options.length - 1;
       window.scrollTo(0, 0);
     }
-    weekEl.addEventListener('change', function () { show(weekEl.value); });
-    show(weekEl.value);
+    function step(d) { weekEl.selectedIndex += d; show(); }
+    // In-page jumps: <base target="_top"> would navigate the Apps Script wrapper instead.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest('a.chip');
+      if (!a) return;
+      e.preventDefault();
+      var t = document.getElementById(a.getAttribute('href').slice(1));
+      if (t) t.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    weekEl.addEventListener('change', show);
+    prev.addEventListener('click', function () { step(1); });
+    next.addEventListener('click', function () { step(-1); });
+    show();
   </script>
 </body>
 </html>
