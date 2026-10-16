@@ -1,6 +1,7 @@
 ---
 type: Decision
-status: Accepted
+status: Superseded
+superseded_by: 0012-static-page-apps-script.md
 description: Publish approved digests as Markdown files in a Drive folder and view them through a Google Apps Script web app that reads the folder on every visit.
 generated:
   by: cortex-code/claude-opus-5-5

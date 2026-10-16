@@ -8,3 +8,4 @@
 - **Accepted**: decisions 0007-0010 (human:bwrobel).
 - **Updated**: `research/filter-quality.md` - results after 0007; first real digest `digests/capgemini/digest-2026-10-16.md`.
 - **Added**: `decisions/0011-drive-viewer-apps-script.md`; `apps-script/` viewer; first digest uploaded to Drive.
+- **Added**: `decisions/0012-static-page-apps-script.md` (supersedes 0011); `build_site.py`; static page uploaded to Drive.

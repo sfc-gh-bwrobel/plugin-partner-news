@@ -24,7 +24,8 @@ How to read: `decisions/` are ADRs (`type: Decision`, status Proposed / Accepted
 | [0008](decisions/0008-cadence-and-runtime.md) | Weekly Monday digest via Desktop automation | Accepted |
 | [0009](decisions/0009-delivery.md) | Two-week solo run, then #capgemini-global-partner | Accepted |
 | [0010](decisions/0010-subsidiaries-wns-kipi.md) | Track WNS and Kipi.ai as Capgemini subsidiaries | Accepted |
-| [0011](decisions/0011-drive-viewer-apps-script.md) | Drive folder + Apps Script viewer | Accepted |
+| [0011](decisions/0011-drive-viewer-apps-script.md) | Drive folder + Apps Script viewer | Superseded by 0012 |
+| [0012](decisions/0012-static-page-apps-script.md) | Static page, Apps Script serves the Drive file | Accepted |
 
 ## Research
 - [Sources](research/sources.md) - verified feeds and their volume
