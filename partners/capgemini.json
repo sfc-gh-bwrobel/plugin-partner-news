@@ -1,0 +1,77 @@
+{
+  "name": "Capgemini",
+  "noise_regex": "Aktie|Zertifikat|Bourse|hausse|baisse|share price|stock|Optionsschein|Kursziel|cours|CAC 40|DAX|dividend|Börse",
+  "feeds": [
+    {
+      "id": "capgemini-com",
+      "section": "general",
+      "url": "https://www.capgemini.com/feed/"
+    },
+    {
+      "id": "capgemini-de",
+      "section": "general",
+      "url": "https://www.capgemini.com/de-de/feed/"
+    }
+  ],
+  "google_news": {
+    "locales": [
+      {
+        "hl": "en-GB",
+        "gl": "GB",
+        "ceid": "GB:en"
+      },
+      {
+        "hl": "fr",
+        "gl": "FR",
+        "ceid": "FR:fr"
+      },
+      {
+        "hl": "de",
+        "gl": "DE",
+        "ceid": "DE:de"
+      }
+    ],
+    "queries": [
+      {
+        "section": "general",
+        "q": "Capgemini"
+      },
+      {
+        "section": "snowflake",
+        "q": "Capgemini Snowflake"
+      },
+      {
+        "section": "competitors",
+        "q": "Capgemini (Databricks OR \"Microsoft Fabric\" OR BigQuery OR Palantir)"
+      },
+      {
+        "section": "leadership",
+        "q": "Capgemini (appoints OR appointed OR elevated OR joins OR nomme OR ernennt)"
+      },
+      {
+        "section": "subsidiaries",
+        "q": "\"Kipi.ai\" OR site:kipi.ai"
+      },
+      {
+        "section": "subsidiaries",
+        "q": "\"WNS\" Capgemini OR site:wns.com"
+      },
+      {
+        "section": "snowflake",
+        "q": "(Kipi OR WNS) Snowflake"
+      }
+    ]
+  },
+  "manual_checks": [
+    "LinkedIn page: https://www.linkedin.com/company/capgemini/ (no API access - skim manually)",
+    "Press releases: https://www.capgemini.com/news/press-releases/",
+    "Investor calendar: https://investors.capgemini.com/en/"
+  ],
+  "section_title_regex": {
+    "snowflake": "Snowflake",
+    "subsidiaries": "\\bKipi\\b|\\bWNS\\b",
+    "competitors": "Databricks|Microsoft Fabric|BigQuery|Palantir|Teradata|Cloudera",
+    "leadership": "appoints [A-Z]|appointed|nomme [A-Z]|nommé|elevated|promoted|ernennt|steps down|new (CEO|CTO|CFO|head)"
+  },
+  "aliases_regex": "Capgemini|\\bWNS\\b|\\bKipi\\b"
+}

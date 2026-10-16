@@ -1,0 +1,5 @@
+{
+  "name": "partner-news",
+  "version": "0.1.0",
+  "description": "Weekly partner news digest (RSS + Google News) for internal Snowflake partner teams."
+}
