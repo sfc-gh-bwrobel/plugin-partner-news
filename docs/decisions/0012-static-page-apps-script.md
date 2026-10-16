@@ -31,4 +31,4 @@ Web app: https://script.google.com/a/macros/snowflake.com/s/AKfycbzyCkooeR8mRfkb
 - Weekly update = rebuild + replace one Drive file; no Apps Script changes.
 - Page also works opened directly from disk.
 - `digest-*.md` files in Drive are no longer required (kept as archive).
-- Option: `clasp` could push `Code.gs` from the repo; not needed while the script stays this small.
+- `Code.gs` and `appsscript.json` (web app: execute as owner, domain access, drive.readonly) are managed with clasp from `apps-script/`: `npx @google/clasp push -f` then `npx @google/clasp create-deployment -i <deploymentId>` keeps the same /exec URL. Only needed when the script changes, not for new weeks.
