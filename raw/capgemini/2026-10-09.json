@@ -1,0 +1,1052 @@
+{
+ "partner": "Capgemini",
+ "days": 7,
+ "end": "2026-10-09",
+ "stats": {
+  "raw": 216,
+  "noise": 22,
+  "old": 35,
+  "off_topic": 53,
+  "body_checked": 3,
+  "errors": [
+   "body US Suspends Microsoft, Adobe, Cognizant, Infosys, : HTTP Error 429: Too Many Requests"
+  ]
+ },
+ "manual_checks": [
+  "LinkedIn page: https://www.linkedin.com/company/capgemini/ (no API access - skim manually)",
+  "Press releases: https://www.capgemini.com/news/press-releases/",
+  "Investor calendar: https://investors.capgemini.com/en/"
+ ],
+ "items": [
+  {
+   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become - TechCrunch",
+   "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+   "date": "2026-10-05T07:00:00+00:00",
+   "publisher": "TechCrunch",
+   "feed": "gnews-snowflake-GB",
+   "section": "snowflake",
+   "evidence": "After around six months in beta, HackerRank is making Chakra generally available to its customers on Monday. The startup says the AI interviewer has already conducted more than 500,000 interviews during testing, with companies including Snowflake, Snorkel, and Capgemini among those that tried it, while HackerRank also tested the product internally.",
+   "id": 1
+  },
+  {
+   "title": "Kipi.ai Named 2026 Snowflake Global Telecom Partner of the Year - Agentflow - Webflow HTML Website Template - Kipi.ai",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGVuNHdkbThzNlF4OUlCTHRBZjJjRHBMaVJVN3dHNXMzTlhtRnpka21zNGxBWTFFbjQ5d2VQd0xfM3RtTXlFN2lCaWV6RzlJZEp2UHA3Sy1PMTdONExNNEJ4eG9YcU5DZkxLc2MxbWlEVUNsYkl5OXB4d2dGZTBwcVU5M25pczhWUnBScWJtVnBGWGIyaEprZG1rdGZnZw?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "publisher": "Kipi.ai",
+   "feed": "gnews-subsidiaries-GB",
+   "section": "snowflake",
+   "evidence": null,
+   "id": 2
+  },
+  {
+   "title": "HackerRank’s AI interviewer Chakra points to where job interviews are headed - bdnews24.com",
+   "link": "https://bdnews24.com/technology/lf8ktitztv",
+   "date": "2026-10-05T19:56:00+00:00",
+   "publisher": "bdnews24.com",
+   "feed": "gnews-snowflake-GB",
+   "section": "snowflake",
+   "evidence": "Chakra has conducted more than 500,000 interviews during its six-month beta, with Snowflake, Snorkel and Capgemini among companies that tested it.",
+   "id": 3
+  },
+  {
+   "title": "Pratibha Sharma has been elevated to Vice President at Capgemini - Veloxx media",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkJSdVQ0ZzJvbnJXMzFUVkM3QnZtWWd3c2hLN1pGd0lwZ2hpM1NtNXBNRVl3NHEzUFZBNkJCNnhyZnBrWXVjeGZrVlFKSlcxVmpJUGExUnZ1TTFvQ1hyNkdiNC1ia0dKQzlNY1N3VlphMXVucEFoVlhHQVh6TEM1Mk1BNXpILWRwX1BfVEk3cGxmWHM?oc=5",
+   "date": "2026-10-09T05:31:31+00:00",
+   "publisher": "Veloxx media",
+   "feed": "gnews-general-GB",
+   "section": "leadership",
+   "evidence": null,
+   "id": 4
+  },
+  {
+   "title": "'Joined 2 Weeks Ago, Got Another Offer': Capgemini Fresher Seeks Help To Quit Without Serving Notice Period - News18",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ21DcWpnRnJVai11bTlYZGxjUlBXN3JGVTRVUmNneFVwbHo5LVl4U0RtZHV6Y1IzdGdwdGNVUzgyT0QzNU9IMXhQT1RlQmx6b3AteUZZeURidHhCTGp6eVFDY1JnQmZKeWFkOXBDSkJJbW5zNjNRQ2ZrbmxHQTE5U2F0TEVtM0dlTlpRNTdyaUluTFhoWmlvWVFlTmFwZWpaR1BGN090eHJCZUtMQ3pGeVlEMGZVQTZjUDRkQkhlTFNad3RMZTd4V1BfTGFMN0ZGWlZicTZ0NlYwM0NTYzAzekpScWRWUdIB6wFBVV95cUxOMzJjT2JRdmFsZTZ1YWRSdFdhenZ1RE0wbnJPNUJUdzJaYW1RbmVrWWN5WnFaZHEwYkZWaklUdkg2QUhNYkFfUFBQc1l5UHlkRko0cWJDMFR1dkktaC1Tc1J2SnpRWEJKdldURmhPekdBZFFsNUVuTXlXVkZEQlo0U1VyQUZleEFFXy1vbVUtOWVaWjg2MTJpNDBJd3R3eXRncmsxdUg4Yno1MVU4U1R4NzE5Ry1JZS1pbm1yQXFhN0UwQ0hMVlEtZFJrSnZrZUhJcXJlbWlUU2dSTEZ0cWdkOHdWNFA1bXJ6aDdn?oc=5",
+   "date": "2026-10-03T07:00:00+00:00",
+   "publisher": "News18",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 5
+  },
+  {
+   "title": "Les 10 actions françaises à dividende les plus performantes - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRFJNV0pFWlYzcXY1a25KOFRxYXVGUTVXblNlcEhSeTczVkp6Y0VPU1BDTVprMVk1UVpiWUxOUDRXeHRRQy1DME1QVFlxbDVYUTZxWjVjRWozMUZYMmFnUHFYM1R0azVibkdFSWRfV2NrWUo3NnJWcTZ0dDFONkpiU2syVzN2ZWViaGVLY1hqNV95LUp0ckRzVVRodkhpaWtpUHFr?oc=5",
+   "date": "2026-10-03T07:00:00+00:00",
+   "publisher": "Morningstar",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 6
+  },
+  {
+   "title": "Sustainability in action 2026: The new rules of business resilience - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjZ0Ri0waEtLOWkyRWFPTHZZNUdfRkZaaW9sWWRoRlNWNlc2RkZ5eW5BOW5JdlBoZHRIT1pqbG9VY0ZnWjhDZHc2QTBsYzFhS2JUN25JZ0lYdFdsR3Z0eTYyZC1xb3BwUnZDRGFydGtjdkh4bGhrUVp0X2xaOXhBTVFwWnNoWVZTcFZPc0RWbUFqdw?oc=5",
+   "date": "2026-10-03T16:52:28+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 7
+  },
+  {
+   "title": "Capgemini Invent Talks: Mastering Your Data Ecosystem - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXZ3dC1POXA1ZEVLSTBsRHBNQ1pubFdKM0ZjRHBVUV9HTHB3dU44bGdHWnZQYUMza1M0NTdIU0R4MHRlV3Nkb2pQWDE0cTZROHYzdjhwTTgzLWJkcjVtZmJjdWRqQ291TFdHbEVJWTgtaDM1aG1UbGFjZXU0V2xtZ3NXUGJVNWNnZHU5NElpSWRlU0JCYUdKSXJ3?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 8
+  },
+  {
+   "title": "Security Bank partners with Capgemini to deliver seamless payments experience - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGRNVjlnMk0wVTJLczRLam5lcmhtdkROZ2d0Y3BoSk4zMDlhbndreDZuQVUteF9jclNsUUJPUkdwZlEzYnQ1X2VwVVBTMGdNcG5IOFIyOEQyLWFIdExiRGQxOTlfNXRrUVB4TUVkR1QwTG1mYmx6VF9RdFB2UHFpd2xSOTk5WjFGNGFscHRWa2FzRnJqcm5ra1VSRUZhanlCVUpzVVJWNlZMd2t5azc5a0duQmppMVpoSjNr?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 9
+  },
+  {
+   "title": "Introduction to Capgemini's Digital Core for Life Sciences offer - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXpsQUtyU0t3S0dHUHJWNE8zN1V3YXVBT1JRa0tDaUhGRldEczBUYXVmQ0YwVWZOaXoyVFBia3ZJWTg4SE1LUG5NNVBPSy1YbjU2Q2I0X2lVX3ZoLThxU0NxOUZYMTFFMlZuaUNTSGtFX29aY01TcTNid0dkc2VDNVQwLVl6eHdhbGpRcmctaWF5V3JqTzVLMXVmRXFMZ29vQlBmYlgyYTBZdw?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 10
+  },
+  {
+   "title": "Transform Insurance distribution with Capgemini's digital agency experience - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakhDaW5fdF90QnpLT0xUZlFKb3VYWkxQZEphZEo5S2VJWnhEWlBHT1RlcUVrTm52MmhmZ0VYYXRxaVBseThMYzdQMGVBRTRvWVE1Wk9lRGhSdUtvS3B5YXItYUpBYmtreGFxd3NzQWFhSzZlWGhrRUswMThuVGc4bWtWM3ctY3h6S1N1UV9tUTlwTUFrRlBDU2dDbU5ycGg0S0Vxd1A2UkpmU3dGU1JjOXFBdHBNbUk1?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 11
+  },
+  {
+   "title": "Capgemini's Microsoft Digital Customer Experience of the Future - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0RFZEpqbjFtQWVUbmdyRjJ6cWo0VjVTNTFnSkFLODFlN2RPMFFtZHdvRi1TRlpibHZBVWY0S0dYZ2RhckthV2hfV1lpdjdPa0Z0OTVRSGhRMGlOQWUzcVJWcDRZVkx5TWE0X05OMG5qSFgyekl0NVFmVnRoazNkX3h5RVpoV2ZvRHdKZm1qOXpuYVd4Vnl5MHlSbHpiTy1wU01Wd3V4N3U?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 12
+  },
+  {
+   "title": "Biesse - Human Machine Interface - Aerocontact",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PVE4xYlBraUlOMWFaQ1daWFpiODJSMXE2dEFLRThkM1NTamloQ05MREpUT0tHeDJfSGNLbzBycXIwUjg0ODlKd195UjNJQnF0bDJnTzE5ZF9NdGxuVjZ4RlZVeVJIS3JzdDNQOFB5WVJrTmo5MFExYTNISDY?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 13
+  },
+  {
+   "title": "Connected Marketing Operations - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNTluRTVQZDRRb09fMWpWUjI3VV9fUkxHV08tNXg0R2w4WElSREFSRW5FSnhORlg3aUNCMFdnRkdrTXMwbnpqem9FeEU0aFF5Z3RMaFlJR2Q0U01mT1h4eEJXQmRBUGY1QW9fLUhKelJjSGhCbGt6dEhzSDQ?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 14
+  },
+  {
+   "title": "Revealing the wind with WindSight IQ - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUdJZ0FqMVVraTNkVjY5d0tTb280d3FxaHo0T0N3S1poMy0zX0ctMEtLTmRFSDJJMlVkTHNiLWRzcW1oVTJLZ2Z6OEtpZ282aThHblMweUdDWFNWUDZpMHY0YUdqaU1jbTE3YjA0WnNUVDJjV2NwU3JyR2tuaThEdUFPdks?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 15
+  },
+  {
+   "title": "Protecting insect biodiversity through Data and AI - Eliza Robinet Duffo - Aerocontact",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUc1SUphM3BCM0JXQS1PZG9oejc1SjFnaEN2WkhyT2lOWnpZUmt5X3ItUERXeGZmTm9SQXVGR1pvNWlpVF9CNUZtZXpXYUtUMmhBU2UxTENvZG15dGVCSVctT3hGR0dWNmpYTjBwNzc1WVE1SzlOX2VnTzNVMDhrUEtvZG1TTHhZSEpCUWZVR3RuMWpBcmN4cHVYdnlVdjZVbmNVMUVHeFIzamtMSHVPeVRR?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 16
+  },
+  {
+   "title": "Revolutionizing Healthcare: Capgeminis Compliance-Ready Connected Health Solutions (Part 2) - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZua3ZKSDF2X1pDVVZGZUp1MHc1UjVKVUtWdVV5MWhETTFZTFU3MjBjMmlOMG9jV2dDVWFNRFUwTzZqUzdpLUY5NzgzaGZkM3ctSm1QSWFSVWhGNVBsckVGYS1fcmw0ZEY3ejRfbm53Zklmd2xaVi1iSThianVjVmFnOUtKczhwb0EzT2JSRG5aaVN2am8zMHNSYTl2RFN3S0hwV1dKYXZKRTNIVDdobmRvVVlNY1lZZnR6LURFNWRmXzZnVE53RWF3?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 17
+  },
+  {
+   "title": "Capgeminis Neo-Lending Hub Transform your lending processes for Retail, Corporate & SME clients. - Aerocontact",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFZfZWhldVpYeHEwMjNGVUMwNF9IbWpuaE92bVZvRFNzbE9vTzNQRXQ1RE52RThTOWxnRk5mMnVsT2lHYjFJOWdYelI3eHdNZ0pUNVVLWXRrenpKanhsU1cxVmdYclNUMTdlVmNqcTBmcVNmS0dZLTFEaXlEeS1MNUxGYzF6OG9yUjJEQ2xaalk4bFg2WjY4eW1WT0FGVkhTZmtiVVFUZndYRnU3MHd5b2E0NmpJV3U1M2JQbHJnOGVkMnZHUGFTbVhmMlNhLVdiLUpDVw?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 18
+  },
+  {
+   "title": "Make it real: Neelam Gupta talks about making sustainability real with AI. - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGRGbmRfcml2RFZiRTduUDRmVUx5QzM4TkdaSHBDZHJlQzRrcDJuQ1A3RWlady1zS1JIdmpudjVyWnVFeWlqcE1nZmpheVJ2QUlySUZkMURqYlQ5ekJxcWpJd0d0NGE0X2tiZ2pxamROeHBGNDNxUmZQLTllYVVxSlpWWk9FX3RhaWlYUkpZVDVHU3VNYVBoTzIyQlJoc05yZHU1TTJmOGF3cm1lejVLU2lxZ3U?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 19
+  },
+  {
+   "title": "Beyond CMS-0057-F compliance: How payers can reduce prior authorization friction before the 2027 deadline",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/beyond-cms-0057-f-compliance-how-payers-can-reduce-prior-authorization-friction-before-the-2027-deadline/",
+   "date": "2026-10-05T05:15:22+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 20
+  },
+  {
+   "title": "Plus forts replis du CAC 40 : l'action Capgemini abandonne 2 % en séance - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzZ2aEM0NjZ3QjliTjlqcVp0Ul9ORXl2bld3R1ljRkJiSmRDRkdLSks5Z3hKeFZOLWhCMTA2VkNSTkxTQ2pLOGJobG9JRUVIeXFReHV1RndsbGNnekJ4bzVqRnV4V2w3Y0NoYVZkT2JFbHRVYW9STEl2U25tbmxINWxXZ3JRXzNtNUhzOTBjVC05SGZZbS1NMW95MzhrUGtBZ3RYMmE2X2NNYTlNcGx4NnBBMFI5MGJaLTNsdG1YQQ?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 21
+  },
+  {
+   "title": "Accenture rallume la mèche, Capgemini en tête du rebond - Bourse Direct",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNT21UT1d4NEdvamwwTjl3dFkyTTVSX0RmZWJZR2xlQWlkR0dHV3NTNUdyTWM5ZnBvT1BsS2hYRkdtd0VWN2ZYZU1qVEhscjd5dlBzcEFOSEtjeDdyc0RfempqZTV4Um5zaEJWcDNnNnlGbG16N0tKSWkyZVZvUlpTQXR6TXJEejVhZjFFQU5IN1FxYnJnNExlXzJyUVhWeHh5N1BURFRtNUZ3WUlYWEdIRC05LThvTkhJX3ktMUU3TVUxeGJYenVoeXBnSmI3VkJLTDQ0dmg1ajVnYWVfczlub2kxN0NFaFh6a0NhNjhXd2JIRXJtLTVCUjBsc21NNXc?oc=5",
+   "date": "2026-10-05T12:22:00+00:00",
+   "publisher": "Bourse Direct",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 22
+  },
+  {
+   "title": "Sovereignty in a Connected World - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNVJtZnhsRE5BWFEyN0piZTE2cHZpQ2FSSmNxekFLUnF1VVROUVdZNFRNUEIyc3JfV01lUlQ2TDFnQVZPQWRkV0JDTU9NSFBreTU5eXVqVndvLUlZTF9CWWl5RHpjc1RiNVFDSjlEUVEwUGo1LXcyaURERm9Gb3dpbUw2Zw?oc=5",
+   "date": "2026-10-05T20:25:14+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 23
+  },
+  {
+   "title": "Building Sustainable, Resilient and High Quality Digital Health Services - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczJZWWRwS2FVck5FcGxaM1g0TXdJY0FEaV92UHUteGRmeHA3bFNad1pKeDRCQWtmNk83bW4yWklCdWdMNGl2REZ4RDYxeWFZSFVwYkp2ZnQtNUdYcFJ6ZHdiS1BUU3VZeV9IUnRvdUtBOEpmaHNzNWdTcXZtNFRhOUx3TFFNSjFRYTcxMEhNR2JYd0ZPVzZoOFBrRWsxblVqLWFpcloyU3lYaTA1N1o5bUlDSHhjOC0zZnl1YnZFc2dlWjRFOUZFbTlFYjI0QQ?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 24
+  },
+  {
+   "title": "Capgemini SE: Neutralization of the 2026 ESOP dilutive impact - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSC1JcGliRDVOelRrVU5ZMXhmaVBRYWM1SFoxSlJ3LWl1ZVR6NE05TVk3Wjl1cVZlaktxNVM3bjVHdFhZLThDanJVVjFxLUcySUJka0hlMVV0bXVKMFZfT0NKQXhMY3VNb0NUemV4T3pLMWhfNkd3amdYTlZCQk1oUXVCVlYzaGlSeG9SQnRGWmVydGM4WlhsdGRRNkk2SUM3YlI0NQ?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "publisher": "Yahoo Finance",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 25
+  },
+  {
+   "title": "Le Mondial de l'Auto 2026 et Capgemini réunissent l'écosystème automobile autour des enjeux d'IA et de compétitivité - Mondial de l’Auto 2026",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNWpXWFF4RDJyT0w1cmx0ZWVMRFBfX3k3YXRVN3B0Ykd3V0J0NWx6SE1EdHAxQ0lUVGdDM1p4OEw3bTdPZVBfUGV0VlR4UG5tTkpXdTBfbkN1Z0hPTkR3eTB3X1NHdXZQM21BblNkMjktVFZ6YUpFb0NzM2h0cGVkQUt1WmNPSFdkandNb25Odm14Y0FGSGlQV1JSVDdidDBFNHgxWGNndThvZHNBZFJGcVA5SHZ0NXBwRUI3NWNMZUJuQVBqU21lOVAwMWxHaElQbXdONHFpWHpOVnlBSGVBVVY2dmhzZmI4eWxFNlhwazFqOVQ3ZVRBT0RWcnNRTWl0?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "publisher": "Mondial de l’Auto 2026",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 26
+  },
+  {
+   "title": "Capgemini : rachat d'actions pour neutraliser la dilution du dernier plan d'actionnariat salarié - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT3lPRGpmVHZnZE9kLTdvQUVvVkhxUm1CcHpyMjhnVElGT1N1ZHh3eENfTWZTeElUTEJWdnZKMTQtVTZQbWxYc2J4SDV4dTJRVWZEWDcxckdtQXhZRVl1ZEZRYzlTUkFjV1VWd3hycU0zWHItejE1dzg2OXNISk1mOUVXTmV0cFVCZE9rbDVfdXZxbEhGeTJUcndqU2ZUVDlDNHRiemlid21GWW5VSHlTaGozb051RWxVcDlfQnZiaTVna3ZYaG1TWVNqV2xieEw2amVvY3I2NzJFUkFCcUZtSFpDNUpIVjRsU1Vv?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 27
+  },
+  {
+   "title": "Parmi les plus fortes hausses du CAC 40, l'action Capgemini frôle les 112,35 € - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMEpfX0NQVEhwOVRDb0RYcDM5blpTOFVYNUFkRS04Q1VVeDhCSHdDRldwNlV2b0txd3lLOUdRX1h6WklGSzNZeVR6UWRIdHNldlAwT2N1RUtZclg0QmVTSUJmSF96NXdhR1ZYd1hDa3RBMVNSaUZuVnJaQ3FzTG9KVm53YkFaLTRxVWpaTTh5SGtDYXhEQUlVclc1M2ROMzRIZV9BZ1hadGNIU1I4a0k2THZVWWVwRkxLVjl2ZVloNHNETU1DLW4w?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 28
+  },
+  {
+   "title": "WInD: Das digitale Rückgrat für moderne Wasserstraßeninfrastruktur - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSnBHUVVCSW8zNEdxQ3V6S05tazQ2TXdPckl0RnJhRFYwbmx2dFN3ejRQRGZNS3FuSkRXZzgyU3UxUW82TUxhQUlPclQ2a0g2M19rTGlvUFlLT3BxN3Iyb1E1WlY4bUozb1hhTkphXy15ZWYtLTBLckMzYzYzUFlDSHVFbW9fVHh2RllNUTNoR2NrNkhGWHlvbF9SOWo0b0RoaDhVNVVnQ0E5MjBnTGRvcDllWlV6TzVoaUJMUzZR?oc=5",
+   "date": "2026-10-06T07:22:11+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 29
+  },
+  {
+   "title": "Scale AI with trusted data",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/scale-ai-with-trusted-data/",
+   "date": "2026-10-06T09:05:26+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 30
+  },
+  {
+   "title": "Iberdrola drives its PPM transformation for Digital Organizations with support from Capgemini and ServiceNow - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYWM1dFEyeXUwMzJIUkpZY1lnYUVpZXg1dEtqNVRZSkJrUjJfVk1QSzFyQ2ctUHl4Tmt5UDY4dEJvd0EydnFoN3h3RDY5VnpQZ1NKUXJpSTFkcUExZ1NXVU5MY2pobVJKYkJRb1BWY2pLeHJDNTlJWkFjM1ZXMXdaanFEWmNkdWt6RGFxbWNBcEF1MXlOTWp6YnBrT24yVHJYM0hoUlNpY2Z2TGxBbzVLV0hlV3hJeGR4OFFtQWNwMnJFTzFxX29SNDdzTUlqWE83RVRpczE4U1VkLW5zTWJBU3lodVhxNDQ3azZndFNWU0toUUE?oc=5",
+   "date": "2026-10-06T10:26:15+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 31
+  },
+  {
+   "title": "Digitale Souveränität beginnt mit einer einfachen Frage: Wie schnell können Organisationen wechseln?",
+   "link": "https://www.capgemini.com/de-de/insights/blog/digitale-souveraenitaet-organisationen/",
+   "date": "2026-10-06T10:45:05+00:00",
+   "publisher": "",
+   "feed": "capgemini-de",
+   "section": "general",
+   "evidence": null,
+   "id": 32
+  },
+  {
+   "title": "To reach sustainable AI, businesses must speak a common language",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/to-reach-sustainable-ai-businesses-must-speak-a-common-language/",
+   "date": "2026-10-06T10:48:58+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 33
+  },
+  {
+   "title": "Ohne Netzreform drohen 2030 bis zu 45 TWh Redispatch – Aurora - Montel News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3l2ZWZkaXlGalE0QlNBWGR4QXVnSnM2Wjcxa19aZm9KMGtOTGdqRnNkbEdNbWVCU2I1Qy1wa2U4bWRlT3EtMDRUTUdKdWVEMWNGS2lIRXRGVWo2MmxvV0JNR3dMUWlOVzkxem0zTlJ3S2tnVnRONmtNbHU0QTI4b1NpWVNwbklDOGJFY0dXTXhDM0YxNjRpX0wwaUtnUFhuSW5vdDRCamh4VEw2RVZzOW0waXpsbkdwSjJZdGNBaWd3QThUcUE?oc=5",
+   "date": "2026-10-06T12:39:07+00:00",
+   "publisher": "Montel News",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 34
+  },
+  {
+   "title": "NIET Greater Noida And Capgemini Strengthen Industry–Academia Collaboration With Launch Of CodeXperience Center - Outlook India",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUo5MEFCV3hSUWd1VnJCeFJrYU5iNmtZbnJidXhWaUJCTE5qVGFrSlZZN2Fzdm1adGRHTkFnTkZMdDJTYXREcVh0M2VHZHpxaGM5ZXRTQWlJWEFpVERIWS1peTF4b3YxdUtMd3NzNHg5M1h4eDliQWdPZVlKS0ptZ0dEODEyU0xrUURERndpQVp0TnVXck5iRHdkcGFUaE1za0I4OTR0R0xHZ3ZIOWZBeldqZmpUOENKa0YxVmswa3RaamJEV0o2N0FFOXJoYjcwWlh5U2RXYVFxOXNsamJsZkZZbkVFMDQ1aEJFVVZyaWdsZ09PUjM5UXNuVmVnd9IBiwJBVV95cUxQaFB0ZHhIelZ4SnhzejBTMER5TS1oX0dDdXVESFlOblVMNFRNY3BCblkzaGNDeTVHLWF1cnh3aVZPcDJzVmt2RHJ0WDVNWDlpekFWbWNncVF5UmdCTVJTSUEtaDhCUlpqdlliQkwxREs1d19qdXJSdS1POFhKVUtibGN3YzhEMXBiUHBCVUtrTkd3bFkwWGlxbjZRSldGQTYyV1VLTHQ2V25QVlFUV2Nxd1JqeTRfZjRJSjZSUnE4NDhRTWJYWV93aDIwazAxSFFQWW10eWNQb3U4a3pfbzlwRndlTWNQSDJsZDNuOTBiZUpYdU9BcnRzZFA4Y19iZDJBb05Sai02dC1aOHM?oc=5",
+   "date": "2026-10-06T13:38:57+00:00",
+   "publisher": "Outlook India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 35
+  },
+  {
+   "title": "Capgemini SE : Neutralisation de la dilution du plan d'actionnariat salarié 2026 - Le Soleil",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXlzVDNvSjJqa19aWU9KMHhERUFHZlBUZERXTUJtZXhiMWhQZjQ1U0J5SllUUHJpT1FKY3Bocl9zcDhMN3VkREpLb3kzby1Fd0otUlBlS21pZl9QNl9MRXB1ZVBINXpBN1l2WWZudllmaXFvTURjRVp2blNuNzBQMHVTXzBuRERCZkhPRm85UTlRNnVobWc0Uld5QlFTQW1rQjNRWW0yem9scDlVMDBUZ2tFREdmeS1UNlIyckVrNTBXdzJBdUFoVldJSjJWRzdPWmx5NEdlSW5xUGlmeXlETnJ2WUo3OFViSFBMX2d4S3lFZW1pQ3c?oc=5",
+   "date": "2026-10-06T15:45:14+00:00",
+   "publisher": "Le Soleil",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 36
+  },
+  {
+   "title": "Actionnariat salarié : Capgemini rachète ses actions pour éviter la dilution... - Fortuneo",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWnNJZzhCc1M4ZVpyUnc0UzBxdVhZTUowZGdXaE01WWlzMVAxTTJpV1duVVNtY3FMd2hjMHJEZFVnb3lmTTNqOTB4ZWpMVWlIYlFqbkp1ak9nbFRkM2RGcDdwXzlidm5VQlpnc080SUtaM1J5QzctcUZDWG1qTlVnUkVnenVMcDl3NFRiMlJ1NmRnY3JwaURzbEI1blJndk8tVGJlQTdtOGZXUVJzQ0lVU3BObjgxb2VRTHJsa9IBwgFBVV95cUxPeHJHVUY1V2F0MEJzQjdqRk1YNF9pWkFHWlpuSDR2Vnc4TW1KeV9XcVRsQ2hwTm8wNGdhUTFDaUVXcmYwUEtvdExrUlBGUjBNcHBjNHVfZmRtejJsVkxNNlZCTUVNQ3NXNVpKc19pVGxmTmJQRmxwVXMxM0xhOHFha2NZbE03dkF6anBmakpOaVUyNmt6NmJBeGtsbUtnMFJWdXlzSm1FMmI5UXhvMXp0amZ6MkJXMndqWExiRXp2T3hsQQ?oc=5",
+   "date": "2026-10-06T15:52:00+00:00",
+   "publisher": "Fortuneo",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 37
+  },
+  {
+   "title": "A growing share of Middle Eastern public sector organizations are scaling AI with success - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR3lLeDJfbnQycnZ4SEw0RmpWX1prNjNjai0ycGM3aThyV25USE9UWHVvNUVudnY4dzBFS0k2RklzTm9ydGF0ejZHT2l4SkdXTlp6eWJjbnV5bmRIazMxWEJOVVhlbm9vLU4tNmxhN3ZBVVhYM1VvRUhma2RmejFIOVQ1WkJxVmo0QUFGamRHRUVRSFRKa1BhLTVpYldjOFZWNGRyb052d1plRW5fNlRnUlpSdUdsZkRyMVNqem5xV3BaSFBzdEl1Q0RtR3RjLXpGdWV2S3A5S1R3bUZyREtlQ001V3h0Zw?oc=5",
+   "date": "2026-10-06T18:54:35+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 38
+  },
+  {
+   "title": "Capgemini and BMW executives outline how AI is giving automakers ‘superpowers’ - Automotive News",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWkFib0xMS3pTTWNMWVg2dkczTGtyQThPMzJweE01RmRMdGJvYnluMnRXNmUtZkRyQzBpaWN3Q1dVTkdpNk9WTnBTUnJhSWx5RWRfZmFFNkhBWll3OVV1d1FBVGJtUzh3WjZ0Sm1TOUN3b2hsYm5UamhoRFFrQzBrT1Z5b2cyTzFUM3VsNU1VS1NZUHU3YzhkZkRoQzdhMzRJX0JzdFpWcUJPQ0xQ?oc=5",
+   "date": "2026-10-06T19:07:05+00:00",
+   "publisher": "Automotive News",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 39
+  },
+  {
+   "title": "Digital sovereignty: From policy ambition to executive imperative - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNE5tX25wZlQ0X2lfejJNWGVpMWZQbHJWbC1kZEJFQTBDQnhzMFpablVubzY2LThMQnl1TVdrLUtLcmlWOXRtUVI3ZHNHWFlMTERLdjlpZWZhNlM4UVJGazdjeUg4aWxDdHdmNlh3b0xiN3piY18wYzZ6SThCNGFMN1Zuc2U?oc=5",
+   "date": "2026-10-07T03:37:42+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 40
+  },
+  {
+   "title": "Synchrony | Capgemini Digital Academy Partnership - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2hacmdqMHFZT1BmUXpOUkZKTEZZS19ybWhwalM4MkFuRkQ5YnpIN2tqdXA3eW1UQ3JDc0g3UGFCa3Z4SmdLQUpwTFgtLXpfNS13Q3RRSHdnbmdxSHV2OEJqRGhSZDJHNTRvM2R5NkFkU1BlZlJiNmFfdlEtOC1OM3FydlBwdkNQWlpucDJYcFhlZlE?oc=5",
+   "date": "2026-10-07T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 41
+  },
+  {
+   "title": "Capgemini and ServiceNow Partner for Governed AI with Agent 365 and AI Control Tower - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEVxS09QSFYxVVRyaW84MEdTMXRVcjhDOU94bklUU1BFanY4LU5YLXlFaG02cldGcFNSU2o2ZTRMc2YtMmdaQnRibDNmODJTYmpvMTNCQVdXMl9JcnZ3M1BJTFI0NG1OUlpUZU9rcmFKOHE1NGpBSnA5TXB0bDE3X09OcWxHVjNTbDFpMFM1QV9sYmNvbnFzMGtnLXd2SU1kUGlkY1VyWjc4Zm9NclY2NXM3V0NZMEtLYk5VM0ZYUEZiajU1?oc=5",
+   "date": "2026-10-07T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 42
+  },
+  {
+   "title": "NIET, Capgemini launch CodeXperience Center at Greater Noida campus - India Today",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVHpaWG9GNnlFNFRHVEJRb2p1LWJ4b2tqTTVTU1BZQ1ViWjJOTHpRakFoWVByc1RoUUxYMUpIWFByUVRMRl8zR1FMTjlCeThBdTBmQmt2RVctS05ZNFBsUUp5OWZQVXJzemJxSk13SEktQXRTTXVZVVAyMWowRXJIMVBuSGpXMzFteUs4MnFVWTM0SnVFZUJJMklUSHVzbWd4Wmt6b3hjUTVWYXZFRlUxaGlZWGlqYV9iUE9v?oc=5",
+   "date": "2026-10-07T08:00:44+00:00",
+   "publisher": "India Today",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 43
+  },
+  {
+   "title": "L’accord de rachat d’actions compense la dilution liée à l’ESOP : les niveaux de résistance de CAP au centre de l’attention - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZ4WXRRay1fdmJVRXdsanVLV2tpS19uSENWa0VTYjRNUTdzMFhmNnluUzdlekhhVnI5eEEzbHdfNl9DQ3o5U2tZOFhiVHYtSEt6UVBLc1owcXUyaWRnT3I2TnQxenM2SG53a3JIRGkwajZVM3FOdDFXQ3N2SjV3MFQ2QTRQN0JfZnNMYUVrb2J4dXc?oc=5",
+   "date": "2026-10-07T09:04:29+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 44
+  },
+  {
+   "title": "Henkel Consumer Brands accelerates sustainability progress by adapting proven solution - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUVjMmQ5WnpqUnRHOE1raXZlNU5oX1Y2Uk1sdjRwWW53djlnZlZBWnhvWmRaYXM1UEJXRmFxYkFhR0RWRkZVY0loVGl4WGRaa1BCWWRHNXpheWRfbEFkZWxqR21FUmdFUjN6UW00STdmdGFMX2QwQmoyODAzQ2tCSnR0M244Ylp6Tm1EUHV1MmFyY1ZOUTNLMC1FUDFLTFBOVFF0d05QV0FoSC1KTmtfckY1VV9ObHlJY3k2N1BrQ2lyelZESVlySmZ6MkJRRjZLRC1sVDdB?oc=5",
+   "date": "2026-10-07T09:18:36+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 45
+  },
+  {
+   "title": "Andersen Consulting renforce son conseil consultatif avec d'anciens dirigeants d'Accenture, PwC, Mahou, Campofrío et Capgemini - Demócrata",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTFVxbnNXZl9ZWnl0bG45VnVfeUxGbkZfSzRuTGF0Y0wwVHFDUF8wcTA2Y1d2UWZVSUJEVlhYRmplTkxMTW1NUDFuU3ktbzUtZ2h0a3RYSVNoUnR5WHJWb2tBN3ltZ3A2dk1jLUJmbF9BT3ZlNzJvUDhJOXB0ZHhmUkk1OWpkWWd0Q1pSRC1TdXdaWUU0d21Pd1pob3BNaUJmandpTW1RbVQtdHZTc0Vrck14VVp3RVRGWUlfV1FodzdaTDJvZTJOZ1pnR0JxRGhHNDdiUkotbWpsZXJvX1Q0b3hwS3VyXy0xbHJqYlk0MjFwZDDSAfgBQVVfeXFMTzVOWnRwekJTVlo2ZUNkRDRNUVZYUDZua3ltR25rdkREQVJHYlZQYTFDTXhZbDREVXJnZzJwd3pFUTItMWtBWmVSMnJqSHUtUENmWHJQQi1VLU9nS1BQVU00WWxXZWNlb0JzS0VCT0hXOHhzcFpVckhqUlpSclc5Q0RxeEF2Y0t4eHo0eV9PX1BUR0U0YmJEQldmaEhpU2l5bG5hSEdma295WGllZklXSjV5M1Z6Y1NJdnV1d0liM2YwN0NUMzlGbm1HOTc2eVJ2aXVVVW9XWDRmY2FWYk9GVzFNZktOYjVPMWF6V2g1MGVyb08yY1dUX24?oc=5",
+   "date": "2026-10-07T13:11:57+00:00",
+   "publisher": "Demócrata",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 46
+  },
+  {
+   "title": "Join Capgemini at SAP NOW Brussels 2026 - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1djR2QwYnZPRWJmR09VNkVseVdIYk52TXN1SGFHclFTaFFzT3JoT1NPMHZiNHFTcGFPa3VTa1g5Z25iWXB3cV9wTlZ3aUhJUHBwOG9ZSkJLckhMekw3ZmdOcW5HRUxQSU9VRXdydmF0U1ZQQnVUWjJiNDFtVk1OR1REWllmbW9LdjU1VQ?oc=5",
+   "date": "2026-10-07T14:26:20+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 47
+  },
+  {
+   "title": "Capgemini report: 84% of UK organisations have felt climate’s impact on revenues - Environment Analyst",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0FMZThHVWFrYUhsRnJialp0Nm1xbW1BaFpkeVljaGpKbGR6dTQxYmw1U3o4VHI4UTlfQTVXa1BUdG56QUpyQ3pvQnFwQl9UWkJfV3E4WXdKbGVZWTEtLWczYWEzVVZsZ0dmRWdRTW9Lc05wNmdtNzRmTFhYd0xSblBKRklGNXJyM2J3V0VZMGc5eXN2S0NxMnMtcEhiYUcxNGdKSTZhcklPeE5GU2RsQjZLWlRoeUxZY1BCb2M3Wlo?oc=5",
+   "date": "2026-10-07T14:56:00+00:00",
+   "publisher": "Environment Analyst",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 48
+  },
+  {
+   "title": "Capgemini sponsors the Capgemini CEO Breakfast Ride at Tour de France EFGH Singapore Criterium 2026 - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUERNTzh6OFo5STAzTXFWZHlBbFB0Sm56a0dyMS1nUi0xcUxpWmNETzZhYkVRLTZIRmstcjhVWThlMHhsQ0ZiVGM4QVNHZVluTk8wT3M1YlhmLUJMaXdvcS1ILWdjNWg0QzlqMVdfMnI5Y2lDN0dSai0tNndlTlowU1IwSkEyekg5Y0phYXFIN2tBckNCaUREUnp0eS1TQkpkc0VVaHhpME8xdXhpQXoycENSMUJuYm1nYU8xN3VIRGVwb3AxZ3BkYUhvZk1SaHo0YUxfM2dEaWs?oc=5",
+   "date": "2026-10-07T15:45:08+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 49
+  },
+  {
+   "title": "Singapore public sector advances AI adoption – but the work continues to operationalize at scale - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWmlLb1c0U3ZEaldQUXZYQ004aUI1T2xjOUE2VlU1TTRvLXdLdjZ5RGlhZTVhZ1lHVlA4UTFQa0VMcERlbEF3LURRRzVuZnYzbVdPRFdJcXdhMjd6OHQ0TjJteFY4dUNDdndiTVZKN1lSVndJLVZXMGI2V3Q4WGJka1RNbWZYTzVtUjQzcVZhbmEwelJQNXRTbjZPOFJyX3VDXzRST1NaYTdIVHVuc0RNNl9MSWFfM3NpOHFtZnc0QVNrNDZnMDJ1bkZoOXUwOEd3UDJMTkhveXVybk0xRmxVMnhEckx2aF9YbjVscg?oc=5",
+   "date": "2026-10-07T15:45:31+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 50
+  },
+  {
+   "title": "Beobank builds a scalable people platform to improve employee experience and business agility - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcy1BOFN5ZVpkQUdPVUlaTy1yeE8wSGlaN3lzN2E0b3FuYzVFeHFjM2FRc2I4ZldQdWROUm9HREtNaUlNbk9YS0x2VDVOSTMtSWRUYk9KUEZ3WGVXbXJ2Y1ROdzI1dWxkS3Q4NHRULVJabDhjVDFLRU9mS3VzNDBISkh2clJZSmV6cEpaeUJMejUzVU13U3lHaUdoY2Y5QldBSVlLaGlvRHl2WkltdG5VTGJGenRSYk5JM013Vk9lTFVoNFZjZE51SDJVa2N5d3pBNUFObWJ1NXRicTZjMVpJ?oc=5",
+   "date": "2026-10-07T20:45:13+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 51
+  },
+  {
+   "title": "Capgemini has been positioned by HFS Research as a Horizon 3 GCC Orchestrator (Market Leader) in the 2026 HFS Horizons Global Capability Centers (GCC) Services Report - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPS3ZsZTNtS2VKUTNJUWpPM0FkVHdZRDdUUWdtaHduYVBFUDEybjB2dzJKZDJEQ01ZM3ZNWGFRQlN6TTU3NC1vMWVtY2dfZE15TEZiUDBkOTNmNHZwVmVlZUg2RW5XRlJaQXI4dTVZR1FkQXh5UERTb3o4SGxUMERLSGM0UjJwMVFlOVFpaFlFdEZhRWcybVh5VnA2TllXdTB6eUsxZFlqTDZGTWU1dDQ4WURSWUgzRnd4eUxNZ2lNOFRYNEdLcmkwRHpUd2JRUVpPRm9YU0hLMGpiRjJHWGR6WGluYWZZMEtqRHU3Q3BnTlRTWjZwd0thS3hqTkhfQlVhSzBUM2ZUNk02VFRZWWJudm9Bb0VNYUMzZzB2Y3lFZ0djVV9VcUU2UWI2bnkxRTFGXzNrV3dLS1V3dEhMVXB1V2Z3?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 52
+  },
+  {
+   "title": "Capgemini Share Breaks Through 112.35 € Resistance and Holds Above - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEZJSVFKNzhlbVE4Z0JPcE9CcWVfQk0yd3hiSnducS1MQThqekxPZjhZVDRIblBjN3dpbktpZS1RY0dsU0loNm00enBYS1lYM0F6NWhkaVl4M1B0NHRPdy1nUV8zYjg4d1c2eXlGUmpaSUhna01ENDdxZ3Z4T0VHVzNUM2E2Y1E4TFVaSGtEbWVMdWtPNXp3ZTdITVBiM2plZUQzQ2R2aFhDS2p5bmQ1RHFQZHk3RlFjMmpkQVNXYWhFSV9QcVE?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 53
+  },
+  {
+   "title": "U.S. suspends Microsoft, Adobe from green card labor program in foreign worker crackdown - CNBC",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDF0UkZkaFdCWUpTV3V5c2RYZVNQak9rQVlxMHJfLWVrcGwxTTZHWWY2UUxrODZpQUhaaldPVUFNeFJ0Vlg5SXhrcmZRLVBWNW1uVzF5eWFRRjRqY0tibE5jTXZOZ0ZxMVBoUGMtRXlyamp4WDVHSkt5bTE0dUV1d2daUmdiREXSAYwBQVVfeXFMT1lDRXpaeUdqeThfZGRZYnBBcVdUR0RxWTVRY01GQVJlOU5iZURjWmIwdWpVS2hRY3JKZm9QMTZQdFR5c0VaaFpSR2EzYWZkVWZwdEE0MFJ4TWQzWHphQk94XzRaWHZkQkV6ZlI4MW9MNGxoNnctUl9Cb3FJcGpPaGtXbmFwY3RPSWhNTFA?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "CNBC",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 54
+  },
+  {
+   "title": "US visa chaos: Tata, Wipro among IT firms suspended from PERM scheme; what it means - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVjVqeUlVVWVpYkdzUGZlZXBoMVpxeXZtdXVvME9rU2NSaUhxUUNCblhVSG0zekNGLTRTQ215WU8ybFlrSnhvQmlFclpyMXFRQlowT2lpcUViNXZOelFNTUhoRGRnNjJXeHJwc1hRMUg4eU5lNUJfVVZtZU9pelYyNGZkY3V4S0YyZDNZdUdzeWJxdEpPR2dqY3VDMy1qUmV0b3V4VTl3QzB3bEVXM1YzUm5NTFpyLXZhWHJNMVZCZ2w5Z1VMM3RkankwSEY2b1BHOTBGSG5LZDloZG9jYTVKT2NGRzZzNGU0UHZKU2YyMXNmelZPT0NJU2ZQdWdXa3VWLVhRZdIBigJBVV95cUxOc2NCZTBiR0ljTlJsb3JlQnJ1NnJ0bEJtRXNLSkxqeWF4dGFJMXEzSHE2bEhSdEhQZGMyRXh2akxnZmhUWWhWS2FXZ1F6bGFISThnYXFsSXFuOUNfck1ZOVhrTEF1VzM0b25WVGt0Y3VPRERXRHA0SEZhZ2ZTb3Z0MjZoZVdNeHVkU3ZtdjZFUkdYUzZIeVNlRENMN2ozaFZjRWZQWkIzd1ZUVThtTURpU3ZrXzV5VVk3ZmRzSTdDM2NEMGg0VWlxb3BkeUhvNTBENHhVc2s4ZzNZd1N5aVFYWGw4Nk5XOFBqMDlnMHM4Y0ctVE4xUDlJbkpKVGZTbTVMa1lVR3BUUVpsQQ?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "The Times of India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 55
+  },
+  {
+   "title": "Cognizant, Infosys, Tata Among IT Firms Hit By US Green Card Crackdown - NDTV",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFJIT0tKTTR1RndKZHZqbVhmNGN0SmRQQVhNbnQ0aElvcDlpUGFwazhPRm5jYVJsdDc2dzBUX2liNy1oRE1zU2JLMlhCdE9fNTE3TDhTQW9BN2cwaG4tWnNHNVRGYk5aeV9TVTBJRnRhNFlhRUlxTk16YzRndGZWeDM3YUx1bmdHN1JHMjhZSG9xS1U0UktNVWs3QXdqR1M5Sy1kVWxzQnZUakVBRy1seHpKR2hKenI4bHfSAcIBQVVfeXFMTUZXNFZ3LWNWOElMRHBGOTU4UVV6U201TU10MGViYWxZYXRxa0pOZEROR1lzRHVlNElVdWg5SzZBbElMaFlSME9NNU8zRjZQUndhYy1sMFNlME83bmdlM2d1dnlKcXZsMzhUc0NXNXFPREd6Wk1NMlphVWlIVnlBMS1PQjhsSWpQckJkU1p5b1FOZ0l1c3A4WFExVUNTZkFZZHFLZTBUMDBHUW5tWnNualB0cmxLUzBpOVdDdEJBUVRFZ2c?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "NDTV",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 56
+  },
+  {
+   "title": "Infosys, TCS, Wipro, Microsoft Among IT Giants Suspended From US Employment-Linked Green Card Programme - NDTV Profit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTF1Q2FvVjJkb2w1X3NnZTg2NTBNb2VOZ1NzZFdZRjhleS0tLXNia0psTFBQM0E4cU8xWjI0VE0xU19kUXV3RVNkSzdFYnhfeUdWMVBOVThFMDdUZkVQZG43bmYtREJkVDZ3ZHFVcGM1cnE0VklPN3ZtSENKVWF6X3E1MEtXOFJZOUU5QTk5bzIwRnFPNjdHTWFFeVZLY0czVlRiM1QyODVKVUItRG9XZkU3dmtWU21CTzBfOEFSaXF0QdIBygFBVV95cUxNSGVRV0tsRjNUekNIM3NqWnB1bzJKdUJRZVdqMENSeTJNUW9xLWtBX19GR2s4UGR1UXlWdjEyN0phTVFyblRtY3RrYVNGeWZ3Qmg0bU1sdnh2NnRheXJ2ZFUtTXBYRlgxNk5hcWZsSVE3b0k3eTdmdHJLMDNKeWxuTlJNZjBCQW9ydjZaallHTFd4bUNwVlNlczBOY200eWhCWHZCbFlQakFkRldXZWc4ODJoLXlZZmh3OVh0NUotSGpqczVGQWhzLXBB?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "NDTV Profit",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 57
+  },
+  {
+   "title": "Cognizant, Infosys, Tata, Wipro, HCL among 8 IT firms suspended from US green card programme - The Economic Times",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNDFnX1FwdXFlaGZ4Y1RFTlNNYnoxdjdFVGM3YVM1ZXI1cXFtWUlNOWRoVGJtVmJDV3NlSUJyaWloU3p1d0Z2clFoSV9KTTVXOENlOVc3WnBVTERXT09POENvS1dlTEU2RzJxbGJZYXplM2JzcmxwRmRSR01Sa1hpQ1d2eWNHRTBlMDVlYVZ6aWx3LWpmY0tSdUgwTDczckV3QjJJUU5NTmlqXzI3NTVmOHNjN2I0a2h4RFlmUFctZk41cUhyS3Y5RVpPNzgybmJHSGdGTVgtQ25QOFd0REoyQTROczQyZ9IB6wFBVV95cUxPd2p6OHRTdGZlcUl2ZUp2Y21SZ2ZJZ1FuY3ZpX3dweUZRd3dmZW13QjBfdXI3WEMwU3REXzJuQTV4cTBaRUN1dURDMlFxdF8yVkJhMGVDVm9xeGlyRWUxcVJaU1lhX1VEMDRKMENJeDRramswWWZ0dUNUMDMyaXRvVEUxc3c0TVVhN3Q0N05xRUlzbk1lcm1zajRUMjY2NC1EY2J0dWo1VmdLTmwtRTdZbFlXbW56c2wzWU5QN1RkYW51SHFVV21EdWRlQjdwNlhrWFB2SEVUTS00VndpTVk1Nk52NTZnOUY5Z0ow?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "The Economic Times",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 58
+  },
+  {
+   "title": "Capgemini Reports Treasury Share Transactions for Early October 2026 - TipRanks",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXlyUWlkQ3ZDYVlGZUJmZjRWaWJSODlOdTJ1YzREeVNmTk02NlRKb0xwc0JWbDVCSXhVbENoV28tNFZrUGRRY09zRmdxdzZEMm5KRDVTMnpMSlJWZ3NGQ0ZLeXdoZk9KU2cySU5lSG1pZ1U4eFpnLThaOTNfNEZHMm1jemNSZTM1QU9ickZSMl9pQlYzdUQwREhCRGpwZFBoSXRtaXFOLWdqamplSXB6aTI3ZUlsaGNMQzlQbw?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "publisher": "TipRanks",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 59
+  },
+  {
+   "title": "Agentic AI: Die Antwort steckt oft bereits in den Systemen",
+   "link": "https://www.capgemini.com/de-de/insights/blog/agentic-ai-die-antwort-steckt-oft-bereits-in-den-systemen/",
+   "date": "2026-10-08T07:18:21+00:00",
+   "publisher": "",
+   "feed": "capgemini-de",
+   "section": "general",
+   "evidence": null,
+   "id": 60
+  },
+  {
+   "title": "L'action Capgemini perce sa résistance à 112,35 € et tient au-dessus - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOU54ZWZTT1hCY09DMXpTS1FHWEV6M3ZUMm9PbTRBR0ptY28zVDR4WXdLUTZRYVc0VDFQUlFIcm9Db0lmU3hFS3VRZDJ5ak5PcVpYcFV2aGNoVVpOSDdzLW5BVWFRU25vb0tjZXBWaDhIY1AtMjR2VnNEcWxhMWVEbnRrWG96c2dTa2F0R1JsNTA2YXh4b1lHOEVWb0Q3dFpHYmpkRWpndjJKWXFqblFrSFdOR1lmTUdmdWlZ?oc=5",
+   "date": "2026-10-08T09:14:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 61
+  },
+  {
+   "title": "Services financiers : concilier maîtrise, résilience et innovation - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTVjTFN0V25sM2NDMGRsT3g1Q0Iza21YS0xQeVZJazdWRFBGYjNRUVlBZFdYQ2w2eE9QQzBwd0F4YkRVN3N1dHUxWmRFTi0yN2JWQVZDZXVkZ2pjZ1Z0U2UxZDk3bVZNSmp4ZW5IcElBUWVxUFRpYzhkU3JKYi0tVnlwWTZyREdkWk85di1yYk1RMkdoYjgxX0lEZEo3OGw2Rk8w?oc=5",
+   "date": "2026-10-08T12:24:12+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 62
+  },
+  {
+   "title": "Capgemini Technology Services India Ltd. Shareholding Pattern – Promoters, FIIs & DIIs - Value Research",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzIyR3dRd2RYX0h6VDZxQ1hCZWt4TVlRWmZQblpSZkNiMm8wMTdJdE5ZbEMtSjNYX3BMaHh0TmpFQkR6Y1RONUljaS1LdWxYOHRucGx4WFZJdTRDaEIzMTN4SldQMXNpcmRacVF4MWtsS0lhbDBPUXkyVlQwd0NLUVRLNjZzZHYtTTJ5SUlSRTBYeF9OTGs0eVltVjE3SlkwSlR5cw?oc=5",
+   "date": "2026-10-08T12:58:47+00:00",
+   "publisher": "Value Research",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 63
+  },
+  {
+   "title": "US suspends Cognizant, Infosys, Tata, Wipro, Capgemini, HCL from permanent labour certification - Telegraph India",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObXo5NXV4TVF3M0ZnV2x1Sng4b0toZC1nRmhtclVZRkhadTF3WE5hamZ3a2h3X3VjVUpCTVF4STlseWZQT3g5Z1dlZTJKc3JRZG5JNlJwREpXaU9JZXc0bnRDeDhESTc1SENhM3gzU3NLZVB5REhwYllaUmtOQjUzcXBwWE94cGhnSVpYUEVUWWF4U1RzdHJrSlNLR1JXM2syUmJMTzdqbHdfSW41SG5LdmZyMFVWS0tGWl91X0RVcWlSZWR6WDd3MlRXeElyazcxWXJCcWdaVG9wSnZLS1pta0FiQkFBM09R0gHuAUFVX3lxTFBtQlc0Z0RPa0hyaklQVURHb2hEYUpNZUhoMnNxYWhaTGVHanBZQk5qMTNkZkFyTUZ2RW9zTDdsdFphQUhHeWQtNWg2RkFqWHVkNFRoalZqeGRBdFA0YUJRQ1RPeXFVYkZzWHJVYUNxWVVHbW1jYnMtNnYtWVNvaHhjWEczd2NBQTNDSUpQNktRaHFoMFh6SC0wNUlhT1M3UC1CS0NjVFMxVldXc2xiV0FfUG1XUjRWa1puRHpfeThJdlBEb25HamNQUWE5YWxROGE1aGlPRDRFd0FmdGxRZkRIVXJqZ3RFRm9OQnRXQ2c?oc=5",
+   "date": "2026-10-08T15:02:19+00:00",
+   "publisher": "Telegraph India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 64
+  },
+  {
+   "title": "Setback for IT giants: US suspends Microsoft, Infosys, TCS, Wipro, HCL from green card programme - Business Today",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMjZSYlc4QkxNM01QcmJwV1ZyS2VwbGlyTHczd2haR2kxdUtmd3NJeWw0YlFRd01tMGU2QXpQQTlMLUFsdkZRZHBobFJpdlFmSllVX2htcmRzeXZ0V3h0X3FaT1NXM295bGVmYnZXazNydG9wZTlLRDdsWlVPV0h2RWZHMEc4TGNGZHl0TTVHX0NHMnVhTE03N24ydzRsYmFuQ0tZTnl6djlkX3BrODk2S3hWZ1N2SEVNbVhDNVFOU3Y5U19aY1VCNWpxdmMzeGp3VjBtekZkN2JLMy1ZMTF0aHpkRkdlTGE5ZFg1d3RlZ9IB9AFBVV95cUxPM2U2aWtJa2FuT3pyUUJsVWxqNHNJNXBwMVlEWVNVeTdCSGZ3cUN5bzFKRTdDNGpuS25GRk5NdHRIZTRuWFFIVW9WczBjTEYyRnM1Z3pGUFVNd2JjVjRIQ0tHbG1URXBMWktPbVlpU3pUMld3YllZakllLXcwZ0loRlllT3ZLNkloSC14WWo1NDBWazBQRFZMaExjTzU5aXhER0c5b1ozc2pybkE3T3oycU9QMVNIUVNncXp3aHFyYk1Nei1QQXB2YjNYQ1pEaWZwWklmSzNCbkEzb1Jlb3lfUWlEVDJHcVBjaURPRVNWTTRrMERE?oc=5",
+   "date": "2026-10-08T15:08:05+00:00",
+   "publisher": "Business Today",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 65
+  },
+  {
+   "title": "US suspends immigration programs for Cognizant, Infosys, Tata, Wipro, Capgemini and HCL - ET Now",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLXRtWDdGSWR3cHU2RnE4WXFvS05mbkZuLVBoejI4UzRsNGVEdDVGal9IZmZGSzJqMkFLSGZWV3lVOWpWNEdQa3kwS0JBbm9Rbm1IMFRrOHFQSk1DdnpEVE1MYmlVTFAzWE5ZM09XQVdRV1NxcHpudEZvQ3JIRTZWT2RDRWJPTWVaNnpscVgwWVpjUlFzY0hGRDdCMnZNTk80S09lS1VmZnkyX0RZbFk5eXdvajFhYVdjVXE4ODhQTXRSMlJYVEltYmducm9VYm10Y3doMmN6b3XSAd4BQVVfeXFMTTU1RlJKX3FQSllnRHlRbkR3MlM4dUl1anVfRU9qbHNja0RYVzF4amJ4YThFYi1UNWY3THk4VUttZGVDZDZyMXVULTJHb3lyd285QkFJVVQzVUtCWkNGR1Q5dGV6emY1SURQekR1ZHBzanNka0huMFBCVFNiLXVjYjF5X3h2c0FmRi1sVDNjaEY0SGQzbDYyYkRtVlktWGk2OHJ3Q3ViZDBRUFBhN0h0YXNyXzFrLXNMMmsteENIU1h2YU03c0lfUFdUWmt0b3NrSU8wVGl3dVhhTGg5LV9R?oc=5",
+   "date": "2026-10-08T15:09:05+00:00",
+   "publisher": "ET Now",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 66
+  },
+  {
+   "title": "US suspends Microsoft, Infosys, TCS, Wipro, Cognizant from green card programme over alleged H-1B abuse - Moneycontrol.com",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWVJQWWpEdGR2WThBbGxRSG5Wa0JPT0ZqTl9abmRkS0U4NmdCTmRCYldMU0tVQWtnMWpLa014OWxNX0JFbWhTZ1F3TlNUYXBpRzMybS1CTG5NYlJ5OHZJSlg1eHBJcWU4cmlKQkVXZWw1NGM3dXctb3VHRERHMW5YXzBfNzdEZ2VBa29wb0tTNk9UNkl1cDdpdGY1ZkdreTExNFJqaFM0YnVFRTNiaWZxZXI1UWo0bjZHckIwUXdEZkh2VGZHZ1pjX1NxUzZ2dHVoeGNtaGJRUkJEcmpMdkZnVWZxRF9WVjNPNXh0UtIB8gFBVV95cUxOZHduanE2UEV1M3JHUkowR0wyVktkV0xvNWhuT0hqYlgzSXdLSjdjYWFUY2hhTWhGTUpmZHVBczJYS3F3OW5pckJUdk4yN1lRM2hWb2RleEZpQnI5YVFpcksyRS0tLUxOLVVvcFhhVl9saElwc09Hd0l6cWtSMkp4NjlHNm5uMU81VThBVzE5RWgybkI0M2kxWkNzR2tSdEZpeW8xNTNTUnVBWU1jLUJyQkNYaVhjM0Y2cERMa29yejBrTHlUUER0MXM5NUJ1RXFqQ2RkNWh5QmdkS09oeVM3QWJyaHYyY1pnbWxlQVh2THhaUQ?oc=5",
+   "date": "2026-10-08T15:09:58+00:00",
+   "publisher": "Moneycontrol.com",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 67
+  },
+  {
+   "title": "Microsoft, Infosys, Tata, Wipro, Cognizant, HCL and Capgemini hit by US H-1B, Green Card crackdown - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblJ2eXRfbVg5SzVjNnpsVTJyVEVxWEZfZVhhclRSLTNCTVVld25iYWQ0SXpIdWc0YWNzUmtHRzJOWkx3a2JsRUhieERVbHBsYzhxN0l4dW56eTFFdkFFZnFlbnJtQVlmdXNtbVdtcllJY2xuUy00R3hyN1FsbnZHVWVLZ0c3RlBaSGtEbGlMbmIwRjBUQkktajlQX3BYQm9mTDhRbDF2cWROQ0lXSmNqVmREUUl6TGfSAb4BQVVfeXFMTjB0UEJtX2dPTThxSUNnZVk4cFZBTlN6eHVXZEVMQ2ltajBtcXZvWWRMTEFPclRYWFlrSWFlX0RKeUpaanJPR0pfOGFZM2NhRVFsMGZCeTNfZnRfbnA4YUJlbGpLSGRIOVM5NE5Yd3ZLZjVVNGwwVF80NkxKY2NIci10bFA5V0o2UWRUZGJaUktTckFWS1dTbXBRVGtpOVI2UmJnNVJvbFN2dFhqNWo0SlpnLW1aUDY1dVNxcENEUQ?oc=5",
+   "date": "2026-10-08T15:21:47+00:00",
+   "publisher": "The Indian Express",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 68
+  },
+  {
+   "title": "US suspends Infosys, TCS, Wipro, HCL and Cognizant from green card programme amid Visa fraud claims - Firstpost",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNVdiNGxORXFHelhOLXBzbUQydVpMbk5ZYzY3M0dfUU9TQl9lOXY5RlhPR1FmMGVJSlZwOEtUTEtmSnNkU0hpV2FPNWgzX20zQzJ1aHFFMFBrNHdRbkhDTzFvMVNmSnphaGtFNXRDTmdhY3lPWEVzbXQ1UW9UZWlCSnV3d1RWVkRtNUgxMFZlTVlIR2VQRXlsOWZPdjR5OVVmeTVKMG03UXdJdWN5YVdtdVpxNGtXSXFXckNiSVE2cHJyOExOb0pfdG56aFp2WGNC0gHWAUFVX3lxTE1TTTUzNUJ1c2dCUW1EQ2JXWWl4T3RVbGxCWU1LQmxKdDNpY1RqSHF6aHRMVmJrOWc1Umo4a1F6Ymh3LUNINUZ3MjdmNEE0c2RIcGV2aFhFOGRZeXB4RmVNMHJkTExyRzVvekwtSVQwVFp0V3ZIQ1dybEoyZzNLd1ZlTm9wQ3RCNXVvQS1Jd010UGtYR1MzN2RBR2tNOFpaZjVCX3hUR2RVS0M5N3F0VWhwLUdwRVViNnhOOTRlalpsY3Bvb1ZNZkFORTZXMmhMZkx4QmpFeHc?oc=5",
+   "date": "2026-10-08T15:27:15+00:00",
+   "publisher": "Firstpost",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 69
+  },
+  {
+   "title": "US suspends Microsoft, Infosys, Wipro, and other tech firms from green-card programme: ‘Stop defrauding American worker’ - Livemint",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLXpJQjNTbThBeFZqYlVVaTVycTRDOTUzYmE0aEdZNGZweXN2S252cG1DT2IyckkxWHZGbFNmY21kU3R4NENnYjBNWERSMy1sQ19ZR21Jc1dKUzQ3cnRqZmwyazhadXc0cmFmTmJPbmYwY2ROLVh2YTJxYmZrUGpjZ2hQUFAxSEFiaVFCSVlWUll1cnNJUHlwZE5UZFk2Vl81LTBzUG01c2wxOG1xWUtuTGlUaWxxWFFmdVJ0bVY4dVFULWphTVVpek1MdVN1ZG13MzcxZnE2emNpVEJ5QUY0cVRKbWFJTk4yVGkzbzJrUm4tRjFTUUxj0gH8AUFVX3lxTFBQNG9qZ0lkcnYxMEQ2LU5XdDJuNm5sT2RjMlZPMms5TW9hak1SRGJLQ1VGcUpHdmx3aUhFLXVJWEtIeXdfWjM4SFFXb0taLWo1SHpNRldGUVR2dEp0NzBzakI0amNZOVM3OEl2QVh6eV9UUDg4VXMtTW5hUVA0QklNMFVqeDNpV3N6U1Ziam9VSTh0TVdDdlNfYTlFeUtoT3pycW1BQ29zYUdTN0NfV204cnhXSkJ3dWtPaUZ2TmtDcVBQV0JpQ25Tc0xWWnZoUzdwekw2RzM4ZUpzQjRISl9OcUJHN1JMSUkzbDhNSXJFLXA3U0RpS2pJcFFWOQ?oc=5",
+   "date": "2026-10-08T15:28:13+00:00",
+   "publisher": "Livemint",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 70
+  },
+  {
+   "title": "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme - The Hindu",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcGo0ZndiLVhKRUZCUGhHU0tKVHdhYUJUU2FTa1ktZjI4LTNyWlZiWXc0V1hsb29kM3E0dHZCTmVDcExJOWIxbnUtNE1UdnRFQjZqTGlZSFZWbzBGLTduekRGX2RSWlQ2cUoyNjZaR01IbFZISlNWNUxva0VBSTVDTHRsRW9PNlU3bWYxbEViWGYwZ0RmT0h0RFRJYVhISkVpdFR6OXM0ZXlBWFlDa0IwNnNmNnVRcGd0M1NCMmoyMDNCWFItNkZnVElfV0dKUk1TS3N3M2xFWdIB3gFBVV95cUxPeUtpWm8yUnUxcFpWWGYyRVJablFQSU50RUpVb2RPeXFLWnN3dHdaNG12ZmltckwwYUhqT29LWmdfOGtWSjBlbjlOdnR0WEJwcnFLd0c2emZOZmMySVdJMkNqekZqYzZlZmVSczFOMG9kWlVkQ0ZDeUpyRVZub0dmR0RfWm8yaGNRcC1lRHNOUzFHNTdoZlU0Q3JWbFdPWWVvLWg2OFdhaGJrcENpeTNfVl9ISkY4QWd0ZGJRUzJDaTBuaEN1Sm9DSXM5Y2ozc2x2OTRrbTFDaXgwV3dsMlE?oc=5",
+   "date": "2026-10-08T15:33:46+00:00",
+   "publisher": "The Hindu",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 71
+  },
+  {
+   "title": "Actualités par CNBC TV18 sur TradingView, 2026-10-08 — cnbctv:b90eaf199094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMExGQ2RqMmZPZkNidmh3TVRDY1NrTWFRUW4wcWFVX3JpMFkya3kzbmtMU3J1cGZEcE00WWJ4dzNEYUoxWnNCYTVOSHp6LXh3Q05yTFZUMk56R1ZUVkZTYnRGUm5NQQ?oc=5",
+   "date": "2026-10-08T15:39:12+00:00",
+   "publisher": "TradingView",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 72
+  },
+  {
+   "title": "Cognizant, Infy, Tata among IT firms suspended for US green card programme - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQVNEQkpITTZOeExSOHNfbTRwd2RwZ2kwd09mUjVNbjJBMC0tZXg5TTF5aVVyM1p4Q2xaaGFLcDl4UkVYMnNYdFZyenBlc3UyeGtlTjJmb19OX2gwUFVSZkhuT1N1WXVGX1A5MWhOUlJlTjEwb1UwNVlDRXZxcUlGQzRXczRFbEVkVUZ3UEJnZVVYd1JibEVEWFNLaXlkMmRtR0N4dUE5dVMyRHBQVmdYTFdIYm0tejZBejNKWUozM2Z4UGh5ZGVuQzI4aGJHd9IB0wFBVV95cUxQcXN3TFV3NDg0ODRiQ0ppS3NXRXE3cGJLSzJMMldVOVk2aGhwTkFvVEQ2VkpsTzRuSzhLN0pNakxaVm05TGRFdlAta2ZzT1R6QTVwdExCLWY1OWh2eXhaT0pNYmU0MDl1OXYtX0pTOEVlaEFvZ1hTdXZZaWNrYUs0enhIY2xQRl9MRmNhcmhzNEF5SkI4c1VMU0Z0OG9GU1NranU4WUtYUUI3NVVlU1FtaWdGOEhCLWZIdFBkbE9rODd0M25GRHhSSTBubTQtREZHdVY0?oc=5",
+   "date": "2026-10-08T15:40:00+00:00",
+   "publisher": "Business Standard",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 73
+  },
+  {
+   "title": "Capgemini finit à l'équilibre - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTJ0bURWcXVqbXRZbDFha19WRHJ3cFJYMWd3RDFGOU5IT200WmlxYTIxUFpJMGdfOGNZbW9YZWl4ZGp4cEQwTFFSMWtwY0JDX01DMWJ6eDJ1MjFSN1dXMVJVd2JRa091WDlpUjZuaFpKTVN1bHQxMlJyQ0RvcTluYUpwLW9aQUV1MXBsM0hRTQ?oc=5",
+   "date": "2026-10-08T15:41:38+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 74
+  },
+  {
+   "title": "Trump Administration Suspends Microsoft And Adobe From PERM Over Fraud Claims: how 34 outlets framed it - NewsCord",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXo5N3hOVk1aU1VlUEdXS2NwMXZoLTBTY1lMUEt0NGJXQlphWnFyS1ZGX01ZSnJwbDNnODU4NU9tc093M1ZjbWRUbHlRUHU4NUVfZzdZZE5kSGQ3R1p3NFNhN3FISmdFcmVkZm5XSDR2emJiV21tay1rS0VpUEFpamw5Ny1QOW83dTlEcG9UR3lwdi04N0RPeUpseW1RMl8tb0VCVlVEVk9pSGFGak9PdkpoTEtaZnFfTzJzMGJJY09pLXNvcFF2b2gzVGUxbDRYNXk1RzZmZUNsd2Npd09sanpYTWJSWlIycWc?oc=5",
+   "date": "2026-10-08T15:53:58+00:00",
+   "publisher": "NewsCord",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 75
+  },
+  {
+   "title": "US suspends India tech giants Tata, Infosys, Wipro from green card process - Gulf News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUEzTUVaNTNzNmVlX3gxX0VkMnpDWnZWdkUwcUR0UGxjbXhfRVZyVnpXUk44Ry1PamVrYzN0ajNGSDh1MEtsRklYYWJCblMydDVBT1lqWGIyT2g0THFQZGk3aXNLOHd1VTk3a0pFcnRqZHdhbjRFRDRScklHb0d5bnVLSEJFS1YzNnpIWm9US2pvY0FjcnBaUDgwUHFUMjk4cGZB?oc=5",
+   "date": "2026-10-08T15:59:18+00:00",
+   "publisher": "Gulf News",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 76
+  },
+  {
+   "title": "Why US has suspended Indian IT firms Cognizant, TCS, Wipro, HCL from Green Card filings - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBUendoMFRuUV81RENpSEdndXVpQ2xnUm80eFVaOVVpcFZFRXg2OFFqSHhvbVZnRmU0Q1RYbFhCQWcycU80dUhxQzJocTE4bXBBNmR6UnFqX1dRV09JSlE3NXV3MXFPNHZ1VXN3ZDJGVzlMU0VPMDRwQ0hPWTFOMXJxN2xxUnRVMW0yMUVEUTJkb043VXI4eHVyZ1Z2RXNyeXZEZ3Exd0JfZTRtM1MzR2pOYW9MZzd3dUF4LWlGX25XUWloZWE4aFU3UThNREXSAdYBQVVfeXFMTW9PUnRBc1FGOHZuRldOdFRESW1wb1E5SG9waVdBSkg2WlJsUlU2OUJ3TkNnSmFVRU96N2lReThmeHNGYVVQUXFfOVU3SFNmOGJTTTlSYy1MQnVxMU11bnU4RXpKTFU5bzRNSlZCWTZmQm8tTk5xMW94bXBYaDZCVHl5c1V6YmxyZkNocHFxcXpfX2lLTWEtN185MHI1QUlfTlFieDVQakp2d3A5eEU1b0Jld3pPNlNDVTN1TTBXR2hLak1hSW9qV09QcGJLNDdXbEhuWkZNdw?oc=5",
+   "date": "2026-10-08T16:01:10+00:00",
+   "publisher": "The Indian Express",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 77
+  },
+  {
+   "title": "Cognizant, Infosys, TCS, Wipro and HCL among IT firms suspended from US green card programme - The New Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXdndi1YbmJBTFZYaUpDLUlxSkhtbVNoRThJUk9GZnQzdlZVbUlZdWRvdmF1Mk5ZdG5MaWFiVTI5NF95Z2FFcFdoVjhYYlBNanNOdGhCNUxGTVpsTC1jcHhJcWIzb2RXeWM2MDhDM1d6c1JyalJrUVZiOXRqOWRWWlBCOHdtREJFdTd5RVZyODg1TzBsSFlWVWYxc1hwaENId09SdTgwczhwUkdSdVU3QzlTclJZX3pNdnp0VVNfU2hScnhfRWdabXZuNXluazhDenpBYjFRQ2I5YXfSAegBQVVfeXFMT1I1NnpGOHNnek96czZ0Z0xfNURBMC1udFRJaGNTQWtmaklSaUFCQUpEeUkxSjZrcURPUnpCM0Zjb1dzMGczMHAzcUFoVC0yaHl1YU9UTkV1d0t5b1JObWVBOGo1VUN4QkhyTl9ndHVmOF9rRnJ1cVdEQlFkVnFHaXdqdjkyUmpQZ3BDTU56MnNvNHNMU09mSlltMGFXcFdvcDJsTUF0a1g4SGN1NmJOaUVHSHlnZ2ZHa1RudTkzMklUUmk5VUJjUDBFZnBGTHpaZzBzamZyV0tidVBlcnAzNmVnV1hCd254TQ?oc=5",
+   "date": "2026-10-08T16:37:31+00:00",
+   "publisher": "The New Indian Express",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 78
+  },
+  {
+   "title": "US-Regierung schließt Microsoft und Adobe von Visa-Programm aus - heise online",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdXBNa0VRMlZGY1c5RFpCYzctVUQyTkpNZ0k2Rl9TWDJxYnAtVlVpR3JZMXlINGFoVk9VdjRQNkNlanczZzNlclFHVUFiLXVsYkNBSEVrQk5UWDNlczR3LTYzbExLR1ZwcjNsSlFvTUxVZWFjYmxXaTRtRHhHRG1SUlppOXB2U1JvcERnVGZHdWZwXy13c1FGdTNtc21WWHZsSm93MjZhOA?oc=5",
+   "date": "2026-10-08T17:41:00+00:00",
+   "publisher": "heise online",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 79
+  },
+  {
+   "title": "Autonomous Networks - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqRmNTMVpRSU5wNVM1b183N0ZYME92Z2xOQzQ2eWZXT3JfTHFPeUxvU1BGdUsyR1BFckxDbEtpbDB0SVptUkpCbHpaRS1FSmZXSTFKNFNManZEQkl5RndjS3FrMFdDOV9BRlY2ZVNMUQ?oc=5",
+   "date": "2026-10-08T18:01:13+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 80
+  },
+  {
+   "title": "US suspends Microsoft, Infosys, TCS, Wipro, Cognizant, HCL and Capgemini from green card programme - The South First",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGNtVjZkSndVV0VOVUZWbHkxQVA1Uno0OFZScmc2Y3Q2WXNTUUx0RG1YQzZBd2Fqcnpta3dTYXlmV3V6WTZodVpoWGNMVHprdmUxZXlSUTQ5bXFCLTBwZjNwOU5ydnZKM2xHTU44dzVLNDhNTzhjWEFDaFFEWmMzbDdQQ05UelpET2hGcFptUC1nM0NrNXJyQVhqVGxOMll2Zmg2NVRFVGN1RHYyU3BoWlNWaWpJQU9VSnV3cWtDSHZoVFZ4ekIzQ1YtMA?oc=5",
+   "date": "2026-10-08T18:02:49+00:00",
+   "publisher": "The South First",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 81
+  },
+  {
+   "title": "US suspends Microsoft, major IT firms from key green card programme - The Express Tribune",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWhHc0lRZkMzNVpycExDNkR0T0RSUUVfSWRUZzA3MktRMThsX21VNmpxMV9DX2loUXNnTjFEYnJrR0QwOFFhSzNPdlBlZkVpUlhCUUdUX0ZidjNuYjJMcUMzenN3R2toTlVpYlg1cGhGXzBKNHNKMW41WGNZQ1E2NlZ5MjJDQ3R1UWZPWGRBUEYyVWNZWDZKS1hMS3Z5T1dUYUxua0t3?oc=5",
+   "date": "2026-10-08T18:10:14+00:00",
+   "publisher": "The Express Tribune",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 82
+  },
+  {
+   "title": "Actualités par CNBC TV18 sur TradingView, 2026-10-08 — cnbctv:5298f480e094b:0 - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hUm90aVFnT0docGxqRXZrd01VUjFzRTNRQ0dQb0JTZGR2UHUtMEVDa1NDeTE4LUZrLXdvcGpIT1N3RWZBNVl6MGlVQkxicjZHTUNqMEhEMEZvRzI0MFdOcGhyYjc2UQ?oc=5",
+   "date": "2026-10-08T18:12:36+00:00",
+   "publisher": "TradingView",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 83
+  },
+  {
+   "title": "US Suspends Microsoft, Adobe, Cognizant, Infosys, TCS, Wipro, HCL and Capgemini From PERM Green Card Program - InfotechLead",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUlXWW9KcmN1T1UxMVJrUTNOUS1HRzUyN3dVNk85bzZWV2ltcDNWSTk1UUo3ZGtQUGppTUJQUklNMFlmYmlBd29XX29xUGtkaE1WdjZmWnhQY2RCRGItY3VHUk5QT3VISlVFVXNhSkRTdkcxRW1zTHZpREgyWFY4ejFUdXN0LU9Fd0JpZHMxcVoyU2RudWVUY1o0NVdZeVBoRGtjMG1vN3gxSGVUR0NtcV9odVNiQk92T3B2dUpfOUd5S29rZlJaNWgxX2lrMUx2Z2JDZzBOUGpEZ9IB4gFBVV95cUxPQmN3bEgxUHhBbi1KdEhZblVEX2xWWFNLZTFXaXVBdk5tclRseEoydXFhbjAycnMwNFBlOVR3bFVQTnUteGhKVC1vcmFCbEdqLTQ0LWk4VFItYVlKaElsVEc3b1VhSWtnNG5aaTRlS2c5RUpFWEM0Ny0tN3lEOW1WRWJJcWRrMEg0Ry1STk13SzViT2ZXV2cwb2ZQYkFQazFoV3hGUEFpLWlYaFh6NVlTY1hwNXdpTkliNTZZT1lRZDZHRWgyd3R3SU44cGxoMFgyZ0JZYzZiOElFNThvLVZEWWZR?oc=5",
+   "date": "2026-10-08T21:39:27+00:00",
+   "publisher": "InfotechLead",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 84
+  },
+  {
+   "title": "Billie Major - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcmRPN1BJRHM4cXltWGZWU0ZXdkZLSkRua1RianVfc0hhbGlKMTM0dVFCcEN4NDhlNGRYZ1F5OGQ1LWphUV9xcEtPOUEwcGIzNlJualJSLUY4eVlFbXBLTFhYSXhCUkk4bmJZLXNkVm9zNW9NX0NkdWJMd25XOWlmeXhlYThxZXY2TFBHaFRHeDlVQ2VSbWxrNl8xeXk?oc=5",
+   "date": "2026-10-09T02:51:54+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 85
+  },
+  {
+   "title": "The era of AI Yield: Mastering tokenomics to maximize enterprise value - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEFFM2gyaFJ3eDR4aUxUQVdnb2h2NkFhaU5wOHFEVWI4b29tLU5QTTE4YXA2ZVh4bE5FNFJrNHByOUdvb3hNME1iRHh6ZkNGRXlVdmt0ZzItWGdndmljUTBtazJwaU9ycjNOZGRKMFV5VnZQWmdwYTI4aUFWT2RvVFJ4cHFZcFVPcnM0UldFZ0EtMXA5WmFqYm45SkU1Sm14?oc=5",
+   "date": "2026-10-09T04:52:12+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 86
+  },
+  {
+   "title": "US green card freeze: Cognizant, Infosys, TCS, Wipro, HCL among 8 IT firms suspended; impact on Indian jobs - IBTimes India",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcFlWaU1lVm1kYTRYQ1ByQ0VFRWc4OFY5MER0Mk5zX2FHWHExb3FsbWd1QjBnOW1idjVDQllFYzN5aVJkQ0tlUTg2WEQwT0wzamZXWWJEWDU1ek1lblY2c3c3UHZkQVBHWDRUZlJyeEdzajVDN21RckVNVUN5UkJhc3RZQ0dwVTFFMnhUMnNDUm43N0pDajRkMlBYSkFiMjVwQ3FkZlV4NkhybUR4WjZXeWpJR0xPakdPVlR3?oc=5",
+   "date": "2026-10-09T05:17:52+00:00",
+   "publisher": "IBTimes India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 87
+  },
+  {
+   "title": "H-1B To Green Card Transitions Remain Limited: Nasscom Reacts After US Suspends Infosys, TCS, Wipro, HCL, - Free Press Journal",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRExPZ3ByQ0tyTm1kVUtaSnhod3d6cTdWZzZhU2U0ZnNiWVN3ZUhDQUdfQkEzU1RQNF9wWGVHNVozM0dxLUVfZDFIUy1XeWRnQ2x5aDRndkU3RXVFWTVjSEtjUFVJdDd5dDYzR3hJeGQzcUVTa0dxN3BpQ2lyaXFfVjBEeXVWQ2RCamUzOHFvMkt6RUFXb25DNnU4Qzk4SWxGdXJYXzgwOU5aLTNyZEltOG9SRFRTQi14NXdTeS1MVFdlQzFORDM1OW5DYXBnYklLN1lNc1piTXl0M254RDNxVG95TWpVa05URUc2QUhXcnF4MXo2ckt0SDRyRFpwRXJWNVlSRHM5dEXSAY4CQVVfeXFMTlZ0WjRxVzZBaHNoV1M1ckNPaUVlckM1ZkZLZHdILTBycTJnbEJGaXV3RE53SmVfcW1tbGhUWXpZbnBDR2tObXdSMHJjWThtRHpHdmtOajN3WGJDX0dfQndxeFRjemRlcGFfUU93cGhsZXo5SWxMTzBVdk42Q0JvZVVYZGVtSmx4QXdwM080a1BvSkptRTRTMm5hNUI5OVJUZ29aQm5oN0ZFUVEyTGh5VjJMS19sXzZPVHRYa2VBR1RTdjRmeWxxbnBQdzdDY3g4Q0NLZmZwQTNXR29XMWJ1bm9sZFMyY3lPYWZIUFV0Q1YwRmVVNXo4TzZtN3VkOTYxeXdyQ3lRaENoVmM2ampn?oc=5",
+   "date": "2026-10-09T05:41:40+00:00",
+   "publisher": "Free Press Journal",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 88
+  },
+  {
+   "title": "How to bring greater confidence to PLM investments - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0RnVm1nVklDbWlKMlZwc0MtcjJaNTFfVlg3bWFTYjlYWVdJN0ZSM3M3UVBCczM3SkdZb0FoOXhFSjJzLWtPV25Jd3U4MmpkM3NiOF9wRFprMGRlUVl1WDBoMXNERU5nM3RJc2g1NXR5LXhOZE5jR21ONnNHOFhSQTQxNUFNY0V4cjFWZWlUdGxxRzhhYXRGUXdNV1QzcjVlZ1Z3UzlZVDRkdw?oc=5",
+   "date": "2026-10-09T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 89
+  },
+  {
+   "title": "Capgemini SE : Déclaration des transactions sur actions propres réalisées du 5 au 9 octobre 2026 - Zonebourse",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd1N3N2tGNTY1dC1RVDRfQjE1RXhfY2tkak1leXRkb000SFB2NzE0SlJKMGZIeDJxOFRld2s2Q3pndDJwZ3NKUENESmo0allXYVFKeTlmT2NlbUZtUzhYclIwc3cwTTV3Um9GRjZnZ2dRUmcwMEh1SjFwdkhmbnlEbmR4ZkFWQmdadVo1bEwtMDliUnd6OEVIYTQ0bUUxUmlmNUtrUWI5b01LWldfY1FVNVpLSDhmT0lIUHpOazROQXhRdVhObmFrVlVtaFNRNFNFa1dpc3dBNEpXeG92ZG1UN2ZsbTY3WHg2QmZr?oc=5",
+   "date": "2026-10-09T07:00:00+00:00",
+   "publisher": "Zonebourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 90
+  },
+  {
+   "title": "US Suspends Green Card Labour Certification Processing For Eight Tech Giants - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNTl2aS1ZWWpPOEx2ekpHaHdacWwwSEhhU21keDNxc2pUVHlZTDEyS2V2MlZjamZrajItZ1FPMm1Eb1RVMHFTZzRwcUh4T1pDNHVvdk5fNXF1bnNDQjdJa3ZMSTRqdWxMLWhyX3JCTFV5b0ROM0VuWU5wVmxvcTF6QkREVlZ2aE1kSmFsbEMyMW41ZVU3NmtGTDZFandMeXg0MkJqUmhRUHFJQlN3MGhNUFA3TGFrQ1huc3RMVENTWmI3Znc0QnNOTmpmdk4?oc=5",
+   "date": "2026-10-09T08:01:06+00:00",
+   "publisher": "TradingView",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 91
+  },
+  {
+   "title": "Vance greift Microsoft frontal an – Konzern verliert Zugang zu Green Cards für Tausende Mitarbeiter - Merkur",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUXdqaFBUMHpESWpuQVdYWFlPVTBzRFJ6UzlqdWdLNXBrNlNCcGlzRmlleUtBcndyd0F3RTQza0o3ODJwY19IV1hjLUFuaGFvYUliMU8xcEdyWm85cXM5M1lOYTliRHFseXBzUkhwRER3S3hVcTZ3V3ljMExvOTZibDZWVUlIWUNqcHJLNE1ZRjRPbklpVlpXdVhTbEJtNjZ4aGU2RkRVYlplck9LOVNkd2NldW8xZUY3eUk3Y2pNM1RZOHlLdVE?oc=5",
+   "date": "2026-10-09T08:07:18+00:00",
+   "publisher": "Merkur",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 92
+  },
+  {
+   "title": "Action Capgemini : parmi les plus fortes hausses du CAC 40, le titre grimpe de 3,5 % - Ideal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0t6NzRiNDA3d0gtZEltdVlTdFkzSHdmTUFqOWpmRXZkX2hoWC01czJWcGctUFVjT2tTSGNyVWVjeFlPcWNxSl9wRkF0SVZOelRla2dRNVN6Sk1BUEd2TmlCVFNpR01tZmJoY0lOaFVCR2tyZ2FRa2N0VmZpNzBKcDYzMUpCT3hLNnZCNmVrVURBYmtfLVozUHB2MWlOaS1pOGhFc3ZMVnlmTFEyLU91RWdmVm5vZFN3RlViRHdTQ1NqWDFFcVVOaVJWU3Uydw?oc=5",
+   "date": "2026-10-09T09:12:00+00:00",
+   "publisher": "Ideal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 93
+  },
+  {
+   "title": "Making AI real: Turning intelligence into measurable business impact - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEEwNUxpYzZlTUYtWU5ZNHZwZmwtVGxOVUV4NEhwZzIxRWNEcnVYdkE2RENid3F4Z3dBSWZxNlUzQnM0cjRFcU8zc2hWblRnd3VURzBhR3VRR1ByNGNyVEZuRkJYSmM1elAwcENKc1lzbWkxbnBNYlotODVXbVF2TDJwcGxMTEdXX2dWakVwYTdmQThJd3ZlMjF2WGpjdXpsNEpWelZoSnVFWmx2OHpQNG1LSzVUdEdwSXRJY0FVSkxhNU9m?oc=5",
+   "date": "2026-10-09T09:28:54+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 94
+  },
+  {
+   "title": "Microsoft: US-Regierung schließt Konzern aus H-1B-Visaprogramm aus - Manager Magazin",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS25xckM2cG1yMjRCQ1M3ckRMbUg0dnV5RHFLd3FIaVpBVTB1blVja0x0UkRBV2VrWVR1YVNRTnlDckRmTUZSdDFjOGU1NzdUbi1JeWdrVjRBTktGWklxeWUwOVhWaFJOcE54VzkwQXJETlY1b05mODhERFdMbGsyRlFqbVBpWGhrcEtUTld4WjdncGs2OFdhOTZKWS1wc1JsbXZ3eHNlaWZsQm1lZWtKczVXTzhZUkltdDVXY0F6RkppdnZmTm5leVVON05xN2pCX2FyWXB2MjRoMlgzcE5PQl9nUUR0MTl5?oc=5",
+   "date": "2026-10-09T09:52:00+00:00",
+   "publisher": "Manager Magazin",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 95
+  },
+  {
+   "title": "US authorities crack down on IT outsourcing - Channel Dive",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUl1MTdhS3QwUWxmOV9SWlllYnp1bFVSak9MQkJ6OGlyUXU3N2duV1ZsN3dHSUVZbFRRYl9HbG10WmV2eE0yV1VJUEUtdDZVVWhqSGh2VFBrczh1a212Q194RDJmMTdLMDdnbmFrNnQxLWY0T0pNbldaVGxrLVpWdEVkSl9vcjBvSEtTU0FNRDN5SWRabjZscWdqOWh2SEdONUx0TTJIX3g?oc=5",
+   "date": "2026-10-09T10:04:35+00:00",
+   "publisher": "Channel Dive",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 96
+  },
+  {
+   "title": "Sur le marché des services numériques, faut-il privilégier le français Capgemini ou le poids lourd américain IBM - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaVRDNE1fQjhTUFlGcUM5RWppS19YQ1lUTENZYmhtYld1MktFZGpfVzNHajRZU05wUWVoNm9VdEt3THdlNVk3WndSdFBIWFRmY3hXY21VT0dRN0xmdW9mOFdqdmhkcFptY2RzaTVzUllxcUtucExzNF8xa0pQNFU4RnBuYkplVFllSktQQVd3Yl8xRjVQdmJGajRFYnpiS0wtTXRMMVRwUi1lMHlDRkdRbm9xbTk3SWtqZ21KMEoxQnYzTEFDSGI4UFlJbTByOEVmdHo3ZnhEaS1saERjNDRURlZwZ0t2a1p2b0hHWGE2a2lSNXhOV053MmVuMmFBX1hsaWR5dHE4T1NJay15NzFwS1dR?oc=5",
+   "date": "2026-10-09T10:05:09+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 97
+  },
+  {
+   "title": "CAC 40 steigt dank ArcelorMittal um 0,8 Prozent - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1NTS0t2WmRPVU5BTnNxbjN5Q3VHbUJyUVZPT085V1c0dVFGc2hXdHJFRUVwbFlWcldxem55enhIZVRNdkVKWUVVb01GbnBvTEU3RHZXS2EzREVOeVNIM2ZrcHJCUk5wTS1GTGtwTTBvUFRSRFE4cE0taC1KVTZ0VXoxMGVIY0FIcFlvbnVSM3hVR0pyQW1ZUW1ST0pydFl6bDlCLTE3SlZOY0gtY3c?oc=5",
+   "date": "2026-10-09T11:04:00+00:00",
+   "publisher": "ad-hoc-news.de",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 98
+  },
+  {
+   "title": "Henkel & Capgemini: Automating Product Carbon Footprints - Sustainability Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0M5bmZ6eG5aNWpULXhrYldLOUk3Mmg3U2pJNUJ6YXpoUl9WamVScTAxR3g1azJhTDVIYnoyYTNrcmxhS1I1RDc3TnpGN1JabmppeTNMRWdxZ0hGeVRWUkFCU0dVZThEN01aYXJDbkIwNFJUWjJKZnhpcXBFbC1jQVBOanBRbWZiQVhqNk1VZ2pOdw?oc=5",
+   "date": "2026-10-09T12:20:36+00:00",
+   "publisher": "Sustainability Magazine",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 99
+  },
+  {
+   "title": "US Green Card suspension: What it means for Indian techies at Microsoft, TCS, Cognizant, Infosys, Wipro, HCL, Adobe and Capgemini - The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkVpZlJYeGJ1ek50elZLR0gtd21nVXMzU1BIODBOSlFuWGtQNml3Z0E4QUlxR0RfUHFwNGVJWjljd0pNN2JjZ0NOTFhMTXBVNXo1ZjB2TGlFajhVWDdKNHFxUElmeV9scG5vZnF1cXJ2ckFJWHR2MTNReUkxLUpPTFBrWFVLdUdza0NmYzNMY3Fya1dURnpqVWEwcEJTME14bTRnMFNjUUxjM1RzVHRqV2p3RTFXbzV5eHhlM2J4T0Q2dnVlbjVyTFlZaVDSAdMBQVVfeXFMTngtRnJmeVNxU2U5T2pnbGgyZnpFOTN2T19od2tnQzIzb1BMbXRHc2F1UjVIR3ZaTXBCOHN5UldzcGd0MDl3WC01VHdHLUFkLVNEZ214eWtXNldEUWI3WEdPV0s3UnVET3dFeTJrbDRBUlRydzlMbkh2YWZfSXR6YVRVNWhKUVE2bGZSb2hlQ21JQkxkc3llX25VUktIYlB2cDBpTDhLSy1aUzNta044QkhRQ2RkZDdFUDlzVlQyajBnR05sWFFwZHNtOElZb1RrMHAwYw?oc=5",
+   "date": "2026-10-09T12:29:30+00:00",
+   "publisher": "The Indian Express",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 100
+  },
+  {
+   "title": "Capgemini progresse de 3,79% - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFBCamxvZk1JUk14UTAyM3BRS1ItbGVRa0MwaG5uTDczVXNMRE5CdjlUc05UWjJHZGJwUnhPRmo2MnVqU1RURlFQSGNvVXljelJCel9Qckg1VUxEWGp2VFV3NU1YR2lodnNHTzJ0RlcxTUZ4cHkxT3diN2tDY0NzemZpYnVLWXp2UmdvRXdDTjU1QQ?oc=5",
+   "date": "2026-10-09T15:41:39+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 101
+  },
+  {
+   "title": "Privés de « green cards » pour leurs employés, Microsoft et Capgemini dans le viseur de l’administration Trump - Le Figaro",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZVRuZ1pBY1Ixa3lpTUhrS1kxUVFFVkhTZ3hHc3JtdlR1ZjhFeEtKYkNfWV9OSG4wMHduRVdHdnd6TlJFMEt4a2t3eTlLQTNWWDJCZURPYmhOUmpvbFBabEJ0ZHFWMGRXU3B3Q3czaG1uam1mOWh6TWhsN3BwN1FkdVN3MFp4RUVYSXN3bzlKeWFLZlJ5VGVldDNiS21fT21JUzVlRmRpMHhiU0J0LVR6VlVOVlJBY2lLbGZrMDRwNEpYd1VtZy1HeVNNb3dja1p1dmZCRkh6OGJvclhPQW1TRg?oc=5",
+   "date": "2026-10-09T18:00:25+00:00",
+   "publisher": "Le Figaro",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 102
+  },
+  {
+   "title": "Sustainability in action 2026: les nouvelles règles de la résilience des entreprises - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTGlONHpReGRPWTNHNFcxWDV0UnFUVlB0WDRLcF82NXd4SGtCbDh2Yk1hRElLRERhbUljUlg0dGdJaXFydkdaUmdkSXVpSTR1elFab2RwSUZWVjc2dE9jU0RDUnhRYTllY1ozWXdxWHVQUWpPWk1xRnpwbVVLTnJXcUZkMmhsdXNvMURiS1g3YXB3UQ?oc=5",
+   "date": "2026-10-09T20:30:13+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 103
+  }
+ ]
+}

@@ -74,5 +74,6 @@
     "leadership": "appoints [A-Z]|appointed|nomme [A-Z]|nommé|elevated|promoted|ernennt|steps down|new (CEO|CTO|CFO|head)"
   },
   "aliases_regex": "Capgemini|\\bWNS\\b|\\bKipi\\b",
-  "drive_folder_id": "1ePyr-PclAiCu3f94X0Utx9htXrgIpmWg"
+  "drive_folder_id": "1ePyr-PclAiCu3f94X0Utx9htXrgIpmWg",
+  "web_app_url": "https://script.google.com/a/macros/snowflake.com/s/AKfycbzyCkooeR8mRfkbeV6964bScg6vcdmoMoAah8ANNmt10jsNuSvn4Q24VLGiA1VK40IT_w/exec"
 }

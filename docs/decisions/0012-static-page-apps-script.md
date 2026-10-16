@@ -24,6 +24,9 @@ The dynamic viewer (0011: page lists and parses digest files at runtime) did not
 - The page is uploaded to the Drive folder as `<partner>-news.html`.
 - `apps-script/Code.gs` only has `doGet`, serving that file looked up by name in the folder. Deploy once: Execute as Me, Anyone within Snowflake.
 
+## Deployment
+Web app: https://script.google.com/a/macros/snowflake.com/s/AKfycbzyCkooeR8mRfkbeV6964bScg6vcdmoMoAah8ANNmt10jsNuSvn4Q24VLGiA1VK40IT_w/exec
+
 ## Consequences
 - Weekly update = rebuild + replace one Drive file; no Apps Script changes.
 - Page also works opened directly from disk.

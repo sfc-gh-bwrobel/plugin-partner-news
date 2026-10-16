@@ -1,0 +1,699 @@
+{
+ "judged_by": "cortex-code/claude-opus-5-5",
+ "judged_at": "2026-10-16",
+ "window": "2026-10-03..2026-10-09",
+ "items": [
+  {
+   "id": 1,
+   "keep": true,
+   "cluster": "hackerrank-chakra",
+   "section": "snowflake",
+   "score": 1,
+   "reason": "Passing mention: Snowflake and Capgemini among Chakra beta testers",
+   "lead": true,
+   "resolved_link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/"
+  },
+  {
+   "id": 2,
+   "keep": true,
+   "cluster": "kipi-telecom-poy",
+   "section": "snowflake",
+   "score": 2,
+   "reason": "Kipi.ai (part of Capgemini) Snowflake Global Telecom Partner of the Year; award from Summit 2026 (June)",
+   "lead": true,
+   "resolved_link": "https://www.kipi.ai/insights/blog/kipi-ai-named-2026-snowflake-global-telecom-partner-of-the-year"
+  },
+  {
+   "id": 3,
+   "keep": true,
+   "cluster": "hackerrank-chakra",
+   "section": "snowflake",
+   "score": 1,
+   "reason": "same story"
+  },
+  {
+   "id": 4,
+   "keep": true,
+   "cluster": "vp-pratibha-sharma",
+   "section": "people",
+   "score": 1,
+   "reason": "Promotion to VP at Capgemini",
+   "lead": true,
+   "resolved_link": "https://veloxxmedia.com/pratibha-sharma-has-been-elevated-to-vice-president-at-capgemini/"
+  },
+  {
+   "id": 5,
+   "keep": false,
+   "reason": "HR anecdote"
+  },
+  {
+   "id": 6,
+   "keep": false,
+   "reason": "dividend stock list"
+  },
+  {
+   "id": 7,
+   "keep": true,
+   "cluster": "sustainability-report-2026",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Sustainability in Action 2026 report launch",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/fi-en/insights/research-library/sustainability-in-action-2026/"
+  },
+  {
+   "id": 8,
+   "keep": false,
+   "reason": "Aerocontact video repost, original date unknown"
+  },
+  {
+   "id": 9,
+   "keep": false,
+   "reason": "Aerocontact video repost, original date unknown"
+  },
+  {
+   "id": 10,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 11,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 12,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 13,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 14,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 15,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 16,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 17,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 18,
+   "keep": false,
+   "reason": "Aerocontact video repost"
+  },
+  {
+   "id": 19,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 20,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 21,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 22,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 23,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 24,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 25,
+   "keep": false,
+   "reason": "ESOP dilution buyback (finance filing)"
+  },
+  {
+   "id": 26,
+   "keep": false,
+   "reason": "event marketing"
+  },
+  {
+   "id": 27,
+   "keep": false,
+   "reason": "ESOP dilution buyback"
+  },
+  {
+   "id": 28,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 29,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 30,
+   "keep": true,
+   "cluster": "scale-ai-trusted-data",
+   "section": "also_noted",
+   "score": 2,
+   "reason": "Expert perspective aligned with Snowflake data + AI message",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/insights/expert-perspectives/scale-ai-with-trusted-data/"
+  },
+  {
+   "id": 31,
+   "keep": true,
+   "cluster": "iberdrola-servicenow",
+   "section": "top",
+   "score": 2,
+   "reason": "Client case with ServiceNow",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/be-en/news/client-stories/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/"
+  },
+  {
+   "id": 32,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 33,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 34,
+   "keep": false,
+   "reason": "unrelated"
+  },
+  {
+   "id": 35,
+   "keep": true,
+   "cluster": "niet-codexperience",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same story"
+  },
+  {
+   "id": 36,
+   "keep": false,
+   "reason": "ESOP dilution buyback"
+  },
+  {
+   "id": 37,
+   "keep": false,
+   "reason": "ESOP dilution buyback"
+  },
+  {
+   "id": 38,
+   "keep": true,
+   "cluster": "public-sector-ai-research",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Middle East and Singapore public-sector AI research",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/ae-en/insights/expert-perspectives/a-growing-share-of-middle-eastern-public-sector-organizations-are-scaling-ai-with-success/"
+  },
+  {
+   "id": 39,
+   "keep": true,
+   "cluster": "bmw-automotive-ai",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Capgemini and BMW executives on AI in automotive (article not verified, 403)",
+   "lead": true,
+   "resolved_link": "https://www.autonews.com/video/capgemini-and-bmw-executives-outline-how-ai-is-giving-automakers-superpowers/"
+  },
+  {
+   "id": 40,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 41,
+   "keep": false,
+   "reason": "partner marketing video"
+  },
+  {
+   "id": 42,
+   "keep": true,
+   "cluster": "servicenow-agent365",
+   "section": "top",
+   "score": 2,
+   "reason": "Capgemini + ServiceNow + Microsoft Agent 365 governed AI offer (video, Aerocontact)",
+   "lead": true,
+   "resolved_link": "https://www.aerocontact.com/videos/157286-capgemini-and-servicenow-partner-for-governed-ai-with-agent-365-and-ai-control-tower"
+  },
+  {
+   "id": 43,
+   "keep": true,
+   "cluster": "niet-codexperience",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Academia partnership: CodeXperience Center, Greater Noida",
+   "lead": true,
+   "resolved_link": "https://bestcolleges.indiatoday.in/latest-news/niet-capgemini-launch-codexperience-center-at-greater-noida-campus-11916"
+  },
+  {
+   "id": 44,
+   "keep": false,
+   "reason": "stock analysis"
+  },
+  {
+   "id": 45,
+   "keep": true,
+   "cluster": "henkel-pcf",
+   "section": "top",
+   "score": 2,
+   "reason": "Client case: product carbon footprints for 50,000+ products",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/us-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/"
+  },
+  {
+   "id": 46,
+   "keep": false,
+   "reason": "other company"
+  },
+  {
+   "id": 47,
+   "keep": false,
+   "reason": "event marketing, date not given"
+  },
+  {
+   "id": 48,
+   "keep": true,
+   "cluster": "uk-climate-revenue",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "UK cut of climate research: 84% felt revenue impact",
+   "lead": true,
+   "resolved_link": "https://environment-analyst.com/global/111727/capgemini-report-84-of-uk-organisations-have-felt-climates-impact-on-revenues"
+  },
+  {
+   "id": 49,
+   "keep": false,
+   "reason": "sponsorship"
+  },
+  {
+   "id": 50,
+   "keep": true,
+   "cluster": "public-sector-ai-research",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same story"
+  },
+  {
+   "id": 51,
+   "keep": true,
+   "cluster": "beobank-people-platform",
+   "section": "top",
+   "score": 2,
+   "reason": "Client case: Beobank people platform",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/us-en/news/client-stories/beobank-builds-a-scalable-people-platform-to-improve-employee-experience-and-business-agility/"
+  },
+  {
+   "id": 52,
+   "keep": true,
+   "cluster": "hfs-gcc-orchestrator",
+   "section": "top",
+   "score": 2,
+   "reason": "Analyst recognition: HFS Horizon 3 GCC Orchestrator (Market Leader)",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/us-en/news/analyst-recognition/capgemini-has-been-positioned-by-hfs-research-as-a-horizon-3-gcc-orchestrator-market-leader-in-the-2026-hfs-horizons-global-capability-centers-gcc-services-report/"
+  },
+  {
+   "id": 53,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 54,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "US suspends Capgemini and 7 others from PERM green-card program; lead: CNBC",
+   "lead": true,
+   "resolved_link": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html"
+  },
+  {
+   "id": 55,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 56,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 57,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 58,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 59,
+   "keep": false,
+   "reason": "own-share filing"
+  },
+  {
+   "id": 60,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 61,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 62,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 63,
+   "keep": false,
+   "reason": "Indian listed subsidiary shareholding data"
+  },
+  {
+   "id": 64,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 65,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 66,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 67,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 68,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 69,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 70,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 71,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 72,
+   "keep": false,
+   "reason": "untitled aggregator item"
+  },
+  {
+   "id": 73,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 74,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 75,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 76,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 77,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 78,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 79,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 80,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 81,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 82,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 83,
+   "keep": false,
+   "reason": "untitled aggregator item"
+  },
+  {
+   "id": 84,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 85,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 86,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 87,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 88,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 89,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 90,
+   "keep": false,
+   "reason": "own-share filing"
+  },
+  {
+   "id": 91,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 92,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 93,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 94,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 95,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 96,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 97,
+   "keep": false,
+   "reason": "stock comparison"
+  },
+  {
+   "id": 98,
+   "keep": false,
+   "reason": "index report"
+  },
+  {
+   "id": 99,
+   "keep": true,
+   "cluster": "henkel-pcf",
+   "section": "top",
+   "score": 2,
+   "reason": "same story"
+  },
+  {
+   "id": 100,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 101,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 102,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 103,
+   "keep": true,
+   "cluster": "sustainability-report-2026",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same story"
+  }
+ ]
+}

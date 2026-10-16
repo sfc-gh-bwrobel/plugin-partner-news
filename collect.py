@@ -74,8 +74,14 @@ def co_mention(page, a_rx, b_rx):
     return next((p for p in paragraphs(page) if a_rx.search(p) and b_rx.search(p)), None)
 
 
-def google_news_url(q, days, loc):
-    params = {"q": f"{q} when:{days}d", **loc}
+def google_news_url(q, days, loc, end=None):
+    # Past windows use after:/before: (before is exclusive); the current one uses when:Nd.
+    if end:
+        start = end - timedelta(days=days)
+        window = f"after:{start:%Y-%m-%d} before:{end + timedelta(days=1):%Y-%m-%d}"
+    else:
+        window = f"when:{days}d"
+    params = {"q": f"{q} {window}", **loc}
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(params)
 
 
@@ -95,25 +101,28 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("config")
     ap.add_argument("--days", type=int, default=7)
+    ap.add_argument("--end", help="last day of the window, YYYY-MM-DD (default: today)")
     ap.add_argument("--refresh", action="store_true", help="re-scan even if today's raw file exists")
     args = ap.parse_args()
 
     out_dir = Path(args.config).resolve().parent.parent / "raw" / Path(args.config).stem
-    path = out_dir / f"{datetime.now():%Y-%m-%d}.json"
+    end = datetime.strptime(args.end, "%Y-%m-%d").replace(tzinfo=timezone.utc) if args.end else None
+    path = out_dir / f"{(end or datetime.now()):%Y-%m-%d}.json"
     if path.exists() and not args.refresh:
         print(f"{path}\ncached - use --refresh to re-scan")
         return
 
     cfg = json.loads(Path(args.config).read_text())
     noise = re.compile(cfg["noise_regex"], re.I)
-    cutoff = datetime.now(timezone.utc) - timedelta(days=args.days)
+    window_end = end + timedelta(days=1) if end else datetime.now(timezone.utc)
+    cutoff = window_end - timedelta(days=args.days)
 
     sources = [(f["id"], f["section"], f["url"]) for f in cfg["feeds"]]
     gn = cfg.get("google_news", {})
     for query in gn.get("queries", []):
         for loc in gn.get("locales", []):
             sources.append((f"gnews-{query['section']}-{loc['gl']}", query["section"],
-                            google_news_url(query["q"], args.days, loc)))
+                            google_news_url(query["q"], args.days, loc, end)))
 
     title_rx = {s: re.compile(cfg.get("section_title_regex", {})[s], re.I)
                 for s in SECTION_PRIORITY if s in cfg.get("section_title_regex", {})}
@@ -134,7 +143,7 @@ def main():
                 stats["noise"] += 1
                 continue
             dt = parse_date(it["date"])
-            if dt and dt < cutoff:
+            if dt and (dt < cutoff or dt >= window_end):
                 stats["old"] += 1
                 continue
             # Google News matches queries loosely, so the section comes from the title.
@@ -177,7 +186,7 @@ def main():
     for n, it in enumerate(out, 1):
         it["id"] = n  # stable reference for the judged file
     out_dir.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps({"partner": cfg["name"], "days": args.days, "stats": stats,
+    path.write_text(json.dumps({"partner": cfg["name"], "days": args.days, "end": args.end, "stats": stats,
                                 "manual_checks": cfg.get("manual_checks", []),
                                 "items": out}, ensure_ascii=False, indent=1))
 
