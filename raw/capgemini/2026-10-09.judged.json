@@ -258,9 +258,10 @@
    "id": 42,
    "keep": true,
    "cluster": "servicenow-agent365",
-   "section": "top",
+   "section": "more_news",
+   "topic": "AI, data & technology",
    "score": 2,
-   "reason": "Capgemini + ServiceNow + Microsoft Agent 365 governed AI offer (video, Aerocontact)",
+   "reason": "Editorial review 2026-10-16: short video description supports a brief, not a verified joint offer or full news story. Video not verified; collected Oct 7 date conflicts with current page display Oct 15. Retain source and flag discrepancy.",
    "lead": true,
    "resolved_link": "https://www.aerocontact.com/videos/157286-capgemini-and-servicenow-partner-for-governed-ai-with-agent-365-and-ai-control-tower"
   },

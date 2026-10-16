@@ -1,0 +1,480 @@
+{
+ "partner": "Capgemini",
+ "days": 7,
+ "end": "2026-09-27",
+ "stats": {
+  "raw": 355,
+  "noise": 10,
+  "old": 265,
+  "off_topic": 20,
+  "body_checked": 0,
+  "errors": []
+ },
+ "manual_checks": [
+  "LinkedIn page: https://www.linkedin.com/company/capgemini/ (no API access - skim manually)",
+  "Press releases: https://www.capgemini.com/news/press-releases/",
+  "Investor calendar: https://investors.capgemini.com/en/"
+ ],
+ "items": [
+  {
+   "title": "Swedish Civil Defense Agency Appoints Capgemini as System Integrator for SWEN - The Critical Communications Review",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHlZUU1rTjRRb1RnazFyWGVxekFkaWFUZ1lzbVRGcVAyQlNRb1pWcERGZkVBUmxmREF5NTF5YjNFeC13eG5vT1RCdHpPZFRjOHRvRGtoLXJGVmF3QnFUT0NUeWM2eEpNTGdpR3Z2TVBkdkM2REN1RzQzdGlJQXZMNU5LNzRhY3NLbkpGeHNiZDdKdDN5UnFEMm5LN193SGtaTl9pdXVQQkp3OFQ0YXNXX0VqSFhEaEJyaXpsaHRXZkFlVFVwYTBtT1FlMmF1RmJOYm5rTA?oc=5",
+   "date": "2026-09-23T08:19:19+00:00",
+   "publisher": "The Critical Communications Review",
+   "feed": "gnews-general-GB",
+   "section": "leadership",
+   "evidence": null,
+   "id": 1
+  },
+  {
+   "title": "Capgemini rises as Citi says Accenture-Anthropic deal boosts AI services outlook - Investing.com UK",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWNmUkM4LThqX2IxQUhReUszNENtbXdKc2dxazVOcVFrYjhRVW5BVG1NYXBwM09NUFZ1cllPN2kxTWNCdWlOdUYteFl2ZkRHaXJ3c2RxSTNPQ1hETnlLZGlpdXM4ZGtZWkVtd0JVSlNKZTlHY0M5QUUwSFAwZHhPVTZWNktET2d3U2M1QUxWa3NuZE81YkkxUHJ5LWs5TVg0cjNLTzVaZnNla0huZ2FFVGRUZHM2T2hUU0hfckwzNEVzYjlfQmFlNkt4dHRLNk5XSWQ4c0dyUQ?oc=5",
+   "date": "2026-09-21T07:00:00+00:00",
+   "publisher": "Investing.com UK",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 2
+  },
+  {
+   "title": "Capgemini shares rebound by nearly 3% and move back above its 20-day moving average - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLWswb0VZbktkcmxoSHYyQ3I5Ym1ZeDVVUEtyWW9FSzJyYndWcEtNWmdZTDFDTHZsMVluRC1HZ0FSYXNCT09YYlNBdXZ0aURvMWNEUnRLTU1JVGlwT2N1cko0emVySlZyeHkwZXU5c0FLUlB4dmxlOTBlNFhBNlZxalRyNzloWEpzZ2dGYTVuUDNkWGFIa2wzN0pGb2cxUklpV2ZKRkdKWW9GVy1Qa3hwVkppblowdEJjV0ZEZzRpYmFlc184ZldRODBJTVhjR0FNYjFpLTc0UlA?oc=5",
+   "date": "2026-09-21T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 3
+  },
+  {
+   "title": "L'action Capgemini rebondit de près de 3 % et repasse au-dessus de sa MM20 - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVS1BQWpDeGd2TGpfNFBaZGFiSldtNjE5UzlRdkpRQ1J3aDhzemVXSmZ2eG9BUEo0SDFyVFlKV1lNZGxxMFJuY2twamtEUnR4WXo2dE9EampNcXIzd1VBN3JsR3ZWX0RxUjdueXZyWndyX3Y2SVFVOFN0SU1BOG51eXo3SUFFbmdrV3U3c3VNQXd6YkpWaXlnUlQzZU4wc1R1cWVjOFlnVnMzV3JQOHB2VWZOcnk5WWxpUXRTaGxmVDNFTHZ2?oc=5",
+   "date": "2026-09-21T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 4
+  },
+  {
+   "title": "AI in automotive: Turning ambition into performance",
+   "link": "https://www.capgemini.com/au-en/insights/expert-perspectives/ai-in-automotive-turning-ambition-into-performance/",
+   "date": "2026-09-22T02:21:25+00:00",
+   "publisher": "",
+   "feed": "capgemini-au",
+   "section": "general",
+   "evidence": null,
+   "id": 5
+  },
+  {
+   "title": "How JERA Built a Scalable Finance Foundation to Support Energy Security and Expansion - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalk0ekVVYkItbHg4eW8xejRtTzduem5qS0RBckFOdmh1ZVdhWHNwb0pnN0VWMXYxYzdZMzdOcVhWcHVhSjFsOU1QeDNXMTM4dVNGMTFHMlNqdTlxM3h2MnpRTDRTRFNxblVHU2c0S0Y1blBlYlVXZloyVThsMmNFR0QtcHl2X1lhMzdXc282U1p3X1g5XzQ0VFdpbzN1Zw?oc=5",
+   "date": "2026-09-22T06:55:21+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 6
+  },
+  {
+   "title": "Capgemini report shows gaps in life insurance understanding: How policyholders can review their cover - CNBC TV18",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeFlJM3doU2w3cC1XdkNnSElkZDNoY2pRamdRMUtpYVhnSlk3QVhrdHFGMklxcVdvS21CejdtNVlNeTlCOGl0YllleXMxeENXald4V2F5WHBxTGUzS2RpM0VJYUIteDlGdHBUZVNybHYwNkVSVk4zRkllNHhDSkExMl9mZGtZX2EtYXFnVWUxRkN0dG1jSkZwbFA3VjJLNXlod1lJQVVPakFWRHFTUFdxX3JmeTktUGdWSzNiRWtkbVdUZkVEdVM1NDlIUlfSAdIBQVVfeXFMTWppeDBhUURrWTZYNlNlSl96VlFSNlRkOV9hWk80VVhvSGZMelhFenFKY1AxbHJ3STUyWmJhVVNtZGJHTFhKU0tRUGRLd0hyTWw5NkZWRnFpY1RWcWltdXdiRjFjUnFlb0tOMFJKZlRQUzhocHMzT29ZV2k1Nk1iY25QYUxBYXB4UzBuaHd6QUdPRmEyY19aVDYtb2daTDZJQjJFaWFvRTZFT1RyTmlVZVc1eW1lVy1lLTNnaW1ybUdJVnBUWkdKdUlfT1hsdS1UTHVn?oc=5",
+   "date": "2026-09-22T07:00:00+00:00",
+   "publisher": "CNBC TV18",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 7
+  },
+  {
+   "title": "Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park - BusinessLine",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTG1Qd2tXem1sUWZhYV9FQzFrczBYTWVsaEJtMGtnNWZtTF94eVE2UDFiVVlmdl92UFlGMlVGSHNmSXV3YTJMQTZjYXJZQW1pSHdpWGpEblBvT1cyV0d5bDJBWFlCbnZTWjFxZ2JiRkVfSWZqVTFBaVd6Tk8tcmc5Zks2M0ZwMzdMVWtIWUlnZ2dsTGNMbWd2Q29fRlVZUWphdXNHSDZiUFhGRndPdEtoVVlnODFBNENlY1hQS3RNd2NLcHFKS3pfZVh1RFNlN1JWR0lhVW13S01lQdIB4AFBVV95cUxOMWloNjc4aE1namtDTmtoTC0xWmEzWTBDQmpENWdlN0ZOSko4N2dTcHJEWUl6WS1iZkdSYjZUUjJtcDVzdVAtM0YwLThmdVZXTmVBUndHU0NCTXUzR3pYaHdnUzZ2aEZFNkh1ZEVocGtST2QyazVoTlVQcFlGaElRajJBeTZaUlpMNXFGbXVpWFNfd0lsTVFibzNvdjl0UjNkaDVRMUozWFVxSW03OHhzanY3eUFIdXlpdkltaWpQUzJ4MUR0WWdIQndmTkk4d2VXN3Yzakt3RWNKUFNXOXVRRw?oc=5",
+   "date": "2026-09-22T07:00:00+00:00",
+   "publisher": "BusinessLine",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 8
+  },
+  {
+   "title": "Les capacités du nouvel agent d'IA de Meta Platforms impressionnent le marché - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVkEwM2F3eG1QbE83QWExb2FxbHlOQm9YeVM0Y1VhVzZsaUdUU3BpaEFjaUZJSzhuVUdmTGhVWk9xdUp5a0dXS3h5MFhqSmIzck5kd1hKZGNGWVBZMmppS0hxblJVRFVoeFZ6TU1YcUtldDIxcW5nWU5lUl9GQVR2Sk1DVmxUNEdJd1VSSlBSMDNzTHVMTDBzLWFaaExSQWNwbWFYMjVxT084bk5oZmpUZVlEZTVHV1hJNDVCRmViWlAwNnJTYlpYeDRmOTBGa1o3cWlHUjBGaTk1OWFPRC1BMjJqMA?oc=5",
+   "date": "2026-09-22T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 9
+  },
+  {
+   "title": "Corbeilles 2026 / réseaux bancaires : BNP Paribas surclasse ses concurrents, La Banque Postale confirme - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWUYta1ZfUnVfQWFBclNXQmlzajlLWnUyR1d4bVVXYXN2RjVSNmR3Y2w0NXNVdXEybi1vSnpCWkV3WVZYcERVb3BOVXlIQUtwYzFraVhNeXc2S0U1bHRpclN2U0ZhMEFZUnVmQW5nMjZUdEIzOGJTeGlVSWQ2WHNtNXRpaVRRRDAzWFVhaFNOZHlIa2xjRFZ6bUtjR3ZQcVFMRzd1N0daSFZxX1BGdENwaG11LVV5VnNNQmZtVzdZcjZSTUJkS2R6cnBYcTRzY19lLWlIaHpIamhmYXl6UXFjY3dBcG10b3BXZjlCS2ZR?oc=5",
+   "date": "2026-09-22T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 10
+  },
+  {
+   "title": "AI is building its own world. Is your brand part of it?",
+   "link": "https://www.capgemini.com/us-en/insights/expert-perspectives/ai-is-building-its-own-world-is-your-brand-part-of-it/",
+   "date": "2026-09-22T14:52:12+00:00",
+   "publisher": "",
+   "feed": "capgemini-us",
+   "section": "general",
+   "evidence": null,
+   "id": 11
+  },
+  {
+   "title": "Lab-in-the-Loop: How AI leaders are gaining an R&D edge",
+   "link": "https://www.capgemini.com/us-en/insights/expert-perspectives/lab-in-the-loop-how-ai-leaders-are-gaining-an-rd-edge/",
+   "date": "2026-09-22T14:52:18+00:00",
+   "publisher": "",
+   "feed": "capgemini-us",
+   "section": "general",
+   "evidence": null,
+   "id": 12
+  },
+  {
+   "title": "Capgemini Exits U.S. Federal Unit Over ICE Contract Backlash - Nearshore Americas",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakdURm82eHM4NGdrMGpwRUpETktVSWNRYkFuaDc0d1VHVXF1Tm13Z1pfTDVyaW9lOW5jdXF3UjFmYkc4MHZKOW5oakRVUWlsYTBuc3cwN0haVGxtMXhQQzRRYllfQkd5RjVVc1FMZU03STBHalNFY1lEZEljRkNBQnZJaTI2bkttMzNhcjdXSmtWVkxS?oc=5",
+   "date": "2026-09-23T07:00:00+00:00",
+   "publisher": "Nearshore Americas",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 13
+  },
+  {
+   "title": "Capgemini expands footprint in Kovai - DT Next",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vay1Cc2hCdXQyTXBnblhPMTB2TWxobW5uZkQxdGdzWjZVazhyNmkyRjJvTVNWQWhMclRCZTZIUDZTVmU3UURCRzVpWHFUd2tST0hPdHVrT2U3M3EyNjRHUUJqSDUzOHVKY281ZHVpZGFHUnN2NFlzMWlKNXjSAYoBQVVfeXFMTkZxeDFBcnotUVg5cVJCOXB5UHlhQmNwaGZUT0hZUXNsQTd4QWJPVXhTM2E0cDgyMlJydEZBUlgyNDFrQ1JmazNjTkhJVkhjVXlwR3c4dk1MMTdCelVpc1NiZ2xyRkxfX2dESWplcWdXaHdkby04TzZ2WXFlaUk0Q190Zl9YU2Y3M1NB?oc=5",
+   "date": "2026-09-23T07:00:00+00:00",
+   "publisher": "DT Next",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 14
+  },
+  {
+   "title": "Travailleurs en situation de handicap : les efforts des entreprises restent insuffisants - Carenews",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbE9zVU84MC1KdzhJcFZYS203cDNfUW1ZU1pSelVORHVaaE9WQV9EMy1EbWlLSHlyU2lHS0JyZzVSaTcycE5hRFFrb2lNWHVFSFVadXkzQ1ZSVmJBTTRDYWZIVm9sMy1TaWwxd2JHNnJ0Vk9RbTJXUm5UUmdjY0p6M210VW5DQkJiUGE2Sm1CZEh1RlcwZTN5VTVKN3ZjeEtMV3lKS09hZXdraDNaYTJHZHlzNHBtUlgy?oc=5",
+   "date": "2026-09-23T07:00:00+00:00",
+   "publisher": "Carenews",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 15
+  },
+  {
+   "title": "Souveraineté numérique : préserver l'essentiel en période d'incertitude - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFVVVHB6dDFaSDZPWmVhYW5KS1BkSWh5enpyTUZOa0t3M0d2MVR2djl3ZTFlZVJOTEszTG5hVUFtb3hZejdCWC1yeUZHTmhJZDhUd3M5NndPOERocktuYVpLQzVneExnNmwzdWVQaWxGU1NoNGdoUlFVczcwMHh4RjJ0SVVJMENLY0hWUnBSNUdsd2lfNHhyS1NpMDh1T0taLXpmaHZBTDg4Zms?oc=5",
+   "date": "2026-09-23T07:35:57+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 16
+  },
+  {
+   "title": "Henkel Consumer Brands accelerates sustainability progress by adapting proven solution - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2hocS1felEtUmlkVUVBMnNObmJEMHNKVkJMU2Vaa0hCUWgwM1pEQl9HZDZzVHI1VlBGc2YwUDVlbmpteTZXRW5vNUU4ZWtxOUk5ZmtCSzl5R0lGcmc0OWllRDFGRk95QXZIXy0tVWM5dDR0TVZiTVdHNFlWZW9NbVpFdEwxZk9HUGhqcU5SSnJfX0ZsV2V6TkFmVXJ5OEV4U255S1R1OHVvUE1RNkVxSlhWZGppUUlmQ05TeFRhTjdYYlNvS20wVVRVYVpUdzUycFpHNmlR?oc=5",
+   "date": "2026-09-23T08:10:02+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 17
+  },
+  {
+   "title": "When the Backup Is a Human Who No Longer Knows How to Do the Job",
+   "link": "https://www.capgemini.com/gb-en/insights/expert-perspectives/when-the-backup-is-a-human-who-no-longer-knows-how-to-do-the-job/",
+   "date": "2026-09-23T08:52:55+00:00",
+   "publisher": "",
+   "feed": "capgemini-gb",
+   "section": "general",
+   "evidence": null,
+   "id": 18
+  },
+  {
+   "title": "Counting down to zero",
+   "link": "https://www.capgemini.com/ch-en/insights/expert-perspectives/counting-down-to-zero/",
+   "date": "2026-09-23T10:30:42+00:00",
+   "publisher": "",
+   "feed": "capgemini-ch",
+   "section": "general",
+   "evidence": null,
+   "id": 19
+  },
+  {
+   "title": "From compliance to competitive advantage: Turning regulatory change into enterprise value with SAP and Capgemini",
+   "link": "https://www.capgemini.com/se-en/insights/expert-perspectives/from-compliance-to-competitive-advantage-turning-regulatory-change-into-enterprise-value-with-sap-and-capgemini/",
+   "date": "2026-09-23T10:54:19+00:00",
+   "publisher": "",
+   "feed": "capgemini-se",
+   "section": "general",
+   "evidence": null,
+   "id": 20
+  },
+  {
+   "title": "Nell’Energy l’AI deve entrare nel mondo fisico",
+   "link": "https://www.capgemini.com/it-it/prospettive/i-nostri-articoli/energy-ai-mondo-fisico/",
+   "date": "2026-09-23T15:39:29+00:00",
+   "publisher": "",
+   "feed": "capgemini-it",
+   "section": "general",
+   "evidence": null,
+   "id": 21
+  },
+  {
+   "title": "Wie XL2 Audi digital schneller macht - AutomotiveIT",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzFtaEJBemJBeVhJaGkzQWI0MXNMajRaa1EzTjk4bEM2TXo1cy1NdU8tVUNrWHI4R0puODI5cVgxZ1FGcWthS05BNHljVTctRFVvdWlLb2liTUZlV1cxVndrQkwzaTVYeXVPQkxtRTh2M0V6S2pCRjVxTnpXRUFSa2VvSkx1RDJGVEctWUF2VGRydw?oc=5",
+   "date": "2026-09-24T06:00:00+00:00",
+   "publisher": "AutomotiveIT",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 22
+  },
+  {
+   "title": "Banks risk losing $230 billion in payments revenue as stablecoins and tokenized deposits go mainstream - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMWF1NzAwTDBfemFUMUJyS1dXYWJuREFGQngxUFgwSjJBeTVHSUJ3NHJJQlRXMHV6dzc4YUpmaFRPQ05JZTlIQ09HS3hadm1wZHdXUXUtTWVNMWRvbXItdXNwWnB1WEdmT1pxZ2ZyUWNzOHkwWHpjNVM1Z3NNRE1zUnhQQ25WMW1nY2xCeDNFeTVtMVBjNnNFUXJhZHQweHlCdjZ3OWstU2pjSEJvemRRdjhxZE1YcmN1UXFKR29vYm1fay1RYWRpR1VSSUJsbjJwcXBTLS1WQzZzSGZvNm1NcG53?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 23
+  },
+  {
+   "title": "‘Money Never Sleeps’: Capgemini’s 2027 World Payments Report - FinTech Magazine",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTdOUG1GaHF3ZERNWlpZazhUZlBpV1p2amsxS1Rwbnh5OWpJdU5fVm5MRTBQZENJempLS2lmMzB1VHpuUktua25hWFF0b29POEEwSnJYeWNJeGxqN0JCT0dzNS15ZmVPR1FKa2loRTZYQlAyZnlNaGJnSkpyQW9ETmJuaHl6RVY0SGR5SHlCdHBIam8?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "FinTech Magazine",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 24
+  },
+  {
+   "title": "How Nayanashree has dealt with sclerosis - The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzgwUVp4b0JVNmJEaENfQjY4akJHZi1wNWpLT1FvcWx6YzhVVXpTbHNVY1B5MktuNXp2QWx6d00yTTdoWjdWRWh5VVhMaFRPNjZKX2FTNWladjB2VzZHQV9SeDZ1VU92NFR6MHhaOGtrMDlnTmZQSENOMkk4RGpHS3NHc3FLOXNzTS1oQnI0Y3NmWHZBb1o2MmhqeDRuel9VSXJHMTlXWk9saTVPWmIwVFBPMEdIYXowYjZ0TDBkcGRwbFhxRkHSAcsBQVVfeXFMUGpCODRuWnVocTdTakxtNWxCZjFJQ2wxVmpvcWxUMVBndVJrME15RVItTXRYVHMxMC1GWE5EQ3lId2Vqc19XM1lrRHZ0RTNWd1pVN1V5R1VHXzlpUkpWY2t4a2M2N0cyeW1jRzlPOUppN21vSXpOdnkzblVTRU9NeU15OGdiZ3pWMm9NcEd6YU91XzVBSkNRdGEyTEdCM0xlV3RiTUotdEswZS1mdkZtcUJWbHZMVXJFSXRIZTFFMDFWVnhIR1RBNFpQQWc?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "The Times of India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 25
+  },
+  {
+   "title": "'Extremely serious': SC asks Centre to prevent child abuse material from appearing online - Mathrubhumi English",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3N2Z2YzZnJtUnZEUmhlN0NRdk9yUXdFNnFqM2I4bUtSbExVNXFvelllb2JzSEhCSGdVRjZoZm02SDZLamhSTWdOekg3RDlwU1RvVUlaMTFEX1ZQTDNKRDRHbkpYUXF3TzYtNWxNLVJqRnNRdHpFX21RZGQxZDRIR252bnFNUUpzV0pweF8ya3JrODNYczR0M1BQNk9GTUJmN1hQclN6eEJrQmY4clpPd0lJT0lQV3F6RnE0dnFoMUFURTZ5SmhZam42b2t1eEduMk9FcNIB2gFBVV95cUxQY1RvRThQTGE2Z05QaV9fVnZtRUNmVVlodFFRU2VRQlZFbm9aYmFJYmxfaEswWmdXX2dBUFZHN3M1UFI1bGNXaGxOTk1MMU93dVVqcThTZHc2c1NsRkloUWZqenFUMHVJTjBVbVJyWTI3TkR2d1U5bHZYendUTk1IdWUxSXhKQXdFZFoxRGhraTdRVzM0VmN3amg0UUFLS1ZMUDZieVVUdDd4XzdmNnJYQXlQUUo1OTJlWl92Yll4b1BsN3hDdnRNMTBSNzdpOGFFbHFFTGhuTlRRdw?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Mathrubhumi English",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 26
+  },
+  {
+   "title": "Stablecoins : 230 milliards de dollars de revenus bancaires menacés, selon Capgemini - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXVkRnRybk9tOUpQbWZVci1vX1Q5NnFERTdYaHVrbmlfSmJ2OTZZRVZhYWwtTllSNHhvY3JzYjV3QTAzM00zeTdyRDJ6ZWRhcmxPNTQwT1RlYW8zYkxlRXNOeUhtWFJYQ1BzR09TWlhlT0JBbVU3YnNMQXVEQVpvd1BKTDczMF82R1A0ZGIzUDhJQWQ3Q1JjLXZxZkhhdkFpYzBJclR2N1FNUEY4TXB2bHRNZ3ZoTG5pZzgzS0I1M19UYXU4RDY3UDFOaGppUEtJR0hnTWpJRQ?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 27
+  },
+  {
+   "title": "La généralisation des stablecoins et des dépôts tokenisés risque de faire perdre aux banques 230 milliards de dollars de chiffre d’affaires lié aux paiements - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQTFdXdTM1TUwzY3otX3FxbXZhZVRJaF9zS29oREVLYXZlOEJhMmdvcGFfR0dkVmRaSnZ1OXlKQnc1a04tNC1yYnlKcVNud3JwdV84dHJnLVFLaXJBbHRSMi1iQVBKS0VSSGhYMjRaMjhrMEdORkdzRWp1aWtUekF0UktNTVczaHVsdGVacXpQRUQyc2xsZlJ1VUlpR3hJTnl5SzNkc0t6dzJBYl9pVWxTOUswQ3ZvWUpSMEM4amJ1SndsVU1ha3NMUzFrdEtWaWFHeHZ3cnRrVHkzVEZxdTdrQzZXall0TnRaS2xlSnpENndQajBuSzJXanhJeVM1WHBQUzN4WUlOWDVTY21uSlRsMmttSklTNlZpblJ3bHR4RFNKY0MzVmhZMklpYTcwbnpkazRRZDIzLWJtQWk1bjRmR2hWNUo?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 28
+  },
+  {
+   "title": "Alten relève à nouveau ses objectifs annuels, vise une croissance organique entre 1,7% et 1,9% - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRVRvQnhiaGlSaWs1Y0ZBem9KY0RUcVV2TE0teXdHOENfdWttRHFtQTRyLTZxSkMxM2tZdUIyUGZsaUVDOUNlZlk5SXoxUGo3ckJpNEY1UXlpVFBJOHE3N2IyajhOdXZwMk1DcDhOa2F0bXBpbmZYbzBkTnZnSFl6eHJuSDQ5QTUyYk9rb2JqWEhtSUdyaXVsamlZN0ZHRGwzcVR3VE9udHd5TkVKbVUtbUJLdkZzYkkzVFRLWW1hWFo2MHpLd2lCTGtGTVpXU2JCMGV3SkJqM19FNlN0YnMzZElybTlHV0hrMTA3c0tlbHdlT20y?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 29
+  },
+  {
+   "title": "KI in der Fahrzeugentwicklung: Fokus auf die Organisation - amz.de",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SQXkxYzUzbmxzMFExbHJTcG55TVBwaC0wNlJ2cERBZTZNNUoxQjRNUElLcVBNa3hWa2JNcU5YVXBZVGJIYUtfSnBNOTRMLVhpbWk0WFBNYXRPRDZybDVZYlRDMHBZNGMzaUttNy1UdkNMX2p3UHZkRUhuNA?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "amz.de",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 30
+  },
+  {
+   "title": "Stablecoins und tokenisierte Einlagen werden zum Mainstream: Banken droht der Verlust ... - Presseportal",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BWFR1ZDY0VE1TLXY0QmpaalpzR2sxV0s4NDB1Yk16UmtRbFVLeHBfMDBjZFNNeFA4RGwzLWlqS1dHOEVoX1JKcExCZG1jY2RnOXhiN2Rlaw?oc=5",
+   "date": "2026-09-24T07:00:00+00:00",
+   "publisher": "Presseportal",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 31
+  },
+  {
+   "title": "Iberdrola drives its PPM transformation for Digital Organizations with support from Capgemini and ServiceNow - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONXpMalVzVFZQdDVQYjVHdGFZMDJuTzdHZWRaVEJzWjhNS2RKVTVEQzE2V1hyRUhTZ0J1NjJKS2dqR3M0cnRHZzk1RXppNk5KYkpVSC02RmNqR19aWk4ybmJidm9Fb1NJSDdkaFNyYVhNejJYYlJMMXgycElEY3lrUFFIRVZxM3ljUGZJTWI5WnVNVnVfdkRQSVJibFJzQ09sejJXZ2FLQXNJQ0JzRU1jSVFQdWxzUEVVX21hVGRsNk10Sm51cW1feVRwWktwR1duWnlad2M4SkluVXl2alROVVdUZlB4cTc3U0Yw?oc=5",
+   "date": "2026-09-24T09:12:27+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 32
+  },
+  {
+   "title": "Stablecoins, tokenised deposits, CBDCs could account for 4% of global payments by 2030: Capgemini - https://www.indiagazette.com/",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmw2SEhyUG1FU2FTSS02WVZVamRLSXRxd2wzUDg5aWw2TlV1Yjd5MGZwc25OaVpIRkhYTTlvUVlVVEUxMlIwNXg0R2pVeXN1MWFiZkQyT1ZLSWxpekFoREpvaTduQ0wyWHpvdEhXV3J3c0hiYnY2MDA4SklnTDEzVTRNRUhfb2RvOU4taDVJZmhiX0VhakxCMk5fc1VUdEtqa1VBSklNSVdmWVFpWlVuRWRlV0FmX0piS2tiU01uSDNHUTdkUmdTUC1TSHJxRllFUFpn?oc=5",
+   "date": "2026-09-24T09:13:00+00:00",
+   "publisher": "https://www.indiagazette.com/",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 33
+  },
+  {
+   "title": "Warum die wichtigste Technologieentscheidung im Handel keine Technologieentscheidung ist",
+   "link": "https://www.capgemini.com/de-de/insights/blog/warum-die-wichtigste-technologieentscheidung-im-handel-keine-technologieentscheidung-ist/",
+   "date": "2026-09-24T10:07:48+00:00",
+   "publisher": "",
+   "feed": "capgemini-de",
+   "section": "general",
+   "evidence": null,
+   "id": 34
+  },
+  {
+   "title": "AI can enhance every stage of teamwork—under two conditions",
+   "link": "https://www.capgemini.com/se-en/insights/expert-perspectives/ai-can-enhance-every-stage-of-teamwork-under-two-conditions/",
+   "date": "2026-09-24T10:46:56+00:00",
+   "publisher": "",
+   "feed": "capgemini-se",
+   "section": "general",
+   "evidence": null,
+   "id": 35
+  },
+  {
+   "title": "Beobank builds a scalable people platform to improve employee experience and business agility - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFlaOVUwZlhWYldweWJVeTB4S1BkeGc4bzF1U084X1hHZ0hVSnhLS3NiTW1vbHZPbW1DM3JqVGFOWnlqN3A4ZUhETkdHOXJqM3JyeXRFT0pGX29ScF84cVFzTUlYYjhSUTM3QWdZdkJ6UTk3UHNEV2JFd3B2ZzVZQk51NDQtRDlNcnRwNkYxSmRSOVl6eU1ZZGV0ZmRrbjdrdkhmUmplNlJWQkFTcTZYcUhjZnV1XzRXSzJCVVJyRGdTQV9oUU1UMGt5T2JiUU45UHJ5QXd0Q0o5cW1NWVRR?oc=5",
+   "date": "2026-09-24T11:13:40+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 36
+  },
+  {
+   "title": "A world in balance 2026: The resilience reset - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmZiR2IxT3RrRUdWWEV0M1NlWTBvcFJCSVQzM2M0SzcwSy14Z0lJandCWjRIM0JRb01GZkJZdV9WT2pHMHZDS2RvZVRGTXdHZ2E4WkhLaHdkaGpONmZrSGVoWXJnVWNxXzU3R0RGY1o4Z2Y4LV9xXzQ2VlRnTk9Ea09OSTREc2p5V3A2U21kb3pYUHNJVE9hVExsQ2FGbWxiZkVGY1N3?oc=5",
+   "date": "2026-09-24T12:38:47+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 37
+  },
+  {
+   "title": "Consulting giant Capgemini expands Seattle-area presence with acquisition - The Business Journals",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpuVmJQQkM4ZDM5N0M0UTR5T3JQTkJPWUhIbkVGVm50a1EwN25JREQ4d0Z2bGpyMmphUUlqT19VbzhyVVJ6dnJUSlRra3BPS1pkTDNkbFZIall5SUVXY2FnQUtlWlotbDhiVjBtczhqdmRNdHQxbGpLamRyZ3prWFZNQTd2QmVTY2M1OGE4U1AxMGxvWGc2T1RwemtxRzlxX1E?oc=5",
+   "date": "2026-09-25T07:00:00+00:00",
+   "publisher": "The Business Journals",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 38
+  },
+  {
+   "title": "AI To Reshape Aerospace And Defence, Drive Efficiency Across Value Chain: Shobha Kulavil - BW Businessworld",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDA2STZZVTNFODJpUGk5ZGk1ZndUbFI3cmNvWjFsbHA1bFhCMzFkNHFYVnRGZEhOZFZjTG5FVnFOUjVtSHU4Mk9PR01xUUdQZE5tdTRJNE1ROEJVclJELW1fVWxxQzNoWXljOHFKMW9BTUhGVW5sc1Zxay1takhJdWwwU0VqZ1Fuenp5VkJGOXhVSExvOTFvMFJSVWJwNlRqc0NJaG1FaElEUnp2aFRkRVo5TWl2WU5jQWRLQTlvRndVX2lqZXZvZWxB?oc=5",
+   "date": "2026-09-25T07:00:00+00:00",
+   "publisher": "BW Businessworld",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 39
+  },
+  {
+   "title": "Une solide publication semestrielle sanctionnée... qui offre un bon point d'entrée sur Aubay - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLThpemFRQ1hBaF84cnVobVZ3ZXVrQkI5b3hFWE9aNk90aWR1SkduRXRILUpYckV3cnRLTzZHc3lvRUVnYVJ2RURKZWFKeWJsRHRZR0JzY2hQbHo4YWZzT3BoWkh4ZFFoMFJJa3loSjZwR0J6b3JzNTRndE1YNzRrUHd3MVR1c0lNZlotb054QmIzdFBIb3lZVGVtcy1NdUE0WlMweUtvY0FfZThqWk9ya0xKZTRSUmhVX2o1OE5jSS0ySFlqLUhlNGNJYk1nU24xLXNtRjdEVWhJX3ZNaU5WdWMycDVWRDVKR1dqR3JBbjRRNE0?oc=5",
+   "date": "2026-09-25T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 40
+  },
+  {
+   "title": "Laure Lucchesi, formatrice sur les impacts de l'IA en entreprises - Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZng0ZV82S0xuSkJkNGdDSktpUmxQNGRwRERwVlI4UHVBNWJyTGYwSHBoQ2JKdXpjWkpkTWw5by0wZGxnQ2dsYlhSM3ZncUJLVWJwZUZwZUtWQTZ2R0hFSG9sR0Zwdy1GdFotVDZxZE9GVjAwYWQ0bGpONjcxUHZaZVJ2Z2JwdXh1eHMzRmJuMEdPdVdFYXZXWTNVZElMV1FiZXVpVGVaeWZCUHc5Q2Uzc3BYd2loTl90ZDRIWU04emRicXcyNkljZU03dEIwcU95Mi1EN1hCUVpGTTJi?oc=5",
+   "date": "2026-09-25T07:00:00+00:00",
+   "publisher": "Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 41
+  },
+  {
+   "title": "TotalEnergies, Axa, Société Générale, Beneteau, EssilorLuxottica, Publicis mais aussi BP, Deutsche Telekom, KPN et Glencore ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNdUIzRWQ1WnVEQmlaYVgxbnFKRllwc0gwcjNqT0tQZDVvSlZoRGVkRlBHTnBZcDBFRHBwUkkzTllMRUNWYXJ2ekFaYUU4Yk4yMkRUMmNjUVNGZjZMTk9lVkhNRzRSUWJWbUNPbXo2aTdtU2ZKZk1GcDBLeU40Tjd2OE14V2dkWUVxTEdXZTI4T1JZLWpCV2JsZTR0NGd6bzRqS3ppUEdzWW9URmYyRkFTYzZGRWFFWU9VdGZxVWJfdlVyWnVNVWU0MGJ3WnpKVnlDd1NZQV82XzJ6YWc1SkttNGQ4bFVGWkxQeUlJd3FvRndCcEtNeVJ4ZXN0X3Z1WHA5dHVKeS0yZGFCNVRJcHVnQjBYUktSUzZVOUIzUkE3dHJCRU1faC1UWkowWmkwUGV5eHU0Sg?oc=5",
+   "date": "2026-09-25T07:00:00+00:00",
+   "publisher": "Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 42
+  },
+  {
+   "title": "Risque quantique : alors que la réglementation se cristallise, les organisations doivent agir maintenant",
+   "link": "https://www.capgemini.com/fr-fr/perspectives/blog/risque-quantique-cryptographie-post-quantique/",
+   "date": "2026-09-25T07:26:24+00:00",
+   "publisher": "",
+   "feed": "capgemini-fr",
+   "section": "general",
+   "evidence": null,
+   "id": 43
+  },
+  {
+   "title": "Futur de la connectivité et 5G - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3htSmZTaEdKN1AzazQ0LUZiYWN3Wlgzd3dTbFZRRFpjWl9TWHB2UWZPODdaRkpEZWU4ZGVoTG9YaVljZllVMjVJY2g4Sm9lUlBHOVFaSlBWR3JTYm9mWWhfQjk1aVZYb042T3NrNzNRYW1TS29mNTZaR1RJU3FGWHZzekJkVkd5THhvVXN1VEY5SU52Vi1UM2pyNDJWUnRGY256ck5Lc0ZPanJlQnpIX0hNbmZONmsxZHc?oc=5",
+   "date": "2026-09-25T18:58:19+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 44
+  },
+  {
+   "title": "Digital sovereignty: From policy ambition to executive imperative - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkdmcnpHaWRob1ItUzdhYXhOSC1PZU9BaTlaRXNsUE90Q3A2ZFY2S3JnY0J2a25fYmJwM3hRUm1kZEFBcEpya1U4Y3NQZVZ3YjhvSldmMWo5OVRfSk85N0VGOUJja0t3WU1GeFhteEtaakFSZm5tc0VwdUNsbDBsXzVETXY?oc=5",
+   "date": "2026-09-26T12:49:43+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 45
+  },
+  {
+   "title": "Beyond silos: Next-gen supply chains - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObi1WLTJuWjF4dW9kVG1VVXExbzZqcm9WWEV2ZEZSNTdRU0VUWTVKMkdjWjNvUWZ4enppYms0LU9zbTNGLXhHOEl5MzZYZHdoMS1jdElkWVd5UEs0Uy1jbUdnMzQzUFdIdm5nYS1qSmdvSGotTm1saDVKSmphU09TMGV0ejVjejFL?oc=5",
+   "date": "2026-09-27T10:41:19+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 46
+  }
+ ]
+}

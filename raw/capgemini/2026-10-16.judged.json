@@ -268,7 +268,7 @@
   {
    "id": 42,
    "keep": false,
-   "reason": "thought leadership, low signal"
+   "reason": "Publisher body verified Oct 16 shows Oct 6 publication, outside this edition; do not treat Oct 12 feed timestamp as a new article."
   },
   {
    "id": 43,
@@ -366,8 +366,16 @@
   },
   {
    "id": 56,
-   "keep": false,
-   "reason": "thought leadership, low signal"
+   "keep": true,
+   "cluster": "opendesk-open-productivity",
+   "section": "more_news",
+   "topic": "Business & partnerships",
+   "score": 2,
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/de-de/insights/blog/opendesk-ki-verwaltung/",
+   "reviewed_by": "cortex-code/openai-gpt-6-astra",
+   "reviewed_at": "2026-10-16",
+   "reason": "Re-reviewed for More news: publisher body dated Oct 13 confirms new partnership with Open Productivity Software GmbH to implement openDesk."
   },
   {
    "id": 57,
@@ -379,8 +387,16 @@
   },
   {
    "id": 58,
-   "keep": false,
-   "reason": "thought leadership, low signal"
+   "keep": true,
+   "cluster": "oracle-finance-operations-hub",
+   "section": "more_news",
+   "topic": "AI, data & technology",
+   "score": 1,
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/insights/expert-perspectives/intelligent-finance-operations-hub/",
+   "reviewed_by": "cortex-code/openai-gpt-6-astra",
+   "reviewed_at": "2026-10-16",
+   "reason": "Re-reviewed for More news: publisher body dated Oct 13 describes a concrete Oracle-based finance architecture; summarize description, not unverified benefit claims."
   },
   {
    "id": 59,
@@ -453,8 +469,16 @@
   },
   {
    "id": 70,
-   "keep": false,
-   "reason": "thought leadership, low signal"
+   "keep": true,
+   "cluster": "human-oversight-approval-fatigue",
+   "section": "more_news",
+   "topic": "AI, data & technology",
+   "score": 1,
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/insights/expert-perspectives/human-in-the-loop-or-human-clicks-approve/",
+   "reviewed_by": "cortex-code/openai-gpt-6-astra",
+   "reviewed_at": "2026-10-16",
+   "reason": "Re-reviewed for More news: publisher body dated Oct 14 confirms named author's article on automation bias, approval fatigue and risk-based oversight; explicitly report it as a perspective."
   },
   {
    "id": 71,

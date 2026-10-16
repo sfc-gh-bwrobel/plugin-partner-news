@@ -1,0 +1,800 @@
+{
+ "partner": "Capgemini",
+ "days": 7,
+ "end": "2026-10-04",
+ "stats": {
+  "raw": 389,
+  "noise": 17,
+  "old": 248,
+  "off_topic": 30,
+  "body_checked": 0,
+  "errors": []
+ },
+ "manual_checks": [
+  "LinkedIn page: https://www.linkedin.com/company/capgemini/ (no API access - skim manually)",
+  "Press releases: https://www.capgemini.com/news/press-releases/",
+  "Investor calendar: https://investors.capgemini.com/en/"
+ ],
+ "items": [
+  {
+   "title": "From Parcel Delivery to Autonomous Exception Resolution",
+   "link": "https://www.capgemini.com/no-no/insights/expert-perspectives/from-parcel-delivery-to-autonomous-exception-resolution/",
+   "date": "2026-09-28T14:58:20+00:00",
+   "publisher": "",
+   "feed": "capgemini-no",
+   "section": "subsidiaries",
+   "evidence": "WNS Malkom provides a relevant proof point for this shift. It brings together orchestration, AI-driven automation, low-code/no-code flexibility, and data-driven insights to address fragmented workflows across bookings, documentation, finance, customer service and operations.",
+   "id": 1
+  },
+  {
+   "title": "Agents build it, humans sign it: rebuilding the software-defined vehicle lifecycle with AI",
+   "link": "https://www.capgemini.com/au-en/insights/expert-perspectives/agents-build-it-humans-sign-it-rebuilding-the-software-defined-vehicle-lifecycle-with-ai/",
+   "date": "2026-09-28T02:20:06+00:00",
+   "publisher": "",
+   "feed": "capgemini-au",
+   "section": "general",
+   "evidence": null,
+   "id": 2
+  },
+  {
+   "title": "Digital sovereignty is now a leadership imperative for government. What happens next?",
+   "link": "https://www.capgemini.com/be-en/insights/expert-perspectives/digital-sovereignty-is-now-a-leadership-imperative-for-government-what-happens-next/",
+   "date": "2026-09-28T03:28:17+00:00",
+   "publisher": "",
+   "feed": "capgemini-be",
+   "section": "general",
+   "evidence": null,
+   "id": 3
+  },
+  {
+   "title": "HMRC vowed to break up with Capgemini then paid it another £4.2B - The Register",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakpxSjF6cVd1S19sWTdGU3RWWTNYTU4yeVluTmxPeFF2bi0yUzI5eUI5RjEzckZaeWlSbW42b3I2M09CSkluTUNVQ19ZN2xVX1RaMGNOUmFLcjBZamU0NVNSTFJ6VGhyQ3Rsbzl2NzZLNE04YUlEVEFfeloxU2hUMUdneGpzYkc4ZlVJTm1SY2pQdnhLeG55S3JPOFZBNEx6ZnZjSFZzRDBNYWFkaFdnUmkzdzFEaUNxVU93elVrLVE?oc=5",
+   "date": "2026-09-28T07:00:00+00:00",
+   "publisher": "The Register",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 4
+  },
+  {
+   "title": "Global Trends: Nearly 70% of global insurance consumers want human agents over chatbots - Cafemutual",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1dPNWF0VVF3M0JTZVJVUVR1ZWlXRkZoRVk2UFlSRWYtZGd1U0xNRGo3OHhOSzZWa3Uwb3BRc21FakIwUTlaWlZHS2VHMERJbHVyWHhwWHNMS2ZKZmR1SWZFZFI5NUZQNldPNG8wVEszcjhVSkVYT3JSMk5LdURVSkJQUGVuMGZZeWZuTVJLMGtWTnRaNGxabXBsY19IODJHeTNKVjFWTF81OWZISmgwMFJ2d2lOUElsUUVZQzhFdW44VlhXUnI3RQ?oc=5",
+   "date": "2026-09-28T07:00:00+00:00",
+   "publisher": "Cafemutual",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 5
+  },
+  {
+   "title": "CAPGEMINI : La tendance baissière peut reprendre - Boursorama",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXpLUkowSjNTVjlybGJXN1ktUzRYUURwbzA4d3p4QXlvb1lIZWRqcEJuTlVyb3RHX1RMUTRvWm83eDdlSFdqeTBmU2dHTlZhdXB5Mjg3aktnd3VSb0hqNUFIMmRNYVlGanF4MVJidFBGTlBPYUxZUWRKSDlyUzN1RGZnU1ZDekM3VXZ1WlV6VU5laHlKeEJUZVNxSHJZUE9WdG52YjlKSWdjY3ZIV1ZZU2xaVTdncTgydkhaWXZWWHNBUdIBxwFBVV95cUxPYXMxQV85NXI2c2VNSjd2d2pfMUpDVl9QVGJIbkFsZGtvQ0ZPcDdzdlBvZm16c1ItdzROcDZmUG5EUXo3QXZsZF8welRnaW05Q2Z5ODJFeDhvbWs2aGVnLVpiNmY5bnhzcVpzTTBKaWJIbnNzQ25rdDUwNGlVMGt5Szh6S05UQXZqN3JiSTNienNrZ1BtN1VNamd2NEVwSEd2RFJlTXZQWG9lVTR1a1E1YkFIQ0M1V3R5b3ZlQTR1RmM5VW5wWGtZ?oc=5",
+   "date": "2026-09-28T07:00:00+00:00",
+   "publisher": "Boursorama",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 6
+  },
+  {
+   "title": "Capgemini : toujours 10% à prendre avec les bonus cappés d'ici à l'échéance - Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0NwQlpvYndSSVFyQnowTGE4Qjdic2NBY25weWR0eGt1S0hqTXBlRGtjZ19TbXB2dTNTOVdiR2VwUUFNX3E3VS1YRkJKSFoydUFQbGdrTmdwUnViQndQUTE0TVN1ZDFlNVlVN1NhTDNobmJUR2FPUmF4eTRMZHd4dk1IUk05d1Fuc1JrZTZjRDMySlVtYXVySUhMX0NpRGJnbVFGd2JtcmNJOGs2ZWladzhKSGRSZ1lNeWNERXg4Unh2RjEzTkRNNXc4S2NRbnZISTZKU2hvb2oyVGs?oc=5",
+   "date": "2026-09-28T07:00:00+00:00",
+   "publisher": "Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 7
+  },
+  {
+   "title": "Suwerenność AI. Czy policzyłeś, ile wart jest klucz do Twojej inteligencji?",
+   "link": "https://www.capgemini.com/pl-pl/2026/09/28/suwerennosc-ai-czy-policzyles-ile-wart-jest-klucz-do-twojej-inteligencji/",
+   "date": "2026-09-28T13:31:29+00:00",
+   "publisher": "",
+   "feed": "capgemini-pl",
+   "section": "general",
+   "evidence": null,
+   "id": 8
+  },
+  {
+   "title": "Capgemini buys Collinear Group to grow Seattle consulting arm - Dealroom",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMk9EZk1EQ3dfTzNlei1jczNLOUxseXZUWkVyZkFLZDNIQWNSX0gzcmhzcHJPMWROLWd1SXRSQmF1OW9hTC1JcTFvRDA4S2JldENxWThlM2RhN25RZmt5N1BuQ3p5VkR1d0VGOGhsRTB5S2c1YTFWNTYtMlNJX3lySUN0TTZFbVFaSXdIcGpmSHdhdmpuV3NlcmMzSQ?oc=5",
+   "date": "2026-09-28T14:28:59+00:00",
+   "publisher": "Dealroom",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 9
+  },
+  {
+   "title": "The hidden success component in SAP DM: Integration architecture",
+   "link": "https://www.capgemini.com/us-en/insights/expert-perspectives/the-hidden-success-component-in-sap-dm-integration-architecture/",
+   "date": "2026-09-28T17:21:00+00:00",
+   "publisher": "",
+   "feed": "capgemini-us",
+   "section": "general",
+   "evidence": null,
+   "id": 10
+  },
+  {
+   "title": "SAP digital manufacturing is not just an MES project – it is an operating model transformation",
+   "link": "https://www.capgemini.com/us-en/insights/expert-perspectives/sap-digital-manufacturing-is-not-just-an-mes-project-it-is-an-operating-model-transformation/",
+   "date": "2026-09-28T17:26:00+00:00",
+   "publisher": "",
+   "feed": "capgemini-us",
+   "section": "general",
+   "evidence": null,
+   "id": 11
+  },
+  {
+   "title": "Digital sovereignty: From policy ambition to executive imperative - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1loVHNCUk90Q1BlQjlLQ2VxMGoxN1kxUnMyVWpWbFBNZk1aNkFiNEg0RVh4a2pSS0t4N1NsSTZQWHprUkRScC13VGJXc2VxSGlveU5mNUQ3aDBjb29JZlZRZFlWamc2YnppN2NiZExGYUtWdHBjY0ctTXc3RUxsbGxDcUM?oc=5",
+   "date": "2026-09-29T06:23:49+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 12
+  },
+  {
+   "title": "Speed is the new perimeter for the next generation of cybersecurity - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXZoTWVNeF9GWjd5dVhRV0tsdTFtQWU5UkI1eE5qRHNqUGJ0NUJ3T2ItUDdDakF5UWp6ejhFZHc0ZnVNSjJQd1Z3V1NtSndpOVVOaTZsYjEzY0dJVVVLdDA2dFZ3cjdpQkVIT3NMTDZ1dE8wdlAtN1JTUC1tQVJtaTQ5QllOV2FkNUlNX1Q2VFhIMGJkR0hUU0JzVDg1cWJPTmhaM2l0LWNCYmp6ZHBiTU5BYXhhSFY0N245dGVmUWc?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 13
+  },
+  {
+   "title": "Beyond CMS-0057-F compliance: How payers can reduce prior authorization friction before the 2027 deadline - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLWVGSzdjMnpkOE9RZmxIVWxBa3lqU0FBM29xcmJwSEM1VlBWZTNTR1owTFBiSEVaZUlQZnU0cTJ4ZXlweXJJTTIxYV92emlaZzBsa1BmSGk0aDY1d1ZaR2xjWXJlaVR6NElCYUQzQndsdWdoY012ZXlFbGFwZVBCV0hkNnVmV2t4VFVmMHNSb2lQczVySjZVV1lvNjZNSkFDZ1R3bWppRzQwTkx0OWlQMy1uSFp6R21wWkZtUWhnMWtUN1FJMVBtUTdyVmF6SUdlN1ZCSDVKRllxYldDeXVlUlVoSmprVXpoazdRd0Zqd0Itdw?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 14
+  },
+  {
+   "title": "Capgemini plays a key role in enabling Sweden’s next-generation emergency communications network - TimesTech",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmV1YTNvc0ZmdEs0TlduSHJOano2dFNTSU0xTVRoWGhNc0V1ZUhxR1otNHlueTRpNmMzTjQ3aHgwWWJuQ000Vm1EQnVSN3dBcUVvV2hrcjQwVkxvNUZSeERBTHpfQ2pPb3c0YlZQdExBRmFKbk55dWZTOWhLMlo0VXl2ZFFZYUU2eTlaMVY2OVdhc2ZIMU02VEozU2REeEtmQWdIc1Z0VkVMQjJVRWtUTUVpblkteW1Y?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "publisher": "TimesTech",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 15
+  },
+  {
+   "title": "Capgemini devrait profiter de la nécessité de mieux garantir la sécurité de l'IA - Boursorama",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM0Y5U0hFai1fc2pIOGRnOGxadkd2MUZUbEFSbU5uWVlpVFZkbmJQZm1QckNOZnc3YXNvMVA5bUpsbHJkcVV1Q2FudEpzdm1vNFB0ZXdIek1Od1Awak5NbUdfZWQ4OEJOMnQ5Q0N0cTc5WGhjcmNndzVmVGVUMzA2NkExa2lMZ21mSUN5ZUoxdFJSYm1BRk9yUjhEcUFKZGh2bzBEUzFxMnRndlFzUnVxb0dlbjlhaEtaR29nUXg2ejNXS2l2cDNtOHk0Q181VlJUQzVOVUFqRlhTNzRIOHR5U0Q5anhoYW5aRlp0U2hXQdIB9AFBVV95cUxNOEhubExOU01mVlBJeUZhUm42UjZmRUpmZXFZX0dQdjJHa3Q4M2JhWHcydFBodkFjb1kxYmtmeXRjaUVicDNmTmRJUUNDZFFFa0dzMTJ3R0VmbXhiTl9neklrbFNOanF1ZXBpSTFsaEhuZ1BLN3ZvdVpwR0N0LVNZR08wVm5ZcFdXeThpdmpXcFdIYVVGTHY2VVh6Y2R1ekV5aFhndUtoZ0lVTFREY2lhVXNWOUpUckQ2bVJsQ0FiOXZBcU1uanJIQ1NtWFZQSWZXeVdwNDg5X2NxMUZaWms0bU5CTUpMVDl2c1p4MXUzMzdvZ05W?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "publisher": "Boursorama",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 16
+  },
+  {
+   "title": "L'action Capgemini bute sous ses moyennes mobiles, le support à 101,15 € en ligne de mire - Ideal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN0dwc1IxUFBTc1lrYmNwdzkyQ2NMbFY2Tk9WSzZkMDFmUTlRSjM3YlBNdWplZDdYNnM2YnVndjVJUjZhbG1mZTRiTEQtRE93d252TjM2M1E5ODdCU0xjSWFHRl9ndTdXQklzd3lqZVRERWVUcENUX2pnWUFFMWJBbVRYUVlYMWU0TWIwaTMxc19DX3B0eFZIakdiTDlja19Pb3E0UjBLUnBxSU9Gc1E1eG15WFdSU0pwSmdkbGhpX3hxczZFSnVqeFNNZVdEWXN1WUFhYzhn?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "publisher": "Ideal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 17
+  },
+  {
+   "title": "Henkel Consumer Brands accelerates sustainability progress by adapting proven solution - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX3BoUkdlUUpVRGY5SjBYTklsZlhIVUNyWkdMUmhJZkFpZnRwUkpHQlFYc19zdkZDSjVVQ1BHYk53SzNfUk5qTW1FNldoS1BSRVJjQXNvMDZ1RzN5OTZVZjR6MTRMelIzMTZkTXFiaFZsUXZMZlNYNVhwNm5sSlpJWlR4ZWlWai1lN0NYNHoyQm53OWllcGVTYkRCSGdkNGgtRTE4ejFEVC1tQ0hEOENFOXVFdHo3dW5IekFzTDlnZFVOQVNUVlc1QlpMaVd3Zzl4aVRCZkJB?oc=5",
+   "date": "2026-09-29T11:10:35+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 18
+  },
+  {
+   "title": "Le ministère britannique de la Défense accélère la modernisation de ses processus d’achat avec ADAPT - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTm5ITTF6VjB2OTE0MjBnWHdNZnZmZmNaU1dEcmsyemlJV1o4ajVNVFdsRk5uc1lUaDhMa1BTcE05aXhEX2JLVkZVb044Z2E0bnlOc29DRExnLW9oRm1xZExpTUh3V0RLUENrR2JvVjg0eVhHcGtLa0JRdkdHNkdoQ0stNGd1bGdFUEc2dWEzLUJxdUVtU3cydnhsY2lENFE?oc=5",
+   "date": "2026-09-29T11:26:05+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 19
+  },
+  {
+   "title": "A world in balance 2026: The resilience reset - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODZpczBPWFNtWWhrLUJjbHpaRngyam1vLTRSa2NqeTFTRWttY1pSRng4OEdCQTFsaTJmZEViVVktMl9ySjZCdW80R0N2RmswazdrdGY2cFN4Y25yaUFqdFZ1T2YtM0dMSWtQT25Za2lUa19COHhGT3FxVEREWThtak5rTGJkVmlmT0hvLU5uWm1HMGUwd3V0YXpmZHVNVmJNdWdpNGdn?oc=5",
+   "date": "2026-09-29T14:07:46+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 20
+  },
+  {
+   "title": "Accelerate transformation: Organizations must rethink engineering and R&D strategies",
+   "link": "https://www.capgemini.com/se-en/insights/expert-perspectives/accelerate-transformation-organizations-must-rethink-engineering-and-rd-strategies/",
+   "date": "2026-09-29T16:02:04+00:00",
+   "publisher": "",
+   "feed": "capgemini-se",
+   "section": "general",
+   "evidence": null,
+   "id": 21
+  },
+  {
+   "title": "Aerospace and defense engineering and R&D pulse 2026 - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVgwVXhnQmd6TERrdkNTdEE2R1h4bk9fU1JXZzBDTXBXd0taQjAwclpqbU9TdGhtTXZnU3JfSXgwM2VMRVRmeGZlOER4RXpaYzIwZm5iU0pwWXZTU3IyVkR5SVdwVmYwUE1ya3pSWFFVeXN3S0pNOUpDT1dOdV9ESHJjUWtFbzJnODdGYjdmZFN5Vmg2TElMS2JKQzBWTTNxVEYtR2s5bjJKMTk5YkhR?oc=5",
+   "date": "2026-09-30T01:35:34+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 22
+  },
+  {
+   "title": "The rise of agentic payments: When treasury systems become autonomous bankers",
+   "link": "https://www.capgemini.com/au-en/insights/expert-perspectives/the-rise-of-agentic-payments-when-treasury-systems-become-autonomous-bankers/",
+   "date": "2026-09-30T03:07:44+00:00",
+   "publisher": "",
+   "feed": "capgemini-au",
+   "section": "general",
+   "evidence": null,
+   "id": 23
+  },
+  {
+   "title": "Capgemini en la prensa – Septiembre, 2026",
+   "link": "https://www.capgemini.com/mx-es/insights/expert-perspectives/capgemini-en-la-prensa-septiembre-2026/",
+   "date": "2026-09-30T05:34:52+00:00",
+   "publisher": "",
+   "feed": "capgemini-mx",
+   "section": "general",
+   "evidence": null,
+   "id": 24
+  },
+  {
+   "title": "Capgemini closes the sale of Capgemini Government Solutions - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0luTEN4ZjJTcUx3bGxWblFpM1Y3SEdaRVRwTzN0YmwtMDA1QVpvdHU5ZEo1WnRTS2l6X004OUJFZEVWSkVQU3plYUlGNnV4ZDV3WjN3RkJmTjBwbW10V2N2cHR0d3hKUjA1bVJOOTVMaGw5dGhXSU5TNkxPdFNCTWJva0gxamVlNWM0TGVHSVh4S01SN3pmOW0yV3VCai1NUmx0Y3hFUkUyZw?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 25
+  },
+  {
+   "title": "Capgemini (ENXTPA:CAP) Ties Product Buildout To Commercial Rollout In New Engagement - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUFWUEFmWVVBRHBlV0tUcHZzZWlhZk5nc1VZU3ZEakNraHgwQVBzSENhWENTSFJGNjh4aEhmXzZTaVdrQlphbmF2blRON3Rka09ZcGhESGlkZFgwQXVNQUJTRzY4NGMxWnhieXRDbUtlRmhEMTJvV1U2N2pMNHRUUXQ5bWRkUV9ZWXRMTlFwQ2ZrODI2akdoWlc5M2JmVmJrWXZXR3NSTExld011VmltTWdjZW9QT0NQQlpsTm51N3IzRFFjWVNKTHd0NNIB0AFBVV95cUxQWlZoS3hpR0xmQlc1VUxQUl9MVVp4RVBBM29KNUZraDNpMENVZ2NMcGM4elpkWlJlUE1WWC10ZXJkXzEtZ3JDcHhmS0tDYzJFM0VoNmpJRGtxWkl1bGI4T240bTJkRlVHcmlNVERXMmh5em1FSFptazJKeG5IZGhWR0ZIRE9temVEbWtVeU9nTzhGd0w2dndXS2c4eFRXdGh6MTNPZlRORXk5VFNLMlJBOW1qVlBqdHFXclVlUkpCOVl2c0Jlek05SkNmd1FYcFV6?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Simply Wall Street",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 26
+  },
+  {
+   "title": "Capgemini a bouclé la cession de sa filiale CGS à l'américain ITC Federal - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdlhWeWhLTEowYkZVRzdkdklETjk5RFRPZHNWQi1fSGVFYnU0dDVaazU0c3h3bko5S2NPaUtUVzBKSlBYcHEwXzRTcWk4VXN0MmFrUmdzRHF4dnd1WmRzVjVhbmhNN1UyaHhmcXBiMURFbVZyUUNOS2cxRWszSjd2S2ZsRHRaMEtNOXV3b004aVJNRUktWjU4b2xEbnZibG5jeVBjX0JSYnF1MWxDSlRyaFVmZUo1Rkp1elZDRzY0dmo0aUN1VW1HR3pud01PMlAtb3BDT3hoWURxSXNnbnc?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 27
+  },
+  {
+   "title": "SBF 120 - Les actions à suivre jeudi: Alstom, Capgemini, Engie, Thales - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNnBfVEgxREM1WXpsdEdpOWYybHAxSEFTVmZhRWE2RW1lSFhsTllkaDd5TENrNGNqOHRzcEt4dlhISEhPdlZOSDY3ZUxucFo2R1ctRzV5aTYydjdQYnFqcEp4cEFhUnpBQWRRM2hlRzNmMlJSREwwQXBSaVl4Z3habjMtZVJvaGF2VU50TER4amhxZmJlbGxETUQteVV3bVRES3M0RnBKQmE5WHg1cDFqR2JLLThEVGN0SndWeV9ESnJTMy1JMFpaSjJFcVdvQ2NGb0xv?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 28
+  },
+  {
+   "title": "Capgemini, Axa, Thales… Normale Sup’ ouvre grand ses portes au secteur privé - France24 - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LSV9FazdZdkhlMjlncXUyNHBkcHE2MUJscDFCMW1pNDFneHRnRjdnbjBpdkV2TDVhU0FoZlpkMjYwY0N6ZDF6MVBXdUhtZkVidlp4ZnkxZTdUTkg4?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "YouTube",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 29
+  },
+  {
+   "title": "ÖV-Symposium NRW, 30. September 2026 - Wir sind dabei! - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6RUxucjdrcFZOdWg0MjJHOERvdHV0OHVaaEhDTlNrY0ttQm1RckVFTUN3WnBScTFteXRPeHZhSDNadmxWTFdIT1VJMlY3RHB1X3pGNFhORFl1bkhVX3hlc3BRems3UExSYUFyZ0dOWmNDdw?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 30
+  },
+  {
+   "title": "RETAILNXT 2026 Building the bridge to the agentic age - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VQTk2aVVTLU1UX2ZWQjR2ODd2VzVOLV9mZnBlVG5TY1NpU2ZjeGE5SzBNNlp6TW1ac2pZWmZJX1JmYXQzMUpJMmhndGVVbjhfZ3AwVmhwWUJWUGozLVZXMFJ1SjBDUGU2M0g4?oc=5",
+   "date": "2026-09-30T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 31
+  },
+  {
+   "title": "A conversation with Lila Tretikov - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHpoMUNJSGhfaFZtRFZwRS1tdENYWHZGMnUwT1FXMWh1bVZVZHdOaVMwTEU3S2U3UFVIZjR1TWdnMnlEc2wwcU95UWU1LTluVHh6WEhLcGd6Q1RjWkY3N01EdVU2ZW1XaUNLOWVIRkduNlJTNzFkcmFTMDJpOGZRMFJ0SjFid3J1cmVTQ09Wbw?oc=5",
+   "date": "2026-09-30T22:06:49+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 32
+  },
+  {
+   "title": "Capgemini catapulté en tête du Cac 40 dans le sillage de l'envolée d'Accenture à Wall Street - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1IwSVFfbHJpdlhhTnBkbTgwN0pwYnFsWk5PTUVoeS1mZ1ZYcUNrTHBhR21mNXVxZnRGTTBkLU53U3dvNWFPY2ZuUl9JMDVydUpNNVRrZEd0UndHQnBENzRrS3FsR21CYVhlMUR4cFB6U25YREFITnpDZ3FISEVpaFpHeE9fZGFCOXN6QnlCTjNOXzJHRGhGXzQ3Vm1zeHNtTTgzYnZiZFhULVA5YWhCZ05OM3NpUldWOHlMYmFFdFNIVXRXT053VjRfLURraTZ0OXViYjRNSVliaHM1NmI2SXZyMWZJY0ZfS2ctTHZQWUZlOTdVYkE?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 33
+  },
+  {
+   "title": "Capgemini : Catapulté par les résultats de son grand rival Accenture (+17% à Wall Street), Capgemini bondit de 10% et prend la tête du CAC 40 - BFM Bourse",
+   "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNMk9yNnEtUWg3WWFPNndPOXhFS19TRkVKaG1sT2J1NEJmRWk0YTRLQjhiOHZyVFJQQ2M0eTlHRGlOb2dpNGd3WkF5OHFZNVoxLUExQWZtclJiZWh4SlQwY2lOZkpKbDlVTE5PMGg5QzFvSXVHbkdyREk5d2J3cTVKQjB1Tndjek5lcUJ4Y3pzZkh1MnRYZzREaU9xNGhpZHNfOTAwRGdWVXV4X242ZGU2d0dOR2E0bEdXVDcyVWVHcEVxQXg2WDJIYUxQck8yOE45YWpBT1c5bm9SbWpHQjFhdklmVkxVbnhYeWNadGNQTXhPU1ZLa2VjYV9ocTZrQzVIMU42MG1HY2lZVTR5VnQ3TXdJZ3d0eHpOWTR5Z0g1emJrdUdCMnl4Q2tyWldlRk9t?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "BFM Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 34
+  },
+  {
+   "title": "Capgemini finalise la vente de Capgemini Government Solutions à ITC Federal - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPemJVNGJtMy1lY09INTdTUU0xV3BiMTFzQkdiaE5zLUppMEdOVXVjUi1EdHd1Vnp2dk9CNHFTaVF0eDFKZS1DM1ZwUVNZalp4ck56MW5hWGxEN2cwY2VMZUJMN3A0dWdWZm8wV05VOWRQN2NISWV0MjYxS3I0UDd2SHJJdzEtTUVKZHI5dnVjRGw1MG1PY0RTRFhQeVQxY2c1SEs4Yzd0bXVGbUM0T0VWRk15dmdURkxpdUg1VVhXT0NCLXp0ajZVVlR3?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 35
+  },
+  {
+   "title": "Les résultats d'Accenture propulsent Capgemini en tête du CAC 40 - Boursorama",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVnBEVWRlQ2FCWVJ2Slc2cF9GblZ4RkotRWNuU0wwMmVZS3lncVdwck1zV2lGdW1jY1hmSW1Lck9saElRb1ZFY0ZmVkFRZHMyMkpacWlNZnR1OXF4ZHdUR1JiWkU2ZUJ4QTVKV1BYUDZ0Z2k1dHNRTWkzYUNCczRjNVR2a3ZvcWJ0NTJ2cTNUYUFSdzRrQ1ZPSnlJamNRQ1Z3a3dhblZCNnlxRXk3OS1sVTRIc29wdE53eU1sZjBpNnFVdWJTUUw1NmtmUjZ3U2J2Q24zNnJVX19SZ9IB3wFBVV95cUxQRmQ5VEFVSFJNY1JMWklOR1dUUHNCNEN5NnNiZnBhdGtIaGZ2elFNemI5Q0tnS2N6MVFYTXUweEt2a0NzX3JFb2hSdkZCODd4dXU4V2ZDYThUS3lIYW1JdjNnWDVUMndoQTVVUlBtZTVNbDhJQ29sbzNpbFg1c1pTQXhYMEJ5bWhUaGVqcGNUdnVyMVZ2OWpWZFVMNXBhZi1EV0lpN3ZHdDR1TEl3MW5xeWtXVXpITDhITnlNd1RCbDNvWnBxNG9vN1psSGtTYlJ2cFI4Q2JlN3gxbEZjamp3?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "Boursorama",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 36
+  },
+  {
+   "title": "Hermès international, Dassault Aviation, Bouygues, Capgemini, Accor, Vallourec, Semco Technologies, Delfingen, mais aussi Iberdrola, et AstraZeneca ailleurs en Europe : toutes les recommandations des analystes - Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQQjJOV0RpdWZmOWItRVQ4LUxYcVBfbTN6THpQZHA4M1RUTjhEZEptQk1xUDloOFltZHloUTg4OXhWZDlwT1NER18wZXJEeHF0UVJubUZla0gxdlBDZHVJUVgtdUU0LXMwbEFBRnNORGN3Y08tUTR0dEMxQ0o4NzJ0V1pNT2tMZXlja3hQMm5pRUxDWlpkZUY3RUFUZ001QjdIOEp6SUkzNVA5ODVTVlFfVVY1Qm1mVURiNzJwVnpFckVXekM3b1pKSEJFSXNFeVN4QUxGNl9kMGlONXc5ZVlNRW9LakdFcHBITS0zSDVlNTNGRWg3NzJjTlBidm9zNkJLYXpFa3U4dzhjN0k1TWNfVzVkcmVpYk01SjBYY2hMMzk3QWpOcE5rMm9kNGltbXNLQzNzV1dWWHZIWHV5S2hVZWZCdzdfSFlPY1otZllJSHBwZkhQelBiZDQyaUxTaE5PaFQ1X2lUWjUzUS01LVZDQmpiNkVtajNyd2NVTm1pOA?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 37
+  },
+  {
+   "title": "CAC 40 en baisse, Capgemini bondit... Le journal de la bourse du 1er octobre 2026 - MoneyVox",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNU44MjIyLU1nNFhSdnlYcEFMRXNZcEZoSzUzR2JKSHVWX2hzRl9sNXM0X3hMejJkZVF1SFJFeWpEaW9kbjZXaDdaWEEyQjQzTmltUlB0RW5JNzRmQjNCajhJOTlSUkZmYkRyNGV2WHA2S2R2dW9lUG9ZNWRfRTdTTk1CYmViNDdGWmJaRktBeFc4bktxZ3FaSjhkV0VXaVFoQVNyYThEMGZLU1F5UU5NTGRCTjI3Z0lVeVFNY19pbnVFVVZQ?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "MoneyVox",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 38
+  },
+  {
+   "title": "Capgemini en forte hausse grâce aux bons résultats d'Accenture - ABC Bourse",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2dncUdfakpmTW04dVFXVk1EbXQ4b2xKeHdvay1qYWlXMmtXN042aE02WDJRSG9tdzV3M1E0RGM2ZWtUdEl3LTFsZDFJNjBlNXgzaVRadklMeVRYY2xvZGZPVzdtbmcxMk1XMEU4eGtvUVp2cjNORDBKWXQ0cl82TWVEcDlHNnhRZFJFU0JNaTlZWkU5UHd2TlVBVVBFUVJ2c055UEVn?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "ABC Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 39
+  },
+  {
+   "title": "Capgemini: franchissement des 112 euros, cap technique ouvert vers 140 après un bond de 8,96% - ABC Bourse",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG15dnhsUmlHRVRqQkVHQkMtQ1lFZnQ5MTBtalFxeXU4QUo5TnpudWhIYnM5ZUlwT0lMNG5Mbk9mT2RMSkxFZ0pJck9oN0lHWmdhYW5MaEVWeHZiZnJ4SGIyY0ozTVUzUzdUTWtiYlE4T2pPWTJGZXRaVlhMTXpxaS1JclQxcE9oOTQ2ZXdrdnZ2UWEzRnhTNWRvN2Q4NlBpRk42d0g4b3IxUzdfTzBHX3dzTVJQY0U2bGc?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "ABC Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 40
+  },
+  {
+   "title": "Les actions à suivre jeudi: Alstom, Capgemini, Engie, Renault, Sanofi, Stellantis, Thales - ABC Bourse",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2lZOGZJbkRrLXhfQnotNFJPZXpHRDNpcUxkeVV1Ym9uSW9CbmJNTF9wZ3Z4cGZpaHhTTUp2Mlo3ekZOUk44TU1Zdk9nYVNFd3NwWmZEdmJYM2RZTVpnTEJ1SmlmeTdTU01qalNTTGhWZHQ0M0JCYUUxZWswMGJ5VkJxb0ZJUzdlbVdqSDJPOXM4NmZsUGkxWmVyaC04aWdnMWl1MEdpZmtSUE1xT0JyVEdRSmtNZw?oc=5",
+   "date": "2026-10-01T07:00:00+00:00",
+   "publisher": "ABC Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 41
+  },
+  {
+   "title": "Capgemini Completes Sale of Capgemini Government Solutions to ITC Federal - Ideal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcFFJTWxoYjVobkFvd3ctQUlDTFNWT3ZiZklpMTVYck9OMGVuUFMyY0VNZU1JWmRLVDY5Ti0tR2d2X0JnVXJ1M1pyRWVGaE9qRUticnpxb200OHpSUUZBMk9HakxodjY4dExsekhRdG1EMjR2Y2xzX1pQTGN1NGF2b0dOa3M3NE1JcDJoZ0s2OG9yRVZqZGJEcjhvVU9kY0xYOTJDRHY4VDNzVHZoNWs5Z3JQOVFHWWQ3MGxfMEgzbDRpQVotRkdZVWdDYW0?oc=5",
+   "date": "2026-10-01T07:57:00+00:00",
+   "publisher": "Ideal Investisseur",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 42
+  },
+  {
+   "title": "L'action Capgemini enfonce brièvement les 101 € avant de se ressaisir - Ideal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWW1JZU55d3VwT3RUQTVlaW5YVXRfM1Raa0J5XzRHaVVXZnhKRXk2VnZlU3pJZGVUdVM5UjRiRkxVNmxfUjcxal9BYVJGbHIzc284OTFxeG9aQzloZl9nYXlkVGNvZGVMTTlZZUw5UjFVMGhQbnlwM2txeGtzLTJYUmJ6aENTVGtyT0didHdraml0Zk1YbThzZ0o2ek4zU2Y3Nm96eUd0eGJ2aXFaTU8tY0NLdURLSVNQX0dSSF9R?oc=5",
+   "date": "2026-10-01T09:54:00+00:00",
+   "publisher": "Ideal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 43
+  },
+  {
+   "title": "Accenture s'enflamme à Wall Street... et dope Capgemini ! - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0wwVkdTS191OG9mdE9vaGFiR3dXOTJCeTlsVW1yN19WdjhzZnV4VVNqUEl0bkRYYXV0eTdrMkN5dlpUZ0xDekk1MVFVd3lPczhMLUV0ekc0c0V1R2JRTlQ5SG42eHVvWWlvOWRBM1NMbTVnQnRHejlSZEtHNDBmNWZFcE9UXzNOREdxOVNRMTQtdDJkS3NlTmlHSGNnd1JPRV9sV3lwNkQ1QUw4UGZLVndqUQ?oc=5",
+   "date": "2026-10-01T11:22:00+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 44
+  },
+  {
+   "title": "The era of AI Yield: Mastering tokenomics to maximize enterprise value - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSGVuWGxKTHpScEhnTXRFaGk5cWRuWVJyZXEyMDlEeFdLcUwyWVRCVmxObzk5UjZFT2ZGOFVnNnJzM0Y3MUVBekw1LVl6cWpmS1d0WjhYUzJndGkxRHV2dng3Y3NRVU1pRUtTcWl0dVBVRE5rYkREaGVOY0QtMnh0OG5jOWZoN1JZRGRYTzVfaXVCTWdqVVpvdQ?oc=5",
+   "date": "2026-10-01T11:59:38+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 45
+  },
+  {
+   "title": "Beobank builds a scalable people platform to improve employee experience and business agility - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNY245ckFPemJKVzdyYXBmZG5teUx4WXlOWXVmVEE3WGF5cFNQb2J2ZFQ3T19aUE5TaUxMVkh0cGZ1aFZyOHA0bk5nWE1pSFBRalhQa1Z4VVRIczd5dDJzMGduSmJOUG1aLURvcy1zSUxfZXJsWVZIOVBmc0FwRTNueEx4bzR6RUZwQ1BxQXdxWFRNdEtEdExKeHJBV1lkUHUzcExCZlgzWjlUejVGek5RcTVpUFFqMnJ6WW5UbGVzUmIwWTdvWEZVTUJsYnJ2X0Y2R184WmtnRDlPamxpQk93?oc=5",
+   "date": "2026-10-01T12:18:27+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 46
+  },
+  {
+   "title": "Le Cac 40 rechute, les taux français repartent à la hausse, les résultats au-dessus des attentes d'Accenture réveillent Capgemini - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOMWwxLTZhNTd3N3BkUFZuckVUbTRyNm8wOGxCVmpLSzdpRFpacnBXR3VKOWNOMDFBWkZvazN0M2xNUl82SldNV244RC1SbUN0UmJOajNSX0dlWnZaNXExVXVXMWVxcFZRMjJBdFpQNnVJNVJtRnQzbFNaYXI0TUlMdmpQa3huWmNpVUtZSWY2YllpWVR2aU1BTjFLMHVLdm95UlhmZ05vUjVINlZab0xORHNLUjAyRFZkNWExX3dURkxEdW8tZFVlaFRYd2xVd0dZUUpCZGd1S0JHV3U0bkVuR08yQTA4M0hrZGthcWpDLWYwdjZGaXcydTFlcVNRaEJhaHdXamRKZXpWNzNlbHVuajFvVEZOdzdjR25FbHkwQkZkVzVZSnNzcDJyTjB6ektQVDd6WnJlVmFWRWI5?oc=5",
+   "date": "2026-10-01T12:59:06+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 47
+  },
+  {
+   "title": "Accenture results propel Capgemini to top of CAC 40 - marketscreener.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGJSZzRicl9uek1YVzhDaTNYQ1c1N0Z5Q1hZcW5XWWNvdkw3TWFSMHlzY0d5RmtRM2tnejNHc1ZNT2p1MjhLcE82RG5HZ1lVNGxJUjNLTXNWemdFUy1mQWxodkM2bWRqWnlmRUVQSGwtQlZTWHdJUXl1Uk16N2R5dDRETnFQaXhRN0I4RmNvdVpvcXpSYWhaakF4Z2xRTXNrWlBiNWJEaw?oc=5",
+   "date": "2026-10-01T13:01:27+00:00",
+   "publisher": "marketscreener.com",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 48
+  },
+  {
+   "title": "Accenture-Ergebnisse katapultieren Capgemini an die Spitze des CAC 40 - MarketScreener Schweiz",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZzVPanJxbmRERjZfcmxGUndxc0NuaXQxYUNaTUNsa1FCTEVFdnZnZ2FKYXBFLWp1UlJUR2hvb01hQTRKczFBYk5OQkE0VkVtWXdwMmd5N2tsZW9DNlRiYWd6OVZ0X1VoR21MS3RialhfMS14RTZrMHVwOS1TaU9ZRno5UWc2Yk1fQXhnaS01ai12ZzJ0UHZSdFAwQkF6VHloWnJOTGpYN1JremFYV0FoczZSLVhuVkVpSEFnM1JSUTNFWURpaXhnOHRyR0JaZ3hy?oc=5",
+   "date": "2026-10-01T13:01:27+00:00",
+   "publisher": "MarketScreener Schweiz",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 49
+  },
+  {
+   "title": "Pharma MES 2026 - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KZUZ6UE44MS1QbUl0d1FyWjQ4NF9VT0ZvUlYydlg4RUZtUGhITkRjN0ZVdGtUWnhKdmlPY1lVam5VT2NOZHNZQWZMZnMtZnREVm5ncmdhTEMyTnA0TGJEZFV4NFU?oc=5",
+   "date": "2026-10-01T15:30:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 50
+  },
+  {
+   "title": "Capgemini gagne 7,38% - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmNSbjFHOGtKNzRnWldYM0ppdHMzc0s5TVRpNVlCQXdLaE5Qa3NxR1hsdGZ0akpkdkFGaHJ2RVl4NWFYeGdTd1MtUjViQXBscktYOHRRUWN2RmNyVk9aQUZrQm1UWEhxdnZvSzk2RkZYMmNuWjc3TzljMTdHQ05LclVjbU05UVhE?oc=5",
+   "date": "2026-10-01T15:41:00+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 51
+  },
+  {
+   "title": "Mitigating the environmental risks of AI through better monitoring",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/mitigating-the-environmental-risks-of-ai-through-better-monitoring/",
+   "date": "2026-10-01T16:40:29+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 52
+  },
+  {
+   "title": "Billie Major - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmVDSjNVOVRfeDFQaHZYdnh2c2tSUzFqRnYzWTg4WVdnd3p5U0lVY2tiT3VDUzAyZEExMmtUODdxTDhzNHVYQXNmTWhGSFp0UmVWSVRXeFI3eVd4a1dtWGlTRDdGU3RpX2VGNVdRZmtycE5XMG95TkN0eXA3b19BOFl6dHV3SnV5WkZOYzZyZkliUWQz?oc=5",
+   "date": "2026-10-01T18:46:28+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 53
+  },
+  {
+   "title": "List of 66 Acquisitions by Capgemini (Oct 2026) - Tracxn",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUzdQS3UweEY5c2RZdVVNaHc4VDJTa0JlR2VHQUZ6MDhGcVp1Rk9HblpfX1NMWnoyVV9MeGgyUHA3OFJjY3BMX1JuVnkzUXJodkM0ZnprckRLNkVLUS03bFhSbXVSTUo2QTdlS0FvLXlZbUpfcXQtVUN0MUNIOG13U1ZkeDNBN1hFd0xCMjVsWXdaTzBjTE4tWkdHUUhIRHNBVVNidmpSWjc?oc=5",
+   "date": "2026-10-01T21:51:04+00:00",
+   "publisher": "Tracxn",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 54
+  },
+  {
+   "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Anthropic",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 55
+  },
+  {
+   "title": "Anthropic funds $100M academy to train deployed AI engineers - Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXV6ZlR2N2dURDl4ZVlZOGp2bV9PVlcwd0lUTTJNYzhKTjBrcjZpQW9xQ3VfemJVN2V4RkFWN0NLX292b3E5UjBpQ0tEX3RhNzdNejd4bXV0bmpUaDRfZ2owWFN5dENhY2lkRnZIZHZ6dHVqQ2ExYkpHVFhrX1ZMTm9OR212ckVTb214cVpvT01ycHh2U09yaEZyaUpnMGpFdjMxSVE5ZjVXUQ?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Business Insider",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 56
+  },
+  {
+   "title": "Capgemini : des résultats d'Accenture qui lèvent une incertitude majeure ? - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTGw5THhidEE1SnZYMWdicmstTHAzeW1QRnlxMElGRDNiV0VHUzlhbG95T1hlMFFwNlYwNVZIeUhBQWxuZFdROFJMNWtvc1dCV0wtSXk0UlpTNFBjLUR4cC1uX1R4WnRYMi04SDZEOUJ1Z0tZZkdxT3JSOF94V0U3ZEtCalk0YzZ6dm9WUjVTVmh2MXFaTTFwR2FTWFdHdFVrbGdSYWQ3bE9EbXBRT3pON3pXNTZxZ2MzMkRrNnRqbmMwTUJRNm9GRGp0SQ?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 57
+  },
+  {
+   "title": "Conserver les bonus cappés Capgemini après la bonne nouvelle venue d'Accenture - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON1hOSUtsSWNUcXBvYmZ6S1dYZDVzN3Q4TFlVcVBLUjBrZXpzNXJ3Q3RKQmhNLUkyOXhSZzN0cnRtdDBNY0VORHB2QnhpdEgybW1CN25aTmloclFoRUFNVC1RVklNWkliVVd5VGNLRTN6b3o0a2xDNkN1Q3RLS2FaR2d5OVlTeGdudTBfU1UxTTJNeGVTak9rcG1NS1lPUWJyOW9ySUZhbWEzNDJpUU1EMTFMeFJhLUhycVZfSlBaeVBaWFAxTE1YTnlvVlpxOC0wZDZmTHFZV3NBQWxyQklrQXNRVHg?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 58
+  },
+  {
+   "title": "Kering, Capgemini, Saint-Gobain, STIF, Hopscotch, Interparfums, Sartorius mais aussi Commerzbank, Siemens, Sika et Leonardo ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOWFJaQXVycW9hbXdNdERaLUdVaFhUbnZkQVlBZVBySXpyclkxMzkya0RPOVl0bmJXMi0yOEY4ZmJnR2NCazlZRkQ4TW1nanJMYjQxelU3dzJHZC1kaU50SHFIblpFd3F1VmRhQkVNd1NPcVd0M2pUWGlNOFNCdjZCS1JMZ0lTVTV3a1hvSUMtVU5SbmViSWVoS0d5VVZndllfclNobXZEWkZXWW1fMk90ME5qVDZiODEyem9VemJBaUpfX3BkSjdKeDNONHB0S0M5YlY1bjRUNmx6bWxnZGZHMmlqZU5mR2lxQlRvSUJsNmd1eGZuSTdaTlhFQ3Y1NXR1SW83dUFkc05leV8zN3FsLUpBbGVhZ2FwMGxSOXUtcjJrYTNfbHlXb1NTY2Y1Y2xVY3cw?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 59
+  },
+  {
+   "title": "Capgemini bondit de 7% pendant que le CAC 40 s’enfonce : Encore +39% de potentiel ? - Investing.com France",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa2FHbnlaZ3p4eGdJUEJxbjFVLWhFQjRwMS1aUVBjeG5Yb3hkc2ZaUExudEpFMy0tc0NMWmFDRDRyTmRTa3RNM0FObFVCMXBDVXkyV3VVQ1hpejI1anNUaE1Td3Z1NF9tajgxMXFQam1GV2JrTWQ3YXphbWhBR0RnQlRZUjhybWVXNzFYZVVvMmp6VEo4MnF1TjgtdFF0QnhTRHdUcF83aUZsNGtrbkNzbkFUcUZPM0J3UjFfLXMzRFRMdXlYMDVNYU5pYUpFdw?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Investing.com France",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 60
+  },
+  {
+   "title": "L’action Capgemini atteint un plus haut de 8 mois après les résultats d’Accenture - Investing.com France",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTGxqSGt5a045c0MxLWNyUVZLSFNxWGtrN2htMmRRSzRuSHdtMTZSQXBTcHlmbjdSTExKbGc5czdnUW0ta0MwWlltRng4MzhfbzdXM3hmRUotVEQtUlMzUXRack1YS29YSlJ6aWM5MmJ6SWQzVkx5eENRaTVxZjZfdVBkbFpBc3lQX1I4Y2JGeW1HNW5INnJPbERIUnZnenBlbk5zTVJKMTl5MFl6aERmb3BSdnBCVXprenlKVm5yUV91QXM2OE5wa2VpN2Nra052NFVwbVlvRQ?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Investing.com France",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 61
+  },
+  {
+   "title": "Les actions françaises les plus et les moins performantes du trimestre - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUVIeUcxT05GU1dZZDRUT2lldHlERUVmZ1d4Q2VXX1F5LWxoM3V4aE42WFc4MFc1Mk40b1RSdjdrT3ZpcWhwZlhEQkZROWQ2TVktV2szRE5aMkVYQzlOeHBHN0phRVpYbzhZMm1jN05rMDFOSUMyZUpmQ0JLWGhvUG1NZGl2UXJnMmJWX3RmRjJoUnZaaVlZRWdId0YzSVE?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Morningstar",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 62
+  },
+  {
+   "title": "Souveräner digitaler Arbeitsplatz für den öffentlichen Sektor - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTzhRU1J4T3JCLXJtOUJncFU0UmlxcEZTb0FIOEFDTUN3TFFkSF80a0U5MFYxZktIakJJQzRSaXJNdV9ZNE9Ydk90bzNlQzlBSFRRbEM5elJ4dXhKall6RzNLa2FRX19nb3llNlNyQUtJV2gxN1NweUhIWFM1OEhMMXZYQm9zYmZKVzRSSF9NU2RuOHRSVUw1cG01MF9hZWF0ODJGY1ZOcExlbXBRemVNTkZDNzFRRTJDMldoZzR4S0g0MW9wN2hRVFB4Ykt6X01ramxrSHVlc2lUN2xqNFNqcGNnM0ZDMkxTUFNfOUJrRkRLeDdYa3pLeA?oc=5",
+   "date": "2026-10-02T07:00:00+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 63
+  },
+  {
+   "title": "MedTech - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbTgyT0thOHpSN0pEOUpYTWUzSG8xU2EtOWVpS3gzejdDeUEyVXcweThyRFQ4LVZIR0hxNFBSNVJ0aGVESXFoQmpGZjBzY05OSnhlTjVHbmphQldPQ1YzOW1kdTAtcTdyeGRkV0pHakZoTVU?oc=5",
+   "date": "2026-10-02T08:41:43+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 64
+  },
+  {
+   "title": "Souveräner digitaler Arbeitsplatz: Wer heute keinen Entscheidungsspielraum schafft, verliert morgen Handlungsfähigkeit",
+   "link": "https://www.capgemini.com/de-de/insights/blog/souveraener-digitaler-arbeitsplatz-wer-heute-keinen-entscheidungsspielraum-schafft-verliert-morgen-handlungsfaehigkeit/",
+   "date": "2026-10-02T09:48:29+00:00",
+   "publisher": "",
+   "feed": "capgemini-de",
+   "section": "general",
+   "evidence": null,
+   "id": 65
+  },
+  {
+   "title": "AI can enhance every stage of teamwork—under two conditions",
+   "link": "https://www.capgemini.com/fi-en/insights/expert-perspectives/ai-can-enhance-every-stage-of-teamwork-under-two-conditions/",
+   "date": "2026-10-02T11:06:31+00:00",
+   "publisher": "",
+   "feed": "capgemini-fi",
+   "section": "general",
+   "evidence": null,
+   "id": 66
+  },
+  {
+   "title": "'Joined 2 Weeks Ago, Got Another Offer': Capgemini Fresher Seeks Help To Quit Without Serving Notice Period - News18",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ21DcWpnRnJVai11bTlYZGxjUlBXN3JGVTRVUmNneFVwbHo5LVl4U0RtZHV6Y1IzdGdwdGNVUzgyT0QzNU9IMXhQT1RlQmx6b3AteUZZeURidHhCTGp6eVFDY1JnQmZKeWFkOXBDSkJJbW5zNjNRQ2ZrbmxHQTE5U2F0TEVtM0dlTlpRNTdyaUluTFhoWmlvWVFlTmFwZWpaR1BGN090eHJCZUtMQ3pGeVlEMGZVQTZjUDRkQkhlTFNad3RMZTd4V1BfTGFMN0ZGWlZicTZ0NlYwM0NTYzAzekpScWRWUdIB6wFBVV95cUxOMzJjT2JRdmFsZTZ1YWRSdFdhenZ1RE0wbnJPNUJUdzJaYW1RbmVrWWN5WnFaZHEwYkZWaklUdkg2QUhNYkFfUFBQc1l5UHlkRko0cWJDMFR1dkktaC1Tc1J2SnpRWEJKdldURmhPekdBZFFsNUVuTXlXVkZEQlo0U1VyQUZleEFFXy1vbVUtOWVaWjg2MTJpNDBJd3R3eXRncmsxdUg4Yno1MVU4U1R4NzE5Ry1JZS1pbm1yQXFhN0UwQ0hMVlEtZFJrSnZrZUhJcXJlbWlUU2dSTEZ0cWdkOHdWNFA1bXJ6aDdn?oc=5",
+   "date": "2026-10-03T07:00:00+00:00",
+   "publisher": "News18",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 67
+  },
+  {
+   "title": "Sustainability in action 2026: The new rules of business resilience - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjZ0Ri0waEtLOWkyRWFPTHZZNUdfRkZaaW9sWWRoRlNWNlc2RkZ5eW5BOW5JdlBoZHRIT1pqbG9VY0ZnWjhDZHc2QTBsYzFhS2JUN25JZ0lYdFdsR3Z0eTYyZC1xb3BwUnZDRGFydGtjdkh4bGhrUVp0X2xaOXhBTVFwWnNoWVZTcFZPc0RWbUFqdw?oc=5",
+   "date": "2026-10-03T16:52:28+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 68
+  },
+  {
+   "title": "Capgemini Invent Talks: Mastering Your Data Ecosystem - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOXZ3dC1POXA1ZEVLSTBsRHBNQ1pubFdKM0ZjRHBVUV9HTHB3dU44bGdHWnZQYUMza1M0NTdIU0R4MHRlV3Nkb2pQWDE0cTZROHYzdjhwTTgzLWJkcjVtZmJjdWRqQ291TFdHbEVJWTgtaDM1aG1UbGFjZXU0V2xtZ3NXUGJVNWNnZHU5NElpSWRlU0JCYUdKSXJ3?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 69
+  },
+  {
+   "title": "Security Bank partners with Capgemini to deliver seamless payments experience - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGRNVjlnMk0wVTJLczRLam5lcmhtdkROZ2d0Y3BoSk4zMDlhbndreDZuQVUteF9jclNsUUJPUkdwZlEzYnQ1X2VwVVBTMGdNcG5IOFIyOEQyLWFIdExiRGQxOTlfNXRrUVB4TUVkR1QwTG1mYmx6VF9RdFB2UHFpd2xSOTk5WjFGNGFscHRWa2FzRnJqcm5ra1VSRUZhanlCVUpzVVJWNlZMd2t5azc5a0duQmppMVpoSjNr?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 70
+  },
+  {
+   "title": "Introduction to Capgemini's Digital Core for Life Sciences offer - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXpsQUtyU0t3S0dHUHJWNE8zN1V3YXVBT1JRa0tDaUhGRldEczBUYXVmQ0YwVWZOaXoyVFBia3ZJWTg4SE1LUG5NNVBPSy1YbjU2Q2I0X2lVX3ZoLThxU0NxOUZYMTFFMlZuaUNTSGtFX29aY01TcTNid0dkc2VDNVQwLVl6eHdhbGpRcmctaWF5V3JqTzVLMXVmRXFMZ29vQlBmYlgyYTBZdw?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 71
+  },
+  {
+   "title": "Transform Insurance distribution with Capgemini's digital agency experience - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOakhDaW5fdF90QnpLT0xUZlFKb3VYWkxQZEphZEo5S2VJWnhEWlBHT1RlcUVrTm52MmhmZ0VYYXRxaVBseThMYzdQMGVBRTRvWVE1Wk9lRGhSdUtvS3B5YXItYUpBYmtreGFxd3NzQWFhSzZlWGhrRUswMThuVGc4bWtWM3ctY3h6S1N1UV9tUTlwTUFrRlBDU2dDbU5ycGg0S0Vxd1A2UkpmU3dGU1JjOXFBdHBNbUk1?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 72
+  },
+  {
+   "title": "Capgemini's Microsoft Digital Customer Experience of the Future - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0RFZEpqbjFtQWVUbmdyRjJ6cWo0VjVTNTFnSkFLODFlN2RPMFFtZHdvRi1TRlpibHZBVWY0S0dYZ2RhckthV2hfV1lpdjdPa0Z0OTVRSGhRMGlOQWUzcVJWcDRZVkx5TWE0X05OMG5qSFgyekl0NVFmVnRoazNkX3h5RVpoV2ZvRHdKZm1qOXpuYVd4Vnl5MHlSbHpiTy1wU01Wd3V4N3U?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 73
+  },
+  {
+   "title": "Biesse - Human Machine Interface - Aerocontact",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PVE4xYlBraUlOMWFaQ1daWFpiODJSMXE2dEFLRThkM1NTamloQ05MREpUT0tHeDJfSGNLbzBycXIwUjg0ODlKd195UjNJQnF0bDJnTzE5ZF9NdGxuVjZ4RlZVeVJIS3JzdDNQOFB5WVJrTmo5MFExYTNISDY?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 74
+  },
+  {
+   "title": "Connected Marketing Operations - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vNTluRTVQZDRRb09fMWpWUjI3VV9fUkxHV08tNXg0R2w4WElSREFSRW5FSnhORlg3aUNCMFdnRkdrTXMwbnpqem9FeEU0aFF5Z3RMaFlJR2Q0U01mT1h4eEJXQmRBUGY1QW9fLUhKelJjSGhCbGt6dEhzSDQ?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 75
+  },
+  {
+   "title": "Revealing the wind with WindSight IQ - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUdJZ0FqMVVraTNkVjY5d0tTb280d3FxaHo0T0N3S1poMy0zX0ctMEtLTmRFSDJJMlVkTHNiLWRzcW1oVTJLZ2Z6OEtpZ282aThHblMweUdDWFNWUDZpMHY0YUdqaU1jbTE3YjA0WnNUVDJjV2NwU3JyR2tuaThEdUFPdks?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 76
+  },
+  {
+   "title": "Revolutionizing Healthcare: Capgeminis Compliance-Ready Connected Health Solutions (Part 2) - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdnZua3ZKSDF2X1pDVVZGZUp1MHc1UjVKVUtWdVV5MWhETTFZTFU3MjBjMmlOMG9jV2dDVWFNRFUwTzZqUzdpLUY5NzgzaGZkM3ctSm1QSWFSVWhGNVBsckVGYS1fcmw0ZEY3ejRfbm53Zklmd2xaVi1iSThianVjVmFnOUtKczhwb0EzT2JSRG5aaVN2am8zMHNSYTl2RFN3S0hwV1dKYXZKRTNIVDdobmRvVVlNY1lZZnR6LURFNWRmXzZnVE53RWF3?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 77
+  },
+  {
+   "title": "Capgeminis Neo-Lending Hub Transform your lending processes for Retail, Corporate & SME clients. - Aerocontact",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFZfZWhldVpYeHEwMjNGVUMwNF9IbWpuaE92bVZvRFNzbE9vTzNQRXQ1RE52RThTOWxnRk5mMnVsT2lHYjFJOWdYelI3eHdNZ0pUNVVLWXRrenpKanhsU1cxVmdYclNUMTdlVmNqcTBmcVNmS0dZLTFEaXlEeS1MNUxGYzF6OG9yUjJEQ2xaalk4bFg2WjY4eW1WT0FGVkhTZmtiVVFUZndYRnU3MHd5b2E0NmpJV3U1M2JQbHJnOGVkMnZHUGFTbVhmMlNhLVdiLUpDVw?oc=5",
+   "date": "2026-10-04T07:00:00+00:00",
+   "publisher": "Aerocontact",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 78
+  }
+ ]
+}

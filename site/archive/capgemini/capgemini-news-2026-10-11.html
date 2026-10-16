@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="snowflake-source" content="cortex-agent-authored" />
+  <title>Capgemini news digest - 2026-10-11</title>
+  <script type="application/json" id="snowflake-report-metadata">
+{
+  "generated": "2026-10-16",
+  "intent": "Weekly editorial brief with news, separate client stories, short updates and expandable provenance",
+  "dataSources": [
+    {
+      "type": "file",
+      "path": "digests/capgemini/digest-2026-10-11.md"
+    }
+  ],
+  "archiveManifest": null,
+  "standalone": true,
+  "sections": [
+    {
+      "id": "w2026-10-11",
+      "title": "digest-2026-10-11.md"
+    },
+    {
+      "id": "monitored-sources",
+      "title": "Sources we search",
+      "dataSources": [
+        {
+          "type": "file",
+          "path": "partners/capgemini.json"
+        }
+      ],
+      "producerNotes": "Current configured feeds, all query/locale combinations and separate manual checks; not historical execution evidence."
+    }
+  ],
+  "producerNotes": "Rebuild with: python3 build_site.py capgemini. Client story headings determine grouping. More news uses topic headings and dated, factual bullets, with the newest 12 visible and the rest in a native disclosure. Empty categories are summarized, with exact coverage notes in About. Suggestions are expandable and explicitly labelled."
+}
+  </script>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: light-dark(#fafaf8, #10151c); --paper: light-dark(#ffffff, #17202a);
+      --ink: light-dark(#303843, #dbe2ea); --head: light-dark(#142330, #f1f5f9);
+      --muted: light-dark(#596675, #a1adbc); --line: light-dark(#dce1e5, #344150);
+      --soft: light-dark(#eef2f4, #202d3b); --link: light-dark(#075e91, #8bd2fb);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--ink);
+      font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    h1, h2, h3, h4 { color: var(--head); }
+    h1 { margin: 0; font-size: 1.05rem; letter-spacing: -.025em; }
+    h2 { margin: 8px 0 18px; font-size: clamp(1.65rem, 3vw, 2.6rem); line-height: 1.18; letter-spacing: -.04em; }
+    h3 { margin: 0 0 20px; font-size: 1.05rem; letter-spacing: -.01em; }
+    h4 { margin: 0 0 8px; font-size: 1.14rem; line-height: 1.35; letter-spacing: -.015em; }
+    p { margin: 0 0 12px; }
+    a { color: var(--link); text-underline-offset: 3px; overflow-wrap: anywhere; }
+    a:hover { text-decoration-thickness: 2px; }
+    a:focus-visible, button:focus-visible, select:focus-visible, summary:focus-visible {
+      outline: 3px solid var(--link); outline-offset: 4px; border-radius: 3px; }
+    .top { background: var(--paper); border-bottom: 1px solid var(--line); }
+    .top-in, main, footer { width: 100%; max-width: 1440px; margin: 0 auto; padding-inline: clamp(18px, 3vw, 48px); }
+    .top-in { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 24px; padding-block: 16px; }
+    .brand { margin-right: auto; }
+    .sub { font-size: .78rem; color: var(--muted); }
+    .picker { display: flex; align-items: center; gap: 6px; max-width: 100%; }
+    select, button { color: var(--ink); background: var(--paper); border: 1px solid var(--line);
+      border-radius: 6px; min-height: 44px; font: inherit; font-size: .84rem; }
+    select { padding: 8px; min-width: 0; max-width: 100%; }
+    button { flex: 0 0 44px; cursor: pointer; font-size: 1.3rem; }
+    button:disabled { opacity: .4; cursor: default; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden;
+      clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+    .skip { position: absolute; left: 18px; top: -100px; padding: 8px 16px; background: var(--paper); z-index: 10; }
+    .skip:focus { top: 8px; }
+    main { padding-block: 32px 48px; }
+    .eyebrow { display: flex; align-items: center; gap: 12px; font-size: .73rem; font-weight: 650;
+      letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+    .status { text-transform: none; letter-spacing: 0; font-weight: 500; border-left: 1px solid var(--line); padding-left: 12px; }
+    .jump { display: flex; gap: 8px 28px; flex-wrap: wrap; border-bottom: 1px solid var(--line); }
+    .jump a { display: inline-flex; align-items: center; min-height: 44px; color: var(--ink); font-size: .9rem; text-decoration: none; }
+    .jump a:hover { color: var(--link); text-decoration: underline; }
+    .coverage { color: var(--muted); font-size: .8rem; margin: 10px 0 0; }
+    .coverage strong { font-weight: 500; }
+    .edition-grid { display: grid; grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr);
+      grid-template-areas: "news briefs" "clients clients" "more more"; gap: 40px 48px; margin-top: 30px; align-items: start; }
+    .news { grid-area: news; min-width: 0; }
+    .story { min-width: 0; padding-block: 22px; border-top: 1px solid var(--line); }
+    .news > .story:first-of-type { border-top: 0; padding-top: 0; }
+    .news > .story:first-of-type h4 { font-size: clamp(1.25rem, 2vw, 1.65rem); }
+    .news .story > p { max-width: 76ch; }
+    .meta { font-size: .76rem; color: var(--muted); }
+    .sources { font-size: .8rem; margin-top: 12px; }
+    .sources > span { color: var(--muted); }
+    summary { cursor: pointer; }
+    .angle { font-size: .86rem; }
+    .angle > summary { display: list-item; width: fit-content; padding-block: 8px; color: var(--link); }
+    .angle > summary > span { font-size: .72rem; color: var(--muted); margin-left: 6px; }
+    .angle-body { border-left: 2px solid var(--line); padding: 8px 16px; margin: 4px 0 0; }
+    .angle-body p:last-child { margin-bottom: 0; }
+    .annotation { font-size: .76rem; color: var(--muted); }
+    .clients { grid-area: clients; min-width: 0; border-top: 2px solid var(--head); padding-top: 22px; }
+    .section-heading { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 20px; margin-bottom: 18px; }
+    .section-heading h3 { margin: 0; }
+    .section-heading p { margin: 0; font-size: .84rem; color: var(--muted); }
+    .client-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+    .client-grid > .story { background: var(--paper); border: 1px solid var(--line); border-radius: 8px; padding: 22px; }
+    .more-news { grid-area: more; min-width: 0; border-top: 1px solid var(--line); padding-top: 22px; }
+    .more-news-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 48px; }
+    .news-topic { min-width: 0; }
+    .news-topic h4 { font-size: .9rem; }
+    .news-topic li { font-size: .9rem; overflow-wrap: anywhere; }
+    .remaining-news { margin-top: 20px; }
+    .remaining-news > summary { padding-block: 12px; font-size: .87rem; color: var(--link); }
+    .remaining-news > .more-news-grid { margin-top: 16px; }
+    .briefs { grid-area: briefs; min-width: 0; background: var(--soft); border-radius: 8px; padding: 24px; }
+    .briefs h3 { font-size: .76rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+    .brief { border-top: 1px solid var(--line); padding-top: 18px; margin-top: 18px; font-size: .87rem; }
+    .brief:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
+    .brief h4 { font-size: .96rem; }
+    ul { margin: 0; padding-left: 18px; }
+    li { margin-block: 10px; }
+    .brief li:last-child { margin-bottom: 0; }
+    .about { border-top: 1px solid var(--line); margin-top: 36px; font-size: .82rem; color: var(--muted); }
+    .about > summary { padding-block: 16px; }
+    .about-body { max-width: 90ch; padding-bottom: 16px; }
+    .about h4 { font-size: .87rem; margin-top: 18px; }
+    .source-directory { margin-top: 0; }
+    .source-directory h3 { font-size: .9rem; margin: 20px 0 8px; }
+    .source-directory li { overflow-wrap: anywhere; }
+    .source-directory summary span { font-size: .76rem; }
+    code { overflow-wrap: anywhere; font-size: .88em; }
+    .history { padding-block: 24px; }
+    .history h3 { margin-bottom: 8px; }
+    .history h4 { margin-top: 24px; }
+    .history-link { font-size: .85rem; padding-block: 12px; }
+    .edition-download { font-size: .82rem; margin-block: 16px; }
+    footer { border-top: 1px solid var(--line); padding-block: 20px 32px; font-size: .76rem; color: var(--muted); }
+    [hidden] { display: none !important; }
+    section[id], aside[id] { scroll-margin-top: 24px; }
+    @media (max-width: 1000px) {
+      .edition-grid { gap: 32px 24px; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); }
+      .client-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .briefs { padding: 20px; }
+    }
+    @media (max-width: 720px) {
+      .edition-grid { grid-template-columns: minmax(0, 1fr); grid-template-areas: "news" "clients" "more" "briefs"; }
+      .client-grid, .more-news-grid { grid-template-columns: minmax(0, 1fr); }
+      .picker { width: 100%; }
+      select { flex: 1 1 auto; }
+      main { padding-top: 24px; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#content">Skip to digest</a>
+  <header class="top"><div class="top-in">
+    <div class="brand"><h1>Capgemini news digest - 2026-10-11</h1><div class="sub">Public-source intelligence for the Snowflake partner team</div></div>
+    
+    <div class="picker">
+      <button id="prev" aria-label="Previous (older) week" title="Older week">&#8249;</button>
+      <label class="sr-only" for="week">Week</label>
+      <select id="week">
+<option value="w2026-10-11" selected>W/e 11 Oct 2026</option>
+      </select>
+      <button id="next" aria-label="Next (newer) week" title="Newer week">&#8250;</button>
+    </div>
+  </div></header>
+  <main id="content" tabindex="-1">
+<section class="digest" id="w2026-10-11">
+<header class="week"><div class="eyebrow">Weekly briefing</div><h2>Week of 5-11 October 2026</h2><nav class="jump" aria-label="Sections in this week"><a href="#w2026-10-11-news">News</a><a href="#w2026-10-11-more">More news</a><a href="#w2026-10-11-briefs">In brief</a></nav><p class="edition-note">Corrected Monday-Sunday coverage for Monday 12 October; reconstructed on 16 October 2026.</p><p class="coverage"><strong>No updates found:</strong> Subsidiaries.</p></header>
+<div class="edition-grid"><section class="news" id="w2026-10-11-news" aria-labelledby="w2026-10-11-news-title"><h3 id="w2026-10-11-news-title">The news</h3><article class="story"><h4>US suspends Capgemini from the PERM green-card program</h4><p class="meta">2026-10-08 | CNBC</p>
+<p>The US Department of Labor announced on October 8 that it would suspend Capgemini, Cognizant, Infosys, Tata, Wipro and HCL from its Permanent Labor Certification program. CNBC reports that the department would stop accepting or processing new applications. Microsoft and Adobe were also suspended, with the Labor Secretary citing active federal investigations for those two companies.</p>
+<p>The announcement came during a broader administration crackdown on foreign-worker hiring. Microsoft disputed claims that it was replacing American employees, saying 80% of its roughly 6,000 H-1B applications in the previous fiscal year concerned existing staff. Those figures describe Microsoft, not Capgemini; the cited report does not quantify Capgemini&#x27;s affected employees or confirm disruption to its client delivery.</p>
+<p class="sources"><span>Source: </span><a href="https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html" target="_blank" rel="noopener noreferrer">CNBC</a></p><details class="angle"><summary>Team take <span>Suggested</span></summary><div class="angle-body"><p class="annotation">Interpretation and possible follow-up, not reported facts.</p><p><strong>Why it matters:</strong> Pressure on Capgemini&#x27;s US staffing and onshore delivery warrants checking specific engagements rather than assuming disruption.</p><p><strong>Follow-up:</strong> Ask Capgemini US alliance contacts whether joint delivery teams are affected.</p></div></details></article>
+<article class="story"><h4>Gartner names Capgemini &quot;Company to Beat&quot; for Sovereign AI Services</h4><p class="meta">2026-10-10 | Capgemini announcement; underlying Gartner report dated September 9</p>
+<p>Capgemini&#x27;s October 10 announcement highlights Gartner&#x27;s September 9 report naming it &quot;Company to Beat&quot; for Sovereign AI Services. Capgemini attributes the recognition to its consulting, coordination of sovereign technology partners, large-scale delivery and work in regulated environments. Its stated scope spans sovereign cloud and AI infrastructure through broader transformation while maintaining control, resilience and compliance.</p>
+<p>The accompanying Gartner methodology considers technical capabilities, customer implementations, potential customer base, business model, partnerships and the surrounding ecosystem. Gartner describes the designation as analyst opinion that can change as the market evolves, not an endorsement. The announcement provides no named client results or quantified delivery outcomes, and the underlying assessment predates this week&#x27;s coverage.</p>
+<p class="sources"><span>Source: </span><a href="https://www.capgemini.com/be-en/news/analyst-recognition/capgemini-recognized-by-gartner-as-the-company-to-beat-for-sovereign-ai-services-in-the-september-9-2026-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></p><details class="angle"><summary>Team take <span>Suggested</span></summary><div class="angle-body"><p class="annotation">Interpretation and possible follow-up, not reported facts.</p><p><strong>Why it matters:</strong> A useful signal of Capgemini&#x27;s sovereign-AI positioning, not evidence of a new customer win.</p><p><strong>Follow-up:</strong> Bring Snowflake&#x27;s sovereignty and regional deployment story into joint EMEA pitches.</p></div></details></article>
+<article class="story"><h4>HFS names Capgemini a Horizon 3 GCC Orchestrator</h4><p class="meta">2026-10-08 | Capgemini</p>
+<p>HFS Research placed Capgemini in Horizon 3, its GCC Orchestrator or Market Leader category, in its inaugural Global Capability Centers services report. The study assessed 24 providers on helping enterprises turn delivery centres into AI-enabled, outcome-driven operations. Capgemini&#x27;s announcement highlights support across setup, transformation and ongoing operations, alongside flexible engagement models and multi-industry delivery experience.</p>
+<p>An HFS analyst quoted in the announcement cites more than 200 GCC engagements and capabilities spanning operating-model design, data modernization, process redesign and industrializing generative AI. The announcement also describes agentic AI, digital twins and MLOps as transformation capabilities. It names cost and deployment benefits but supplies no numerical results for individual customers; this is analyst recognition, not a new client contract.</p>
+<p class="sources"><span>Source: </span><a href="https://www.capgemini.com/us-en/news/analyst-recognition/capgemini-has-been-positioned-by-hfs-research-as-a-horizon-3-gcc-orchestrator-market-leader-in-the-2026-hfs-horizons-global-capability-centers-gcc-services-report/" target="_blank" rel="noopener noreferrer">Capgemini</a></p><details class="angle"><summary>Team take <span>Suggested</span></summary><div class="angle-body"><p class="annotation">Interpretation and possible follow-up, not reported facts.</p><p><strong>Why it matters:</strong> GCC delivery can provide a route into enterprise data and AI programs.</p></div></details></article></section>
+<section class="more-news" id="w2026-10-11-more" aria-labelledby="w2026-10-11-more-title"><h3 id="w2026-10-11-more-title">More news</h3><div class="more-news-grid"><div class="news-topic"><h4>AI, data &amp; technology</h4><ul><li>2026-10-06 | Capgemini&#x27;s &quot;Scale AI with trusted data&quot; perspective argues that fragmented, outdated data rather than models blocks enterprise AI. <a href="https://www.capgemini.com/insights/expert-perspectives/scale-ai-with-trusted-data/" target="_blank" rel="noopener noreferrer">Capgemini</a></li></ul></div><div class="news-topic"><h4>Business &amp; partnerships</h4><ul><li>2026-10-07 | India Today reported that NIET and Capgemini opened the CodeXperience Center in Greater Noida for practical technology learning, mentoring and industry collaboration. <a href="https://bestcolleges.indiatoday.in/latest-news/niet-capgemini-launch-codexperience-center-at-greater-noida-campus-11916" target="_blank" rel="noopener noreferrer">India Today</a></li></ul></div><div class="news-topic"><h4>People &amp; organisation</h4><ul><li>2026-10-09 | Veloxx Media reported Pratibha Sharma&#x27;s promotion to Vice President at Capgemini. <a href="https://veloxxmedia.com/pratibha-sharma-has-been-elevated-to-vice-president-at-capgemini/" target="_blank" rel="noopener noreferrer">Veloxx Media</a></li></ul></div><div class="news-topic"><h4>Research &amp; reports</h4><ul><li>2026-10-07 | Environment Analyst published UK-focused coverage of Capgemini research, reporting that 84% of UK organisations had felt climate-related impacts on revenue; this is coverage of earlier research, not a new report launch. <a href="https://environment-analyst.com/global/111727/capgemini-report-84-of-uk-organisations-have-felt-climates-impact-on-revenues" target="_blank" rel="noopener noreferrer">Environment Analyst</a></li><li>2026-10-06 | Capgemini published a perspective on public-sector AI adoption in the Middle East and Singapore. <a href="https://www.capgemini.com/ae-en/insights/expert-perspectives/a-growing-share-of-middle-eastern-public-sector-organizations-are-scaling-ai-with-success/" target="_blank" rel="noopener noreferrer">Capgemini</a></li></ul></div></div></section>
+<aside class="briefs" id="w2026-10-11-briefs" aria-labelledby="w2026-10-11-briefs-title"><h3 id="w2026-10-11-briefs-title">In brief</h3><section class="brief" id="w2026-10-11-brief-0"><h4>Snowflake mentions</h4><ul><li>2026-10-05 | Passing mention: TechCrunch reports that HackerRank&#x27;s AI interviewer Chakra lists Snowflake and Capgemini among beta-testing companies, not as joint partners. <a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/" target="_blank" rel="noopener noreferrer">TechCrunch</a></li></ul></section></aside></div>
+<details class="about"><summary>About this digest &amp; source coverage</summary><div class="about-body"><p>Compiled from public sources. Team takes are editorial suggestions, not reported facts. Check the linked articles before acting.</p><p>Edition note: Corrected Monday-Sunday coverage for Monday 12 October; reconstructed on 16 October 2026.<br>Sources: Rechecked against <code>raw/capgemini/2026-10-11.json</code> (459 feed entries, 104 candidates) and the earlier October 9/16 editorial reviews. Selected: 8 stories plus one passing Snowflake mention.</p><h4>Coverage notes</h4><p><strong>Subsidiaries (WNS, Kipi.ai):</strong> None newly verified for this window. Kipi&#x27;s June award was excluded as recirculation.</p><h4>Manual checks</h4><ul><li>Publication dates were checked against publisher bodies or structured metadata; feed dates alone were not accepted as new-event dates.</li><li>Henkel and Iberdrola belong to September 21-27; Beobank and MOD ADAPT predate this series.</li><li>Sustainability in Action originally predates this window; its October page modifications were not a new launch.</li><li>ServiceNow/Agent 365 and BMW videos were held out pending verification; the former has conflicting collected and displayed dates.</li><li>The October 12 update timestamp on the Le Figaro PERM article does not establish a new event; no later facts were backdated into this edition.</li><li>LinkedIn was not checked; historical RSS/search coverage is not exhaustive.</li></ul></div></details>
+</section>
+<details class="about source-directory" id="monitored-sources"><summary>Sources we search <span>(29 RSS feeds, 21 news searches)</span></summary><div class="about-body"><p>Current monitoring configuration. This is not a record of successful checks for each archived week. Google News searches across publishers; the articles cited above are the sources used in that edition.</p><h3>Automated RSS feeds</h3><ul><li><a href="https://www.capgemini.com/feed/" target="_blank" rel="noopener noreferrer">capgemini-com</a><br><span>https://www.capgemini.com/feed/</span></li><li><a href="https://www.capgemini.com/de-de/feed/" target="_blank" rel="noopener noreferrer">capgemini-de</a><br><span>https://www.capgemini.com/de-de/feed/</span></li><li><a href="https://www.capgemini.com/ae-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-ae</a><br><span>https://www.capgemini.com/ae-en/feed/</span></li><li><a href="https://www.capgemini.com/au-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-au</a><br><span>https://www.capgemini.com/au-en/feed/</span></li><li><a href="https://www.capgemini.com/be-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-be</a><br><span>https://www.capgemini.com/be-en/feed/</span></li><li><a href="https://www.capgemini.com/br-pt/feed/" target="_blank" rel="noopener noreferrer">capgemini-br</a><br><span>https://www.capgemini.com/br-pt/feed/</span></li><li><a href="https://www.capgemini.com/ca-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-ca-en</a><br><span>https://www.capgemini.com/ca-en/feed/</span></li><li><a href="https://www.capgemini.com/ca-fr/feed/" target="_blank" rel="noopener noreferrer">capgemini-ca-fr</a><br><span>https://www.capgemini.com/ca-fr/feed/</span></li><li><a href="https://www.capgemini.com/ch-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-ch</a><br><span>https://www.capgemini.com/ch-en/feed/</span></li><li><a href="https://www.capgemini.com/cn-zh/feed/" target="_blank" rel="noopener noreferrer">capgemini-cn</a><br><span>https://www.capgemini.com/cn-zh/feed/</span></li><li><a href="https://www.capgemini.com/co-es/feed/" target="_blank" rel="noopener noreferrer">capgemini-co</a><br><span>https://www.capgemini.com/co-es/feed/</span></li><li><a href="https://www.capgemini.com/dk-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-dk</a><br><span>https://www.capgemini.com/dk-en/feed/</span></li><li><a href="https://www.capgemini.com/eg-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-eg</a><br><span>https://www.capgemini.com/eg-en/feed/</span></li><li><a href="https://www.capgemini.com/es-es/feed/" target="_blank" rel="noopener noreferrer">capgemini-es</a><br><span>https://www.capgemini.com/es-es/feed/</span></li><li><a href="https://www.capgemini.com/fi-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-fi</a><br><span>https://www.capgemini.com/fi-en/feed/</span></li><li><a href="https://www.capgemini.com/fr-fr/feed/" target="_blank" rel="noopener noreferrer">capgemini-fr</a><br><span>https://www.capgemini.com/fr-fr/feed/</span></li><li><a href="https://www.capgemini.com/gb-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-gb</a><br><span>https://www.capgemini.com/gb-en/feed/</span></li><li><a href="https://www.capgemini.com/in-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-in</a><br><span>https://www.capgemini.com/in-en/feed/</span></li><li><a href="https://www.capgemini.com/it-it/feed/" target="_blank" rel="noopener noreferrer">capgemini-it</a><br><span>https://www.capgemini.com/it-it/feed/</span></li><li><a href="https://www.capgemini.com/jp-jp/feed/" target="_blank" rel="noopener noreferrer">capgemini-jp</a><br><span>https://www.capgemini.com/jp-jp/feed/</span></li><li><a href="https://www.capgemini.com/mx-es/feed/" target="_blank" rel="noopener noreferrer">capgemini-mx</a><br><span>https://www.capgemini.com/mx-es/feed/</span></li><li><a href="https://www.capgemini.com/nl-nl/feed/" target="_blank" rel="noopener noreferrer">capgemini-nl</a><br><span>https://www.capgemini.com/nl-nl/feed/</span></li><li><a href="https://www.capgemini.com/no-no/feed/" target="_blank" rel="noopener noreferrer">capgemini-no</a><br><span>https://www.capgemini.com/no-no/feed/</span></li><li><a href="https://www.capgemini.com/nz-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-nz</a><br><span>https://www.capgemini.com/nz-en/feed/</span></li><li><a href="https://www.capgemini.com/pl-pl/feed/" target="_blank" rel="noopener noreferrer">capgemini-pl</a><br><span>https://www.capgemini.com/pl-pl/feed/</span></li><li><a href="https://www.capgemini.com/pt-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-pt</a><br><span>https://www.capgemini.com/pt-en/feed/</span></li><li><a href="https://www.capgemini.com/se-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-se</a><br><span>https://www.capgemini.com/se-en/feed/</span></li><li><a href="https://www.capgemini.com/sg-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-sg</a><br><span>https://www.capgemini.com/sg-en/feed/</span></li><li><a href="https://www.capgemini.com/us-en/feed/" target="_blank" rel="noopener noreferrer">capgemini-us</a><br><span>https://www.capgemini.com/us-en/feed/</span></li></ul><h3>Google News searches</h3><p>Each query runs in every edition listed below. Links open the query in Google News; the collector adds the scan date window.</p><ul><li><strong>General</strong><br><code>Capgemini</code><br><a href="https://news.google.com/search?q=Capgemini&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=Capgemini&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=Capgemini&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Snowflake</strong><br><code>Capgemini Snowflake</code><br><a href="https://news.google.com/search?q=Capgemini+Snowflake&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=Capgemini+Snowflake&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=Capgemini+Snowflake&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Competitors</strong><br><code>Capgemini (Databricks OR &quot;Microsoft Fabric&quot; OR BigQuery OR Palantir)</code><br><a href="https://news.google.com/search?q=Capgemini+%28Databricks+OR+%22Microsoft+Fabric%22+OR+BigQuery+OR+Palantir%29&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=Capgemini+%28Databricks+OR+%22Microsoft+Fabric%22+OR+BigQuery+OR+Palantir%29&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=Capgemini+%28Databricks+OR+%22Microsoft+Fabric%22+OR+BigQuery+OR+Palantir%29&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Leadership</strong><br><code>Capgemini (appoints OR appointed OR elevated OR joins OR nomme OR ernennt)</code><br><a href="https://news.google.com/search?q=Capgemini+%28appoints+OR+appointed+OR+elevated+OR+joins+OR+nomme+OR+ernennt%29&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=Capgemini+%28appoints+OR+appointed+OR+elevated+OR+joins+OR+nomme+OR+ernennt%29&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=Capgemini+%28appoints+OR+appointed+OR+elevated+OR+joins+OR+nomme+OR+ernennt%29&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Subsidiaries</strong><br><code>&quot;Kipi.ai&quot; OR site:kipi.ai</code><br><a href="https://news.google.com/search?q=%22Kipi.ai%22+OR+site%3Akipi.ai&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=%22Kipi.ai%22+OR+site%3Akipi.ai&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=%22Kipi.ai%22+OR+site%3Akipi.ai&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Subsidiaries</strong><br><code>&quot;WNS&quot; Capgemini OR site:wns.com</code><br><a href="https://news.google.com/search?q=%22WNS%22+Capgemini+OR+site%3Awns.com&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=%22WNS%22+Capgemini+OR+site%3Awns.com&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=%22WNS%22+Capgemini+OR+site%3Awns.com&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li><li><strong>Snowflake</strong><br><code>(Kipi OR WNS) Snowflake</code><br><a href="https://news.google.com/search?q=%28Kipi+OR+WNS%29+Snowflake&amp;hl=en-GB&amp;gl=GB&amp;ceid=GB%3Aen" target="_blank" rel="noopener noreferrer">en-GB / GB</a> &middot; <a href="https://news.google.com/search?q=%28Kipi+OR+WNS%29+Snowflake&amp;hl=fr&amp;gl=FR&amp;ceid=FR%3Afr" target="_blank" rel="noopener noreferrer">fr / FR</a> &middot; <a href="https://news.google.com/search?q=%28Kipi+OR+WNS%29+Snowflake&amp;hl=de&amp;gl=DE&amp;ceid=DE%3Ade" target="_blank" rel="noopener noreferrer">de / DE</a></li></ul><h3>Manual checks, not automated</h3><p>Listed for human review; inclusion does not mean a check was completed.</p><ul><li>LinkedIn page: <a href="https://www.linkedin.com/company/capgemini/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/company/capgemini/</a> (no API access - skim manually)</li><li>Press releases: <a href="https://www.capgemini.com/news/press-releases/" target="_blank" rel="noopener noreferrer">https://www.capgemini.com/news/press-releases/</a></li><li>Investor calendar: <a href="https://investors.capgemini.com/en/" target="_blank" rel="noopener noreferrer">https://investors.capgemini.com/en/</a></li></ul></div></details>
+
+  </main>
+  <footer>Created and maintained by Bart Wrobel.<br>Built 2026-10-16 &middot; Public sources &middot; Standalone edition</footer>
+  <script>
+    const weekEl = document.getElementById('week');
+    const older = document.getElementById('prev');
+    const newer = document.getElementById('next');
+    function show() {
+      document.querySelectorAll('section.digest').forEach(function (section) {
+        section.hidden = section.id !== weekEl.value;
+      });
+      newer.disabled = weekEl.selectedIndex === 0;
+      older.disabled = weekEl.selectedIndex === weekEl.options.length - 1;
+      window.scrollTo(0, 0);
+    }
+    function step(delta) {
+      weekEl.selectedIndex = Math.max(0, Math.min(weekEl.options.length - 1, weekEl.selectedIndex + delta));
+      show();
+    }
+    // Keep section links within the document, including in the Apps Script sandbox.
+    document.addEventListener('click', function (event) {
+      const anchor = event.target.closest('.jump a, .skip, .history-link');
+      if (!anchor) return;
+      const target = document.getElementById(anchor.getAttribute('href').slice(1));
+      if (!target) return;
+      event.preventDefault();
+      target.setAttribute('tabindex', '-1');
+      target.focus({ preventScroll: true });
+      target.scrollIntoView({ behavior: 'instant', block: 'start' });
+    });
+    weekEl.addEventListener('change', show);
+    older.addEventListener('click', function () { step(1); });
+    newer.addEventListener('click', function () { step(-1); });
+    show();
+  </script>
+</body>
+</html>
