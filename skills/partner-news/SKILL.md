@@ -26,6 +26,7 @@ description: Weekly partner news digest for the internal Snowflake partner team.
    - Headline + 1-2 line summary + link only. Never paste full article text.
    - Hyphens, not em-dashes. Status line stays `DRAFT`. Never invent items.
 6. Show the draft and the dropped list (titles + reasons) to the user and STOP. Do not send or post anything without explicit approval.
+7. Only after the user approves: upload the digest to the Drive folder `drive_folder_id` from the partner config as `digest-<YYYY-MM-DD>.md` (mimeType `text/markdown`, no conversion). The Apps Script viewer (`apps-script/`) picks it up on the next page load. If a file with that name exists, ask before replacing it.
 
 ## Judging rubric
 Keep:

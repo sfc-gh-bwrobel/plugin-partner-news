@@ -73,5 +73,6 @@
     "competitors": "Databricks|Microsoft Fabric|BigQuery|Palantir|Teradata|Cloudera",
     "leadership": "appoints [A-Z]|appointed|nomme [A-Z]|nommé|elevated|promoted|ernennt|steps down|new (CEO|CTO|CFO|head)"
   },
-  "aliases_regex": "Capgemini|\\bWNS\\b|\\bKipi\\b"
+  "aliases_regex": "Capgemini|\\bWNS\\b|\\bKipi\\b",
+  "drive_folder_id": "1ePyr-PclAiCu3f94X0Utx9htXrgIpmWg"
 }
