@@ -1,6 +1,6 @@
 {
   "name": "Capgemini",
-  "noise_regex": "Aktie|Zertifikat|Bourse|hausse|baisse|share price|stock|Optionsschein|Kursziel|cours|CAC 40|DAX|dividend|Börse",
+  "noise_regex": "-Aktie|\\bAktie\\b|Zertifikat|Optionsschein|Kursziel|vorbörslich|nachbörslich|\\bstock\\b|share price|CAC 40 Index",
   "feeds": [
     {
       "id": "capgemini-com",

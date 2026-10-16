@@ -8,13 +8,43 @@ description: Weekly partner news digest for the internal Snowflake partner team.
 ## Steps
 1. Pick the partner config in `partners/` (default `capgemini.json`).
 2. Run `python3 collect.py partners/<partner>.json --days 7` from the plugin root.
-   Output: `raw/<partner>/<YYYY-MM-DD>.json` with `items[]` (section, title, date, publisher, link), `stats`, `manual_checks`.
-3. Read the raw file and write `digests/<partner>/digest-<YYYY-MM-DD>.md` using the template below.
-   - Merge items that cover the same story (different titles, same event).
-   - Resolve Google News redirect links to the publisher URL for every item you keep (web search the title).
+   Output: `raw/<partner>/<YYYY-MM-DD>.json` with `items[]` (id, section, title, date, publisher, link, evidence), `stats`, `manual_checks`.
+   If today's file exists it is reused (no rescan). Use `--refresh` only when the user asks.
+3. **Judge** (decision 0007). Read every raw item and write `raw/<partner>/<YYYY-MM-DD>.judged.json`:
+   ```json
+   {"judged_by": "cortex-code/<model>", "items": [
+     {"id": 12, "keep": true, "cluster": "auto-agentic-report", "section": "top", "score": 3,
+      "reason": "Capgemini Research Institute report, wide pickup"}]}
+   ```
+   - One entry per raw id, kept or dropped, each with a short reason.
+   - `cluster`: same slug for items about the same story. Keep the most authoritative source as the cluster lead (partner site > tier-1 press > rest).
+   - `section`: snowflake | subsidiaries | top | people | competitors | coming_up | also_noted.
+   - `score` 1-3 (3 = act on / tell the team).
+   - If the judged file already exists, reuse it - do not judge again unless asked.
+4. Resolve the link of every kept cluster lead that is still a `news.google.com` redirect (`collect.decode_google_news`, or web search the title). Store resolved links back into the judged file.
+5. Write `digests/<partner>/digest-<YYYY-MM-DD>.md` from kept clusters only, using the template.
    - Headline + 1-2 line summary + link only. Never paste full article text.
-   - Hyphens, not em-dashes. Status line stays `DRAFT`.
-4. Show the draft to the user and STOP. Do not send or post anything without explicit approval.
+   - Hyphens, not em-dashes. Status line stays `DRAFT`. Never invent items.
+6. Show the draft and the dropped list (titles + reasons) to the user and STOP. Do not send or post anything without explicit approval.
+
+## Judging rubric
+Keep:
+- Partnerships and integrations, especially with Snowflake, Databricks, hyperscalers, SAP, ServiceNow.
+- Client wins, large deals, public-sector contracts.
+- Acquisitions, divestments, funding.
+- Leadership and organisation changes at the partner (not ex-employees elsewhere).
+- Analyst recognition (Gartner, Forrester, IDC, HFS, Everest).
+- Partner research reports with wide pickup (keep one cluster lead).
+- Earnings and guidance (headline numbers only), security incidents, regulatory issues hitting the partner.
+
+Drop:
+- Share-price moves, analyst price targets, buyback and own-share filings, trading products.
+- Listicles, generic PR without substance, recycled or regurgitated news.
+- Articles where the partner is only one name in a long list.
+- Career profiles, job ads, event sponsorship fluff, unrelated topics.
+- Same-story duplicates beyond the cluster lead.
+
+Be strict: a weekly digest with 4-8 kept clusters is normal; zero in a section is fine.
 
 ## Template
 ```
@@ -51,6 +81,7 @@ Status: DRAFT | Sources: <n> raw, <n> kept
 ```
 
 ## Notes
+- Raw `section` is a hint from the collector; the judged `section` wins.
 - `snowflake` section is content-based: an item lands there if one article paragraph mentions both the partner and "Snowflake" (capgemini.com feeds carry full text; Google News hits from the Snowflake query are decoded and fetched). `evidence` holds that paragraph - quote it as the reason. Rate the mention: core (partnership/joint deal) vs passing (listed among others).
 - Other sections are assigned from the title: `snowflake` > `competitors` > `leadership` > `general`. Targeted sections require the partner name in the title.
 - Add a partner by copying `partners/capgemini.json` and editing name, feeds, queries.

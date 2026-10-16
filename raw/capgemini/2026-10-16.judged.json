@@ -1,0 +1,601 @@
+{
+ "judged_by": "cortex-code/claude-opus-5-5",
+ "judged_at": "2026-10-16",
+ "items": [
+  {
+   "id": 1,
+   "keep": false,
+   "reason": "WNS marketing page"
+  },
+  {
+   "id": 2,
+   "keep": false,
+   "reason": "WNS event page"
+  },
+  {
+   "id": 3,
+   "keep": false,
+   "reason": "WNS page without title"
+  },
+  {
+   "id": 4,
+   "keep": true,
+   "cluster": "vp-pratibha-sharma",
+   "section": "people",
+   "score": 1,
+   "reason": "Promotion to VP at Capgemini",
+   "lead": true,
+   "resolved_link": "https://hrtoday.in/pratibha-sharma-elevated-to-vice-president-at-capgemini/"
+  },
+  {
+   "id": 5,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story",
+   "lead": true,
+   "resolved_link": "https://www.lesaffaires.com/bourse/microsoft-privee-de-permis-de-residence-permanente-pour-ses-salaries-par-le-gouvernement-americain/"
+  },
+  {
+   "id": 6,
+   "keep": false,
+   "reason": "Paris market wrap"
+  },
+  {
+   "id": 7,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "US suspends PERM green-card processing for Capgemini and others; lead: Le Figaro"
+  },
+  {
+   "id": 8,
+   "keep": true,
+   "cluster": "sustainability-report-2026",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "FR version",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/fr-fr/perspectives/publications/sustainability-in-action-2026/"
+  },
+  {
+   "id": 9,
+   "keep": false,
+   "reason": "stock tips"
+  },
+  {
+   "id": 10,
+   "keep": true,
+   "cluster": "gartner-sovereign-ai",
+   "section": "top",
+   "score": 3,
+   "reason": "Analyst recognition: Gartner Company to Beat, Sovereign AI Services",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/be-en/news/analyst-recognition/capgemini-recognized-by-gartner-as-the-company-to-beat-for-sovereign-ai-services-in-the-september-9-2026-report/"
+  },
+  {
+   "id": 11,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 12,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 13,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story, margin impact"
+  },
+  {
+   "id": 14,
+   "keep": false,
+   "reason": "share plan buyback"
+  },
+  {
+   "id": 15,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 16,
+   "keep": false,
+   "reason": "study not clearly Capgemini; generic sector piece"
+  },
+  {
+   "id": 17,
+   "keep": true,
+   "cluster": "henkel-sustainability",
+   "section": "also_noted",
+   "score": 2,
+   "reason": "Client case: Henkel Consumer Brands",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/nz-en/news/client-stories/henkel-consumer-brands-accelerates-sustainability-progress-by-adapting-proven-solution/"
+  },
+  {
+   "id": 18,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 19,
+   "keep": false,
+   "reason": "stock chart"
+  },
+  {
+   "id": 20,
+   "keep": false,
+   "reason": "career profile"
+  },
+  {
+   "id": 21,
+   "keep": false,
+   "reason": "stock comparison"
+  },
+  {
+   "id": 22,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 23,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 24,
+   "keep": false,
+   "reason": "market commentary"
+  },
+  {
+   "id": 25,
+   "keep": false,
+   "reason": "unrelated"
+  },
+  {
+   "id": 26,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story, Kotak view"
+  },
+  {
+   "id": 27,
+   "keep": false,
+   "reason": "other company results"
+  },
+  {
+   "id": 28,
+   "keep": false,
+   "reason": "unrelated (rugby rankings)"
+  },
+  {
+   "id": 29,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 30,
+   "keep": false,
+   "reason": "event page"
+  },
+  {
+   "id": 31,
+   "keep": false,
+   "reason": "employer branding"
+  },
+  {
+   "id": 32,
+   "keep": false,
+   "reason": "partner marketing"
+  },
+  {
+   "id": 33,
+   "keep": false,
+   "reason": "marketing"
+  },
+  {
+   "id": 34,
+   "keep": true,
+   "cluster": "holiday-shopping-ai",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/insights/expert-perspectives/how-ai-is-reshaping-holiday-shopping-in-2026/"
+  },
+  {
+   "id": 35,
+   "keep": true,
+   "cluster": "holiday-shopping-ai",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same, MarketScreener"
+  },
+  {
+   "id": 36,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 37,
+   "keep": false,
+   "reason": "stock analysis"
+  },
+  {
+   "id": 38,
+   "keep": false,
+   "reason": "unrelated event"
+  },
+  {
+   "id": 39,
+   "keep": false,
+   "reason": "job ad"
+  },
+  {
+   "id": 40,
+   "keep": true,
+   "cluster": "iberdrola-servicenow",
+   "section": "top",
+   "score": 2,
+   "reason": "Client case with ServiceNow (partner ecosystem)",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/iberdrola-drives-its-ppm-transformation-for-digital-organizations-with-support-from-capgemini-and-servicenow/"
+  },
+  {
+   "id": 41,
+   "keep": true,
+   "cluster": "uk-mod-adapt",
+   "section": "top",
+   "score": 2,
+   "reason": "Public-sector client case: UK MOD procurement tool",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/pl-pl/aktualnosci/historie-naszych-klientow/ministry-of-defence-scales-accelerated-define-and-procure-tool-to-modernize-and-standardize-procurement-workflows/"
+  },
+  {
+   "id": 42,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 43,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 44,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "companion article",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/insights/research-library/ai-in-product-development/"
+  },
+  {
+   "id": 45,
+   "keep": true,
+   "cluster": "holiday-shopping-ai",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Retail research, seasonal"
+  },
+  {
+   "id": 46,
+   "keep": false,
+   "reason": "general AI/workforce piece, Capgemini role unclear"
+  },
+  {
+   "id": 47,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 48,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Capgemini Research Institute report, wide pickup; lead: capgemini.com"
+  },
+  {
+   "id": 49,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "FR version"
+  },
+  {
+   "id": 50,
+   "keep": false,
+   "reason": "stale: Q1 revenue from April"
+  },
+  {
+   "id": 51,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "FR companion article"
+  },
+  {
+   "id": 52,
+   "keep": false,
+   "reason": "other company"
+  },
+  {
+   "id": 53,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 54,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 55,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 56,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 57,
+   "keep": true,
+   "cluster": "sustainability-report-2026",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Annual sustainability research report"
+  },
+  {
+   "id": 58,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 59,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 60,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 61,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 62,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 63,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 64,
+   "keep": false,
+   "reason": "own-share filing"
+  },
+  {
+   "id": 65,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 66,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "pickup"
+  },
+  {
+   "id": 67,
+   "keep": true,
+   "cluster": "insurance-protection-report",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Capgemini insurance research, trade pickup",
+   "lead": true,
+   "resolved_link": "https://ceo.com.pl/en/capgemini-life-insurance-report-2027-consumers-purchase-barriers-41217/"
+  },
+  {
+   "id": 68,
+   "keep": false,
+   "reason": "own-share filing"
+  },
+  {
+   "id": 69,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 70,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 71,
+   "keep": false,
+   "reason": "stock analysis"
+  },
+  {
+   "id": 72,
+   "keep": true,
+   "cluster": "insurance-protection-report",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "same report"
+  },
+  {
+   "id": 73,
+   "keep": false,
+   "reason": "unrelated"
+  },
+  {
+   "id": 74,
+   "keep": false,
+   "reason": "stock listicle"
+  },
+  {
+   "id": 75,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 76,
+   "keep": false,
+   "reason": "earnings transcript of unrelated ticker listing"
+  },
+  {
+   "id": 77,
+   "keep": true,
+   "cluster": "us-perm-freeze",
+   "section": "top",
+   "score": 3,
+   "reason": "same story"
+  },
+  {
+   "id": 78,
+   "keep": false,
+   "reason": "analyst ratings roundup"
+  },
+  {
+   "id": 79,
+   "keep": false,
+   "reason": "stock roundup"
+  },
+  {
+   "id": 80,
+   "keep": false,
+   "reason": "analyst ratings"
+  },
+  {
+   "id": 81,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 82,
+   "keep": false,
+   "reason": "trading products"
+  },
+  {
+   "id": 83,
+   "keep": false,
+   "reason": "price target"
+  },
+  {
+   "id": 84,
+   "keep": false,
+   "reason": "analyst rating"
+  },
+  {
+   "id": 85,
+   "keep": false,
+   "reason": "analyst rating"
+  },
+  {
+   "id": 86,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 87,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 88,
+   "keep": false,
+   "reason": "other company appointment"
+  },
+  {
+   "id": 89,
+   "keep": true,
+   "cluster": "airf-knowledge-partner",
+   "section": "also_noted",
+   "score": 1,
+   "reason": "Knowledge Partner, MIT SMR ME AI Research Forum",
+   "lead": true,
+   "resolved_link": "https://www.capgemini.com/ae-en/event/from-ai-mandate-to-momentum-capgemini-joins-airf-2026-as-knowledge-partner/"
+  },
+  {
+   "id": 90,
+   "keep": false,
+   "reason": "recycled payments report from September"
+  },
+  {
+   "id": 91,
+   "keep": false,
+   "reason": "university workshop"
+  },
+  {
+   "id": 92,
+   "keep": false,
+   "reason": "thought leadership, low signal"
+  },
+  {
+   "id": 93,
+   "keep": false,
+   "reason": "other company"
+  },
+  {
+   "id": 94,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 95,
+   "keep": false,
+   "reason": "share price move"
+  },
+  {
+   "id": 96,
+   "keep": false,
+   "reason": "share price move"
+  }
+ ]
+}

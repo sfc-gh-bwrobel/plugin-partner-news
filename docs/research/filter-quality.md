@@ -16,3 +16,8 @@ sources: []
 - Duplicates by story: automotive agentic-AI report x7, green-card freeze x6.
 
 Judgement by cortex-code, not human-reviewed. Re-measure after decision 0007.
+
+## After decision 0007 (same week, 2026-10-16)
+- Collector with trimmed regex: raw 191, noise 31, kept 96.
+- LLM judge: 31 kept in 11 stories, 65 dropped with reasons (`raw/capgemini/2026-10-16.judged.json`). Biggest drop groups: share price/analyst ratings (~30), low-signal thought leadership (~13), career/employer pages, unrelated.
+- Fixed false drops: "course a l'IA" article now kept (auto report cluster); Q1 revenue headline reached the judge and was dropped as stale (April).

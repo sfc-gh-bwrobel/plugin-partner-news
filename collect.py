@@ -95,7 +95,14 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("config")
     ap.add_argument("--days", type=int, default=7)
+    ap.add_argument("--refresh", action="store_true", help="re-scan even if today's raw file exists")
     args = ap.parse_args()
+
+    out_dir = Path(args.config).resolve().parent.parent / "raw" / Path(args.config).stem
+    path = out_dir / f"{datetime.now():%Y-%m-%d}.json"
+    if path.exists() and not args.refresh:
+        print(f"{path}\ncached - use --refresh to re-scan")
+        return
 
     cfg = json.loads(Path(args.config).read_text())
     noise = re.compile(cfg["noise_regex"], re.I)
@@ -167,10 +174,10 @@ def main():
                           "date": dt.isoformat() if dt else it["date"]}
 
     out = sorted(items.values(), key=lambda i: (SECTION_PRIORITY.index(i["section"]), i["date"]), reverse=False)
-    out_dir = Path(args.config).resolve().parent.parent / "raw" / Path(args.config).stem
+    for n, it in enumerate(out, 1):
+        it["id"] = n  # stable reference for the judged file
     out_dir.mkdir(parents=True, exist_ok=True)
-    path = out_dir / f"{datetime.now():%Y-%m-%d}.json"
-    path.write_text(json.dumps({"partner": cfg["name"], "stats": stats,
+    path.write_text(json.dumps({"partner": cfg["name"], "days": args.days, "stats": stats,
                                 "manual_checks": cfg.get("manual_checks", []),
                                 "items": out}, ensure_ascii=False, indent=1))
 
