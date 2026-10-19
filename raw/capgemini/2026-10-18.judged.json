@@ -1,0 +1,493 @@
+{
+ "judged_by": "cortex-code/claude-opus-5-5",
+ "items": [
+  {
+   "id": 1,
+   "keep": true,
+   "cluster": "dataiq-world-congress",
+   "section": "coming_up",
+   "score": 2,
+   "reason": "WNS event page: DataIQ World Congress, London, Nov 3, with Capgemini Data & AI SVPs moderating; event listing, not a news development",
+   "link": "https://www.wns.com/about-us/events/event-detail/263/dataiq-world-congress-2026"
+  },
+  {
+   "id": 2,
+   "keep": false,
+   "reason": "WNS page without title"
+  },
+  {
+   "id": 3,
+   "keep": false,
+   "reason": "Pratibha Sharma promotion covered in Oct 5-11 edition; later pickup"
+  },
+  {
+   "id": 4,
+   "keep": false,
+   "reason": "Other company news"
+  },
+  {
+   "id": 5,
+   "keep": false,
+   "reason": "Unrelated (rugby rankings)"
+  },
+  {
+   "id": 6,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 7,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 8,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 9,
+   "keep": true,
+   "cluster": "holiday-shopping-ai",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Capgemini perspective dated Oct 12 by Mark Ruston; 65%/8% figures are third-party research it cites",
+   "topic": "Research & reports"
+  },
+  {
+   "id": 10,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 11,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 12,
+   "keep": false,
+   "reason": "Unrelated Moroccan software testing event"
+  },
+  {
+   "id": 13,
+   "keep": false,
+   "reason": "Iberdrola client story belongs to Sept 21-27; regional repost"
+  },
+  {
+   "id": 14,
+   "keep": false,
+   "reason": "MOD ADAPT first published Aug 19; regional repost"
+  },
+  {
+   "id": 15,
+   "keep": false,
+   "reason": "Publisher body shows Oct 6 publication, outside window"
+  },
+  {
+   "id": 16,
+   "keep": false,
+   "reason": "US PERM/H-1B story covered in Oct 5-11 edition; later commentary adds no new Capgemini development"
+  },
+  {
+   "id": 17,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 18,
+   "keep": true,
+   "cluster": "holiday-shopping-ai",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Same article via Google News; not lead"
+  },
+  {
+   "id": 19,
+   "keep": false,
+   "reason": "General AI/workforce piece; Capgemini role unclear"
+  },
+  {
+   "id": 20,
+   "keep": false,
+   "reason": "Own-share or buyback filing"
+  },
+  {
+   "id": 21,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 22,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Lead: Capgemini press release dated Oct 12 (Rewiring automotive product development); figures checked against body",
+   "link": "https://www.capgemini.com/news/press-releases/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance-2/"
+  },
+  {
+   "id": 23,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 24,
+   "keep": false,
+   "reason": "Stale: Q1 revenue from April"
+  },
+  {
+   "id": 25,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 26,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 27,
+   "keep": false,
+   "reason": "Other company news"
+  },
+  {
+   "id": 28,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 29,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 30,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 31,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 32,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 33,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 34,
+   "keep": false,
+   "reason": "Henkel client story belongs to Sept 21-27; regional repost"
+  },
+  {
+   "id": 35,
+   "keep": true,
+   "cluster": "opendesk-open-productivity",
+   "section": "more_news",
+   "score": 2,
+   "reason": "Publisher body dated Oct 13 confirms partnership with Open Productivity Software GmbH",
+   "topic": "Business & partnerships"
+  },
+  {
+   "id": 36,
+   "keep": false,
+   "reason": "Sustainability in Action predates window; page modification only"
+  },
+  {
+   "id": 37,
+   "keep": true,
+   "cluster": "oracle-finance-operations-hub",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Publisher body dated Oct 13; describes Oracle-based finance architecture",
+   "topic": "AI, data & technology"
+  },
+  {
+   "id": 38,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 39,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 40,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 41,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 42,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 43,
+   "keep": false,
+   "reason": "Own-share or buyback filing"
+  },
+  {
+   "id": 44,
+   "keep": true,
+   "cluster": "auto-agentic-ai-report",
+   "section": "top",
+   "score": 3,
+   "reason": "Same report: companion article or press pickup; not cluster lead"
+  },
+  {
+   "id": 45,
+   "keep": false,
+   "reason": "CEO Magazyn recap of the World Life Insurance Report 2027 released in September (per Health & Protection); recirculation, H&P interview kept instead"
+  },
+  {
+   "id": 46,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 47,
+   "keep": false,
+   "reason": "Mondial de l'Auto conference page; Capgemini role not established"
+  },
+  {
+   "id": 48,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 49,
+   "keep": true,
+   "cluster": "human-oversight-approval-fatigue",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Perspective, publisher body dated Oct 14, named author",
+   "topic": "AI, data & technology"
+  },
+  {
+   "id": 50,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 51,
+   "keep": true,
+   "cluster": "life-insurance-perspective",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Health & Protection interview dated Oct 14 with Samantha Chow; new perspective on the September World Life Insurance Report 2027",
+   "topic": "Research & reports",
+   "link": "https://healthcareandprotection.com/closing-protection-gap-requires-products-tailored-to-young-people-capgemini/"
+  },
+  {
+   "id": 52,
+   "keep": false,
+   "reason": "Other company news"
+  },
+  {
+   "id": 53,
+   "keep": false,
+   "reason": "Stock listicle or roundup"
+  },
+  {
+   "id": 54,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 55,
+   "keep": false,
+   "reason": "Earnings transcript for an unrelated ticker listing"
+  },
+  {
+   "id": 56,
+   "keep": false,
+   "reason": "US PERM/H-1B story covered in Oct 5-11 edition; later commentary adds no new Capgemini development"
+  },
+  {
+   "id": 57,
+   "keep": false,
+   "reason": "Stock listicle or roundup"
+  },
+  {
+   "id": 58,
+   "keep": false,
+   "reason": "Aerocontact repost of older marketing, career or results content"
+  },
+  {
+   "id": 59,
+   "keep": false,
+   "reason": "Analyst rating or ranking"
+  },
+  {
+   "id": 60,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 61,
+   "keep": false,
+   "reason": "Trading products"
+  },
+  {
+   "id": 62,
+   "keep": false,
+   "reason": "Analyst rating or ranking"
+  },
+  {
+   "id": 63,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 64,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 65,
+   "keep": true,
+   "cluster": "airf-knowledge-partner",
+   "section": "coming_up",
+   "score": 2,
+   "reason": "Capgemini page: Knowledge Partner at AIRF 2026, Dubai, Oct 22",
+   "link": "https://www.capgemini.com/ae-en/event/from-ai-mandate-to-momentum-capgemini-joins-airf-2026-as-knowledge-partner/"
+  },
+  {
+   "id": 66,
+   "keep": false,
+   "reason": "University chair workshop/hackathon, low signal"
+  },
+  {
+   "id": 67,
+   "keep": false,
+   "reason": "Thought leadership, low signal"
+  },
+  {
+   "id": 68,
+   "keep": false,
+   "reason": "Stock quote, chart or financial data page"
+  },
+  {
+   "id": 69,
+   "keep": false,
+   "reason": "Stock quote, chart or financial data page"
+  },
+  {
+   "id": 70,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 71,
+   "keep": false,
+   "reason": "YouTube mentoring-programme video, employer branding"
+  },
+  {
+   "id": 72,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 73,
+   "keep": false,
+   "reason": "World Payments Report 2027 published Sept 24 and covered in Sept 21-27 edition"
+  },
+  {
+   "id": 74,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 75,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 76,
+   "keep": false,
+   "reason": "Stock quote, chart or financial data page"
+  },
+  {
+   "id": 77,
+   "keep": false,
+   "reason": "Share-price move or stock commentary"
+  },
+  {
+   "id": 78,
+   "keep": false,
+   "reason": "Stock quote, chart or financial data page"
+  },
+  {
+   "id": 79,
+   "keep": false,
+   "reason": "Stock quote, chart or financial data page"
+  },
+  {
+   "id": 80,
+   "keep": false,
+   "reason": "Analyst rating or ranking"
+  },
+  {
+   "id": 81,
+   "keep": false,
+   "reason": "University chair workshop/hackathon, low signal"
+  },
+  {
+   "id": 82,
+   "keep": false,
+   "reason": "Orange video of Paul Hermelin interview; content and original date not verifiable from listing"
+  },
+  {
+   "id": 83,
+   "keep": false,
+   "reason": "ServiceNow/Agent 365 video: collected and displayed dates conflict again (Oct 7, Oct 15, Oct 18); unverified video listing"
+  },
+  {
+   "id": 84,
+   "keep": true,
+   "cluster": "india-data-ownership-interview",
+   "section": "more_news",
+   "score": 1,
+   "reason": "Deccan Herald interview published Oct 18 with Padmashree Shagrithaya (EVP, Insights & Data India); body paywalled, standfirst only used",
+   "topic": "AI, data & technology",
+   "link": "https://www.deccanherald.com/business/dh-interview-enterprises-should-own-their-data-avoid-solutions-dependent-on-one-model-4187549"
+  }
+ ]
+}

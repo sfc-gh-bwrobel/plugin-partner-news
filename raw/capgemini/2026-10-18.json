@@ -1,0 +1,864 @@
+{
+ "partner": "Capgemini",
+ "days": 7,
+ "end": "2026-10-18",
+ "stats": {
+  "raw": 439,
+  "noise": 37,
+  "old": 272,
+  "off_topic": 39,
+  "body_checked": 3,
+  "errors": [
+   "body Action Capgemini SE | Cours CAP Bourse Euronext Pa: HTTP Error 403: Forbidden",
+   "body Capgemini SE: Objectif de Cours et Consensus des A: HTTP Error 403: Forbidden",
+   "body AZ4C.AI Brings AI Agents, Data and Governance Toge: HTTP Error 402: Payment Required"
+  ]
+ },
+ "manual_checks": [
+  "LinkedIn page: https://www.linkedin.com/company/capgemini/ (no API access - skim manually)",
+  "Press releases: https://www.capgemini.com/news/press-releases/",
+  "Investor calendar: https://investors.capgemini.com/en/"
+ ],
+ "items": [
+  {
+   "title": "Event : DataIQ World Congress 2026 - WNS",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUTRBNnZ6bTU4eGhnbXFCeUJwRWZLN3QxZExvM19rbEYyUVJGRWRVVjAyVjc2OE11NFk2SkdWYkhEdmY3blpBRUZOMnV1LVBtRmVFQy1UZHlWeU1GSU1uRVZ5VThnUG1aem9rQzJ2dlNodC0wX1lzZklqcjZqRmxaN2k3NFpKdw?oc=5",
+   "date": "2026-10-16T15:33:43+00:00",
+   "publisher": "WNS",
+   "feed": "gnews-subsidiaries-GB",
+   "section": "subsidiaries",
+   "evidence": null,
+   "id": 1
+  },
+  {
+   "title": "- WNS",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9ZSFUwYkhoN01iSFZzZlE3amdfS1lXVWE1Sk41cS1SS3M2ck1DZHFuYUk5NVNrQks3aWZtZHY1a1k?oc=5",
+   "date": "2026-10-18T21:27:20+00:00",
+   "publisher": "WNS",
+   "feed": "gnews-subsidiaries-GB",
+   "section": "subsidiaries",
+   "evidence": null,
+   "id": 2
+  },
+  {
+   "title": "Pratibha Sharma Elevated to Vice President at Capgemini - https://hrtoday.in/",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlF5dzFzQjdzZlYtaEJCb3IwZUZoUkc5bHpzUXBlcGI3MURFcW05MVpFREtSUFl5c1F0VUpHMnQ5VHhhWExvVU9EOEhIYmlwZE5FVmN0N0FJSmxDZ2dEWThfakllTnlGMUZVSDMzVnozZ2l6SF9SM2RFOGdXM0tPMA?oc=5",
+   "date": "2026-10-18T23:00:38+00:00",
+   "publisher": "https://hrtoday.in/",
+   "feed": "gnews-general-GB",
+   "section": "leadership",
+   "evidence": null,
+   "id": 3
+  },
+  {
+   "title": "Dans un marché porteur, des résultats en amélioration chez Wallix - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPekNEVV8xdks5SnBxYm9RS3lpcldaUjNxM2h0WVJ4TWI3bWhCY05RWDVYYVcyRk10RnhTUTdFempuQy1aamt3VWI3WENLQWFhRDkwRnJrUlpKeG1RZENNMTVYUENETHdwam9vdVpCdnpvYy1CX280RGJ4azdiZVNTazB6N1lGRDRQcGlNYzl4a0NyZ0tra3dyX29rUXc3MzN1OTBUYVVjV3RtcFF4WkxpTEl1TDk3SDZsRktKWVVhV0RTVHVyRy1TTHVLNDU5UTlJZ0hJ?oc=5",
+   "date": "2026-10-12T06:00:19+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 4
+  },
+  {
+   "title": "Women's and Men's Rankings - World Rugby",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5QSU5pX1A4NjNKQnZRVGp0bjdCYVhOS2xtcnVJSjBDZFVUa2xDTzFWdWQ0QTVqbml2aklJTG1KU2RUYzZZV2Fv?oc=5",
+   "date": "2026-10-12T07:00:00+00:00",
+   "publisher": "World Rugby",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 5
+  },
+  {
+   "title": "Capgemini | Make it real. - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tckVKclJWM3lnbE1DQlltWHQ2WERtc2ZHZFBMdFpJOVVCZUxqd0E1Qk1Ob0E0ckFncE16OS01dEtjVEVFdldtb1VRZWsxQlF5aW96Xy1PQzF3dHoyZUtUR3oxNkpwR0djMlNaZUhqOElCdw?oc=5",
+   "date": "2026-10-12T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 6
+  },
+  {
+   "title": "SUPPLY CHAIN FOR LIFE SCIENCES TRANSFORMATION AS A JOURNEY - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGdoZEQ0V3pqRkhfb1JOUktfek1Td0loZjVCbmE5aVUzeUFjeUN3RnlOS2h2UEZ0STNiWFVOSTB1YVdKdnJOWlRCeU1uWVV1aS1BQ3ZQRGVzaW5hN1NzbDdMekNNdW1faGtlT2V1RkdGYXJDejAwV29nYXV0Y1FuQk4tb043eUZ1Z3VONXFrbm1VNzBpc1VzNlV1X2Jra2QxR0E?oc=5",
+   "date": "2026-10-12T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 7
+  },
+  {
+   "title": "Capgeminis Neo-Lending Hub Transform your lending processes for Retail, Corporate & SME clients. - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFZfZWhldVpYeHEwMjNGVUMwNF9IbWpuaE92bVZvRFNzbE9vTzNQRXQ1RE52RThTOWxnRk5mMnVsT2lHYjFJOWdYelI3eHdNZ0pUNVVLWXRrenpKanhsU1cxVmdYclNUMTdlVmNqcTBmcVNmS0dZLTFEaXlEeS1MNUxGYzF6OG9yUjJEQ2xaalk4bFg2WjY4eW1WT0FGVkhTZmtiVVFUZndYRnU3MHd5b2E0NmpJV3U1M2JQbHJnOGVkMnZHUGFTbVhmMlNhLVdiLUpDVw?oc=5",
+   "date": "2026-10-12T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 8
+  },
+  {
+   "title": "How AI is reshaping holiday shopping in 2026",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/how-ai-is-reshaping-holiday-shopping-in-2026/",
+   "date": "2026-10-12T07:27:17+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 9
+  },
+  {
+   "title": "How to bring greater confidence to PLM investments",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/how-to-bring-greater-confidence-to-plm-investments/",
+   "date": "2026-10-12T09:06:28+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 10
+  },
+  {
+   "title": "L'action Capgemini conservera-t-elle son biais haussier malgré des conditions de surachat ? - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2t6S3FlMGp0STFzUlZWWDFhY3RpQ2N4aDhDT3oyeFdMenpYd0t2bFBTY3FKV2tsTFZKXzlKWDBxd2Q1ZnhEQ1IwcjdzRWRjR2VnOG80ZmE4TDhzaWgySWZvbTFicVJ2WE4xSlVfNEY0RUtaYmhDYkp4eWlPeUFQYTdkRFMxd0xWQml4RC1fU2t3QUd1NmlORnRR?oc=5",
+   "date": "2026-10-12T09:16:32+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 11
+  },
+  {
+   "title": "Le CMTL organise la 10ᵉ édition de la Journée Marocaine des Tests Logiciels - LeSiteinfo.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzg3eUd3OHh1UnFhTVNpLVQ4LVNNdFpweUFOVENlcDVLUXd4bmtOMHc1aXhMSzgxMkExaGRTVG1rYXQtMTYyZzN0T2J1U3Ztb2pQd2o1YVBfVHpEV1lJRVpGSWZYMS1UU1YyUUhQYUxRTjQ4NXk2dm9CbVdTUE5HSlUtSXM3aFlZQWpKUUxqTllmcGhTa3BKZUhtMWFxX0FQckxkVTZxa0JoUU9QaUxUUDl1enN1VWxURG54NjFhUm44bXFBZ3VxYWNTVdIB0AFBVV95cUxQc0ZVcloyTVpRZVdmbkpMQ2FUUERZTkdmMllaUDVGWTgzTEUtS2ZKbWJRalVWLTMzY29HdlBWbTJzbjFrbmNnd0ZKeWFRdVRjOVhKNUo3VkxMR1VCX25malV5MUZvaWFGVFRSOHlLRFdmbUZpdDUwcThwVmhwZXAxVjFjWTBWTGZYMXBFNEFjYmk3cVBOVElCcjc2RWhZRlhYNmhSbGR4NWsxNF92UWRNMnktdWlONHVhX2E2MGxrZTZYc1FSOHBFZUNsa0FjUmVu?oc=5",
+   "date": "2026-10-12T09:54:00+00:00",
+   "publisher": "LeSiteinfo.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 12
+  },
+  {
+   "title": "Iberdrola drives its PPM transformation for Digital Organizations with support from Capgemini and ServiceNow - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN1VxOXM3OS1GLWJxR2NSc2ItaGt2amxTWEFnRy13by1OS3VKdjFKdjJ0S3RjRFdxUzd3VUtNbmtGNm9ESV8xWENNSldJVVU5TEZaUXcwM1ZfM3YxM0Jya3Q2aGFKSzdPZUx4cXRLanNha2VfT0FOcUxqY1M3WXVCR0gxOE5UMGJlczRVSlFhUmVOUWJQOFdDcmw4NGd0by1EWll5VS1lUmRhOEtTTjhZVUNKZ2x3c0JFQmxrUG1xc08tTDhTTVVJZVpBblBYbmdSR05pYk5VbWptR0lVMmlMajZpSEpJSklGNGljMDlQNF9hT3VRWjE2WXhNQ3BLdVE4TGVqejlIOTBwbjQ?oc=5",
+   "date": "2026-10-12T11:44:25+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 13
+  },
+  {
+   "title": "Ministry of Defence scales Accelerated Define and Procure Tool to modernize and standardize procurement workflows - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOGVkS0djRXU2OFpNeVpsX0lVRkRQcmxOTl9hLWtMcXBMZXJRa1I5V3RNSGxiS3pScmdnTzlITmFJaG1ucmlUaDZwdC1tekpjcGRXcFAtdDlhNjY3Nk1keC01SlNOVW8xbVdvVlB6VWhDR1dzOFJsT0k2VzZ6dk5nc2szNFMzUUdpbGlfc3dBRWdtSWlZSnpORnhlbERTcmRSdlZNT1FXS3FQU3pZdmU4TEl0R0dXd2xDVEVyRFhNTHNsUWNxY0x5dUh6ZWdETkR3aUJxOXQ2M0RJWXZ3dVdGX3Zmc25QX1pWakFSamZDUU45bF92REQxTUlfVE1rOVBHLVcwVWFtaERPTXJFUl9wMkd3?oc=5",
+   "date": "2026-10-12T11:44:25+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 14
+  },
+  {
+   "title": "Understanding the Cyber Resilience Act: From regulatory compliance to product cyber resilience",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/understanding-the-cyber-resilience-act-from-regulatory-compliance-to-product-cyber-resilience/",
+   "date": "2026-10-12T13:04:22+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 15
+  },
+  {
+   "title": "Techie barriers: America may be able to keep Indians out but it can't ensure that IT work stays in the US - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdVZESnFaei01UmloUXlGTUhRLTdjQWdHUEp1VlFLdUVsTWpKRFdjRExfaV9BR0M4VWt6NVo3Rzl1NE8wV05MLTJOVHpxLXNhekx0T3J1N3VGZWZRNklsdnlrU1ZtTTg5RDdoTnhmZENFc1lsMmQ5WDJ3enNnRzRuQmU2UUZuZ0ZMT1hzNGdXZXVDWjk0UEhpZHdLUW81eUZyMEt5bU02clpzTGFBTEQyWm1iY3dJb2otcXlXZ1BmbFc0VHN0UDREcXNad2Q4V2dTelJ2V2gyaWRvSGl1S1pZcy05UUJ2MHktY0lLZDNRRWwxQQ?oc=5",
+   "date": "2026-10-12T14:11:54+00:00",
+   "publisher": "TradingView",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 16
+  },
+  {
+   "title": "Rewiring automotive product development - How organizations can pull ahead in the AI race - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZFcyS3JaYURIaWdxSExNMXJ6V2Z5Yi1icHZQcHc1YzdOZjNzTDdDU3UyWmJjUnQxa1E1SFB4eG9QNjNhNmYybGZleS1kc19JakloNEllNlJMU3R3LVNkR3pjQWdsdENUc3lvMS1NeTNxeEItdDlLM3RpNVhGWHRWMHZGTW8?oc=5",
+   "date": "2026-10-12T14:15:39+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 17
+  },
+  {
+   "title": "How AI is reshaping holiday shopping in 2026: From discovery to delivery - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEZoQUFkcHF4YTNnYnlDWnV2Rnh5bFZmbnlqaDZUeTljNmFzS25DV2ZtVl9mYmxHb1hGcnRJdTZ2RXBacHZPZUp3Tjloc3VEa1BMclphWjEwdXVQdHJxM0R5OTQ5S1R4THlhTXpKMmdaR3hTeHJyUkNwX2pQRjQ3eXNxX0x5OWdDblJoV3FYWGItVFJxU1gzV1pWNW0tY054VWc?oc=5",
+   "date": "2026-10-12T14:44:56+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 18
+  },
+  {
+   "title": "«On observe un effondrement de l’apprentissage» : l’IA donne le coup d’envoi d’un grand chamboulement dans les entreprises du conseil et de l’ingénierie - L'Usine Nouvelle",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQVhUWllFc04tNEx3OC1IbFB6Z2t5eV9GaFdGeFZXQWFZN2plenplSHU4eEZUbnBmeFBlQmtLR3ZIY0NqRVU1WmpYY25Yd0ZBaE9WTlpzTU5COFBpVHZnMUJKRk9CT05ZMVA0dU9xNWxHdU1KdVRUWFVlM05VTzJQSFJPaGlVLVo3NlI2OFVnU015NVFUTFhSQjdDbUQzekE2eXloNFBhMXoySjlKNmktcW1SYnJ0b2ltcm8tcE1sV2t6R2hZLVc2VXJoSzdhQTdwTUZnYTI2YzBhSExqMVNzRGJkUVZWOVpSY3dLTUhfU2x3VEJ1b1lCYkRNeU84cmVsaEl5aG1iWWxITXJxRC1xbk5teUJ4V3diOFFObUhBbzIwX3Axam05ZVJQYnBLa1JWTl9RYklnbGhqRnlDQVY3RG9keldHT0k?oc=5",
+   "date": "2026-10-12T15:30:00+00:00",
+   "publisher": "L'Usine Nouvelle",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 19
+  },
+  {
+   "title": "Signaux Girod : Déclaration rachat actions propres semaine 41/2026 - Yahoo Finance France",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0w4ZVBrS3NsdXV2UWktNGJOMnhLNk55TF9OTW51MHBLZUxINnVySzF4ZHowS0NVZElwV1B4ZldXazB6T1pfNElxem5YZlB5QzlLUlVzSDc1amE5VkxUV09Cd1E0eENVWWk2YVpYaXVKUURFdWp3VzFRTUhuOVJST0s2MmlNRlJYREJHR3p3TWttWjRSNkNwNXUwclpZbGRaQWc?oc=5",
+   "date": "2026-10-12T15:40:00+00:00",
+   "publisher": "Yahoo Finance France",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 20
+  },
+  {
+   "title": "Capgemini gagne 0,26% - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFhEd3hOeGc4WFQzTXdITHh2VmhhRXhkSUtmdEZfelhnOEVQUXhmR0dhVDIwRThzWXF5QVZxVTFSZDdVdWdjdTFEOFRnOWVtbjhHbkFHYXRxMlR0QlBweUJ5TUNSTXI5REFDdU5Jd3hUUTZqaW1DUDU0dVRpWS1mR1ZEMVVjOHEw?oc=5",
+   "date": "2026-10-12T15:41:40+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 21
+  },
+  {
+   "title": "68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTE5aa3VQUmVRTG5GUWFpTnRpZmpOTmJGa2MtdXRxN1hTcFF2SWJvRFp3eE9ZWF9pdndFM2owUmZpeWMzQ0JYT0N1SXZkUXhDWVhpZ0tKOXFteVZMTUl1ckRiSUQ0MTFIZ2Y5Z3g1UnROd1VIR1RKUWE2SjF1OXdmNzRxdkRjbXhxSC1lY0w2d0J4cWxtaDhRNjlrcl9fOGx4UW94U2Y4aGtROEZObmxPOXVMbkxmU29ZaWZneXNEVmFzRE0yNTlBUTlOclBmbzB5eVVCUnpQWkZaWnVnLXNoQWRPcklOYmNpcGI5WHI1TW9OeGRSeThWc2R3?oc=5",
+   "date": "2026-10-12T15:45:54+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 22
+  },
+  {
+   "title": "68% des entreprises automobiles utilisent ou expérimentent l’IA agentique pour accélérer le développement de leurs produits, mais seules 5% disposent d’une gouvernance IA mature - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPTjBVendIRk1UbU5aeGU1WmhLNzFaN1dDYVBNOWd5LURJcjhYUWYwZTc0SlBtWkE4RWxJT1NJSlI4ZnI5YTZheG9qUVBuSUtjZDRwOThzaHlNVE5oSFlQdU9mOElwSEJOT0NUWlU5S1FNTlJzdllWTHExNTI5UDJFTUdERXE1Z0ZkczhKbmd0eFlYVnFhcXZtUUQ1ODd2RnpxZzJvTGtjcndCR216TEVYcjhhREtObkNfZGF4SkFreU5VSmdXTW5sVGZ6Q3hkd3pBM3JzaERPMzdodEhKU1Y1Y0F5NFZDVi1vUGFEci02VkczY3JxR2JFWnNVdjYtUFVPbXZwNXhrMzljMlZMQ1N2UnBLZ09RSjYxS2lkMU16a29ZOWpXT0thWmZWOFpVVkJCaUxlZHBST0paUUsyNno1eVhBU1VzVXBmVERKcTR3R0NPWW1YcU80ekFn?oc=5",
+   "date": "2026-10-12T16:20:54+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 23
+  },
+  {
+   "title": "Capgemini: Chiffre d'affaires en hausse de 2,8% à 3,171 milliards de dollars au premier trimestre - 26/04 - Orange Actualités",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOV9DVkdvdmpiN3VwU1JZZTZ6ZEVhd3RmeEctQmtyTTdMRF9Id3k3ZGNNeWlQZlN2Um51V2RwWU9UUVYyQld0ZlA5Tmw4bk0yLXdYMS1SX2tHSFJYTVFobVB0MDY1ZjhNTHZRX3Etdi12R0pGWXJXaE51Y1NCVGZ0LUd2elkxTFppWVFiaTdxeVdkQ0tOUFNKVEdXUlkzekhORzJkWFVwcklFOGZJSlB6WVdISHljWUd6VGJsMGxLV0JweFBvX05TWkQxQnRaUWdnVWxlQVQ3Wmx4aDNNbXhWQnpmNnlfS2ZiMEhGcldWenN6VFdnNlFpaA?oc=5",
+   "date": "2026-10-12T18:32:53+00:00",
+   "publisher": "Orange Actualités",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 24
+  },
+  {
+   "title": "OTS: Capgemini / Zwei Drittel der Automobilhersteller setzen auf Agentic AI ... - Onvista",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPckctM0NaZDlsbVBNYllCZVo5c2FGWVEzNU9jRkl4eVRLemtXMFpPT1pnVGRDUzlnWWFWN2lGMko4ODI1bU00dEtrRXpVT3h6QU51dVZ4VG5vUFVHY0JDWEJSTGpPS2VuYmZSNmtVNVFkQXJ1NGF0dlNCUHdtOHNyV1Z0ZVpzWG80R0M2MjNFUnRES3FmdTJhSlNzT2xsam5FUzJDa0N0S0xLZEMwU1J4bzV5bW5NcjVuZ29FR0dyMkZtZlU?oc=5",
+   "date": "2026-10-12T21:01:00+00:00",
+   "publisher": "Onvista",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 25
+  },
+  {
+   "title": "Repenser le développement produit automobile pour prendre l’avantage dans la course à l’IA - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelJVaUNGaDVTVEE5MkZUQnZmbjE2d1hpR2xrcUVmdDB1dGJTVmFfVjcwUVBLcDQ5d2dhSjNlOF9iNDZ6RXFBSUZMdDVHbkJ1UTkwWU83NnZ0OTFDVGU0Q1NxOGhxUGxvdVBfbmVhcU9RV1E0ZXZuZUMwWGdGLXdzZF9BWHBQUVItNnhudEtWYm5VbTQwQTkzMjZB?oc=5",
+   "date": "2026-10-12T21:44:28+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 26
+  },
+  {
+   "title": "STMicroelectronics entend prolonger le mandat de son PDG Jean-Marc Chéry jusqu'en 2028 - ABC Bourse",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGpLTkdpeXQzY2xJME14Nl9DZkZxU2tRRFppNEZzTktFdmMtWFFUeTRPTDdfV25iU2JSc2x2Q0lhSEs3VWE1Z0FweFVvS0lVbU04YWFybTN5SlJTSDJ4V0dibEZrRzZMWDVBcHc2TFpSd0xlc254aTV2bVg5Wk5tbXd4VU9sV2l3UVpoeEdQWkVBQXlVUjJyajdNMjVEVlZfckpMZEpVTUJlaTJFcWRwakR0MExrQTJzaThaTldB?oc=5",
+   "date": "2026-10-13T05:29:49+00:00",
+   "publisher": "ABC Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 27
+  },
+  {
+   "title": "New insights on data and AI - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Kai1FOW02QzZlY0xqYWlfVnF0Y0N4SFVqNUM5SDBLcU1ZQk9pcEVvRktwTldidk1idlF1YjY0Z3BTTkpQV3VXNFJkQzczYl9QY05rZmdIa1hZVUhOMXZ4YkloN1p5QnJiOFpfQTh5Ui0zSXRlYkViVg?oc=5",
+   "date": "2026-10-13T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 28
+  },
+  {
+   "title": "Synchrony | Capgemini Digital Academy Partnership - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2hacmdqMHFZT1BmUXpOUkZKTEZZS19ybWhwalM4MkFuRkQ5YnpIN2tqdXA3eW1UQ3JDc0g3UGFCa3Z4SmdLQUpwTFgtLXpfNS13Q3RRSHdnbmdxSHV2OEJqRGhSZDJHNTRvM2R5NkFkU1BlZlJiNmFfdlEtOC1OM3FydlBwdkNQWlpucDJYcFhlZlE?oc=5",
+   "date": "2026-10-13T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 29
+  },
+  {
+   "title": "68% of Automotive Organisations Use or Pilot Agentic AI, Capgemini Finds - Autocar Professional",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQm5OenAyZ2FCb081YnFnZDEyOXlKZ256ZGxRSVVIMHpkcURWVUIyNzFPdXJ1eVJoNUVQYXc4TkwzYjFfQ2pMMFNVaWlJMFJZZmNSY3kwdGprc1RIOXN2QkN3emt1SXpnUTdNQ2JrMGtPZHlRcG43aXdxVllQWTNzT0p1eEY0NEU5UkVUWUVwdXBXVnJ1S0VDQlN5cXhINFBBbmptTXk4QUFpWVdoYWpMWU1QZXIzaVnSAb8BQVVfeXFMT3NQTTBrcmFlRmRTbHlwYktxeUVKNGpvN21XNXNPT2Q1SlJ6WERjbV9XVmNiWnRodDIxLUpaVWozMHJSUHZRSDJqZi1PZExvU21wS1otV2NYaDJyMXIwaG9ndlFWZGVhckxxc1QzNkNuYVVIZFI4SWVjN2p2RndLN3hKTVpuUVpTZWdBQm1nQUd6NFZKamtlVnNtOE8zOUF1aUdXVndhdTNDMlMtTURiMTlmVWRucFIwTzViNjNVc3M?oc=5",
+   "date": "2026-10-13T07:20:42+00:00",
+   "publisher": "Autocar Professional",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 30
+  },
+  {
+   "title": "Nearly 7 in 10 automakers use or pilot agentic AI in product development: Capgemini - Fortune India",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDRDX0lpam1LV0JuNWJxcjBrX3ZidFRmaEwtQ0Z3SjRBelBOVDBKdGhYdnRlbTM4WTJjdDJ0ZnVHejZ1c2ZXWklyM2NrQ0JtMXpyM0lobEdjcm5CalN3dTVrcnotaU01VXQtN2xIUEEzZUlhMWRWWmgwc3NUb21YaTU0RzFEaUVfUmJtdzk3SEJZMGZQaDl3NmREMTNBQzNqemItWHpuUVFxV1ctb3ZNc0xkRVJpc1Q4R1RULXRTNDDSAc4BQVVfeXFMTjhoTXJwLTd1eXgyRW5Xal9oS3Y3Z1BlY3phQThwMmR0WVdySlZCOFBhQVF1VzF5SVdBc1UzRV8xTjlIaWFkTldDV0FnMjZpbms3YUdCU0lKOWk3bm5KN3BHSV9ndkpOUzBfengwY05uM19OR3E5NDRvVmZKNHhFdFJwcmxmbncyb2VvN01KWGZWaVZaU3NDOGJ2NWQ5NjAzd2hWMVhSMy04Qi1uMTdtQWJJUFZ2VXBuYVJ6enBFVU9CaUhNby0tSzluTzVJLUE?oc=5",
+   "date": "2026-10-13T08:11:54+00:00",
+   "publisher": "Fortune India",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 31
+  },
+  {
+   "title": "Automakers accelerate agentic AI adoption, but only 5% have mature governance: Capgemini - ET Auto",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbHF2SE5ScnQ2bm1qa2szVXNFX1VhZ205QUFNQmFIN0FLWGNDa0ppOUx1dkJaNDNZU0hXQzAtblViVlJ5cjlDeXFRUHNocUFYTFV4ZEJPdmdNQnJYdFE4RFAyd294SDlsWVZMbHJ6TVJoRDVDdUhTeVFqQndndk5TV2xNUjAwcGhDYTVZRHpDcDNaU2tKZDJpYTNpR0hrd0cxTnVYSnRLSFpDbVJWMGpMaGtkRDNYMnpyYW5MOWZYLU54dGt1c29ra2U2Y2JtVFE0YWxweGREWldEVzcxM3pnSW02XzBqcGY5d2s3azc2UdIB9AFBVV95cUxOeWNELV9fRDNWWnViWVN5TmVGQ19UVTJkVXNhVVhFelVaYzJ4OXRlTFR1WDh5MkJ4SkE3dG9fT1g1SVd4djJhcnYxeFUtNUdjRnJOdUFIV1hsYS0tY2RCc3VNejVnS0c3UzRfTFdha0VsckwxVFh6TjJzZTBIQzM4S3p5ZnhfckM1b000WDc2akI4Vmt0RmRRRjhFQTFCUjRjdzZYQzB0Rk9IVk41SFM1RUYyTVg5dFROZDd3cjBuOTFjM1Y4bVVYNWFvb0xYMUhOR3I2ODZrY0RtVDBJcTRVSHNfdms5ZTVaV2lxU1B4UGhCUGd6?oc=5",
+   "date": "2026-10-13T08:26:47+00:00",
+   "publisher": "ET Auto",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 32
+  },
+  {
+   "title": "Seeing is believing – How visual AI is turning image data into business insight",
+   "link": "https://www.capgemini.com/no-no/insights/expert-perspectives/seeing-is-believing-how-visual-ai-is-turning-image-data-into-business-insight/",
+   "date": "2026-10-13T08:55:54+00:00",
+   "publisher": "",
+   "feed": "capgemini-no",
+   "section": "general",
+   "evidence": null,
+   "id": 33
+  },
+  {
+   "title": "Henkel Consumer Brands accelerates sustainability progress by adapting proven solution - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ2NQZW44ckFuMXIyMy1kMzJHaVMtd2tvb3Vob0NBem1hUlc1R1RBVXUwUERsOG5HdTE0NlZmTmVQVzdtcVJWOXdCMXdTTmtLZjNvZU1XQ1U0TVVkZjFNbXd0bmFXSlpIemgzU3JQUG82UXdEWjRzWV9tM0VzMUdSNzBxYUxaTjE3MllLVmtrZzJOVlo3SUxSWmtPcFFwbFV3SlpPaThQTWZfQ1dKWDZaTFltZGdLcEtTTFBBb1RxODY0RVFmZU0xUFlhWDl6ejFIYWpLclZR?oc=5",
+   "date": "2026-10-13T09:23:09+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 34
+  },
+  {
+   "title": "openDesk und KI: Der Verwaltungsarbeitsplatz der Zukunft entsteht jetzt",
+   "link": "https://www.capgemini.com/de-de/insights/blog/opendesk-ki-verwaltung/",
+   "date": "2026-10-13T09:43:22+00:00",
+   "publisher": "",
+   "feed": "capgemini-de",
+   "section": "general",
+   "evidence": null,
+   "id": 35
+  },
+  {
+   "title": "Sustainability in action 2026: The new rules of business resilience - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc3pvV3Vxa2tqUWFReTFPZks2S0FjOGtoc3VmcVVhejFGWFpRcGRjNDMwN2hqSmgyZERHeGw3TXNsVFFEUkJXMU96QWkwY1ZYaG03M1Jpdjl4dlljblBwN3dxN1RNWE9HNnlFVE9rYkJQazZ0azVodHM5MkJEM3Zna1NLNFA3SWNsX1RuZGdaNTBpUQ?oc=5",
+   "date": "2026-10-13T11:41:26+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 36
+  },
+  {
+   "title": "Intelligent Finance Operations Hub: Building a unified finance intelligence platform for banking & insurance",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/intelligent-finance-operations-hub/",
+   "date": "2026-10-13T12:53:10+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 37
+  },
+  {
+   "title": "IA agentique dans l’automobile : des pilotes freinés par une gouvernance immature (étude) - LeMagIT",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2FHbHNOVTFvVG5oSnBVVHA4cTBCdUJkdkoyU0JSMFU3ejNhQ3hlUkpOTWFrelh5UXBzb3BTaUl1dC13TkZxUVZGc3RSNVAzY19hZXcwbVd2ZGZmRWYyMU11UEY0X2ZMbFk0VjJ0NDlfdXJBN1JFRC1HamJBVW9ONE9jdkYtaFpYSHdkZkFJVVVrUEVSU3J1OTFVZ09jTTNWWEEzakZOcmRGX19FTXM2TDRadmNqTUl3X0lzSzNFejR5aHhjb3JN?oc=5",
+   "date": "2026-10-13T13:30:34+00:00",
+   "publisher": "LeMagIT",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 38
+  },
+  {
+   "title": "Capital Project Excellence in Offshore Wind - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcHRaSk5KTlIxQmQycWV3M1M1endGaHItMk9jMmxCVUhrMEhtNmZmb0o1Um5aR0RvR2I1QUFIN0FHQkpZRHNJR2NtVUQ2QkhTRy05MGgxcGpyZTAtMUZqXzVtWGYtTnBBM2ljR3ZlMk1raXZ2SXdYSHE0djVqYmk0NS13WnM1ZmhOSGNZRWhTR2RGWlktZGp3NDdrd0M?oc=5",
+   "date": "2026-10-13T13:57:22+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 39
+  },
+  {
+   "title": "Among the best performers of the CAC 40, Capgemini shares climb 2% - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdlk4Vk50bTVnek9telNibUdfUm5FQlpZXzNwT0J4aGZGdXJWOW9BOWlseHdqOWVqdG54UjZRdG43aGxscW1tbkFFTHdJNnFlN0V1SVBwMDBkSEVjSnNlc0ROVm1TX202UTViSlVWRnFfdEc5VUF1OHpCR241TUFadm1va0sweWsyS1BrVmtQVklWWHBVS3NSTzV6cTc2WC1Va3lLSm9taVhUWm1qMnU4d3ljSjhmTWNHSFVWZG5PVTI?oc=5",
+   "date": "2026-10-13T14:15:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 40
+  },
+  {
+   "title": "Parmi les meilleures performances du CAC 40, l'action Capgemini grimpe de 2 % - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0NIWW44TGl3dVRWc25RT3ZXNDVnWF9la1dNSXlmTjhDdTQ5SV9yZl84QkdDTEcyVWtFMDNPbkx0VlRyV3dteGhYNmNfNTZzMDBvb3dBTk1YQTF5dkVxZGtMWnFZR0dNZXJneFRxc244RU5GVU5CN2l0OWR0dk1aVkRoX1JBUE5KUTVRcG5TeDZOZnFKeWZuNkktdHdYZnZtMlRqVFVOUHFBeDBnSXdhWDZRS0NnRW0yODV0amQxSE5hUTMyRjV3?oc=5",
+   "date": "2026-10-13T14:15:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 41
+  },
+  {
+   "title": "Capgemini finit en forte hausse - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjNrSVc3VG5WZEdnX0ZjWmMwcjUxT2pnZDFXQUh6R01lMmZFMHhGMVI0UDE3YXEtSUEtMnVoZXEyRzc2cHNEdWhxWkN1SkpKZ1JvUTJsdGppV3dwQjVkWlFFNVBWTmhrTnJxR1B4N0JGQURxOWRlazdtYTR5WGo0VnVuRC1KUE5yY3ZvVmoza1dKb2pacmpN?oc=5",
+   "date": "2026-10-13T15:41:41+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 42
+  },
+  {
+   "title": "Capgemini SE : Déclaration des transactions sur actions propres réalisées du 5 au 9 octobre 2026 - Yahoo Finance France",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPai0xVTE4T1FYakp3Wm5VTnJadEFoREZzQ0tFTlo1OGdtd3N6OE1FN3dOQ2tiSHVlTFBEN2ZXZHd5STJiVHFSc255dEhQbFRPSkJjSFZfTGFtM3czbUlRSzBmLVRqSGZjZUFhdWk4NlJyVEo3TXBQY2diOWdRV01TTEFDS3pBaFFDYTRJdWhIcDctVWZiNlY1TWh1Z084X1ZmQVFNd1owVy1yVlR3WXNn?oc=5",
+   "date": "2026-10-13T15:45:00+00:00",
+   "publisher": "Yahoo Finance France",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 43
+  },
+  {
+   "title": "L’agentic AI stationne au Mondial de l'Auto, mais sa gouvernance n'est pas à bord - ZDNET",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkJvZEJTLVBseWE5Q2dUVXg0SWQxSVdNSDIzcU03SVJiVTlsbnYyRnNoVU96SC02OHhHR0ktWVlLUXo1YmpFaXh0OWdwdDRWa1JsajF2WTN4MktaTUxlU2pTNy1kUjNTbFNoT1lja0Y2SnBVTUlfcU5mdnN4WkhqNE10eDZkX2t4c1RRbF9zZUZJNTFsRUFpWU1VVTdpcTY2T0lpUFV0Mjg4TkpMZkVXRVhnUEpzZFhsU2pVdFdB?oc=5",
+   "date": "2026-10-13T16:00:27+00:00",
+   "publisher": "ZDNET",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 44
+  },
+  {
+   "title": "47% consider life insurance, but cost and complexity prevent purchases, Capgemini finds - CEO Magazyn",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2dNZUh4OG1tcXlBQ0JZZDZrZXhjZC1kZnJZOU5BQWgxaFozdGF2Qnl3bWpMWHZ0WDJscjFDSnZpSmxpMEVXS25VSVNpNnh0SUdON1BJNlBSbHBPbTRJN2cyaWtzdHpUT1FGWV9jREJoekppckRTQi1hTWxoRGN0V0FPMUNhMml2NmFNQ3JnZno0aFRMNmoyaA?oc=5",
+   "date": "2026-10-13T16:34:18+00:00",
+   "publisher": "CEO Magazyn",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 45
+  },
+  {
+   "title": "Aiman Ezzat, CEO, on our H1 2022 results - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQURybjRfWjd0VGlrNl9FbWdXdnVFN1ZjOEtOeHNZZ2tBSDgzZFVzUTVEenRVUW5pX3VHbjlENmVSckVGSDhvS2d3MWE5a2t4b1k5SDdwSF9MRlE1Ylh3QWQ5UjRBUnl5b0NqM1VlWFNpeVZ2enVEQnlqWS0zejNWTThIb2E1ZU0?oc=5",
+   "date": "2026-10-14T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 46
+  },
+  {
+   "title": "Conférence Créer l’engagement : le nouveau parcours client automobile - Mondial de l’Auto 2026",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHBWOWFIU3BYVkRCTlF6MEpjcTJNcDN1TnRnZmZPdWktVEx5SXdkeUZrRGFOZFc2QmN1QjZDenllcXVRdnZWeWhIcENYeDR5NjRYT05wVmVpWHNPQlh1OGtZTnhxVWVMMHp5a1B6U3NWSmtMcU5lZGxxbENyTVNzNGc4NE83ZW0tWVMzQ3pEX1h2SEc1aE9tUzd6NkRFZEhJa3RHVA?oc=5",
+   "date": "2026-10-14T07:00:00+00:00",
+   "publisher": "Mondial de l’Auto 2026",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 47
+  },
+  {
+   "title": "AI-powered pen testing: Supercharging cyber visibility",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/ai-powered-pen-testing-supercharging-cyber-visibility/",
+   "date": "2026-10-14T07:20:06+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 48
+  },
+  {
+   "title": "Human in the loop or human clicks “approve”?",
+   "link": "https://www.capgemini.com/insights/expert-perspectives/human-in-the-loop-or-human-clicks-approve/",
+   "date": "2026-10-14T09:06:53+00:00",
+   "publisher": "",
+   "feed": "capgemini-com",
+   "section": "general",
+   "evidence": null,
+   "id": 49
+  },
+  {
+   "title": "L’action Capgemini reste stable dans un marché évoluant en range et marqué par de faibles signaux de momentum - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVk1dG11ZGxlcmlKcjhlV1h6Um9ZNzByUDBTVjZUX2NEYnJDa2lUVmxYLWliX0cyV28zV3lTTDljejZ2ZDNVVTNKWW5Fc3Y1U2praXRieWdQN3IxdEJBQ056TnB0a0l4RENCbGEtOUVJa3VVNW5Eb3FjTUVoaFhuYmVLU2Rjbm9WUjF0LWJjcmhLaXNLNDdXT0J3?oc=5",
+   "date": "2026-10-14T09:17:27+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 50
+  },
+  {
+   "title": "Closing protection gap requires products tailored to young people – Capgemini - Health & Protection",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm11aHdNcnRZZkE1a0xGNkswS3ZlZlZWRGM0SnAydEV5ZDliX3JPUGFaOHZ3YXVKczZ0WDJzVmR5YTRaRURpaF9OWjF0bklneVJfS2ktNlZtblZ6REpEVlRwZGd3ZDJYTDd2RlJ1X3NMNlFRWFlMRlVKNHB4Y0JHV0lxQ2EtUmxuWGFFazBEMjE2UXpiS2E5VU84b19ZcUpiLUFFQTBuczgwOVRneEwybDFn0gG3AUFVX3lxTE01YVJtTU94eE1BM3JXdVI1VlBieW9VMHl3eUtOMDlpd3BiUzVNYUpKWVJfcXNvM3F3aEd1RnBUa3d0MDZrN0FrZWZCWGV1Z2JvOFBDcHpuaDE3VFBhU3hoR183Nl9tWkV5LXU1U0ZTQjI1Rm4yUjFQR19tMGtqVHJKcW52eTE5SjlOa0NIQ1ZTa3pFMFJsd1RUel9tY1RNTEFuMml2Y3VSZjJBenlWWXhMZWZfOHZWOA?oc=5",
+   "date": "2026-10-14T10:26:57+00:00",
+   "publisher": "Health & Protection",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 51
+  },
+  {
+   "title": "Aymeric Renaud, président de Schneider Electric France, porté à la p... - 100 transitions",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEppenRaZG04ZlZ4Ymk1QjdvQklfbEV1bGFvTlU2ZXFwYVJtSHpQdWtzR0trSm4xU3hpVnU4eExNc0RjVGlyNjhFU0xGNmsxb21CUlBQOTgzdlJwU2xNTkc1NENoWXo0WWNaaHJnSzM5N1pSTFZZYUhUQnN0WDJjSzNkOTVZcXNab1BoQ2RLMm9nWmJvdGtMNXphWVZMbjNBTFRwUDZHek9PMFo5RzlwNHZCQlZhRDR0MjlQcXQxX1BEaUZwMDhxUllWM1lfUWJnbC14TGIyYw?oc=5",
+   "date": "2026-10-14T11:41:36+00:00",
+   "publisher": "100 transitions",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 52
+  },
+  {
+   "title": "3 European AI Stocks Riding The Push For Compliance Software - Simply Wall Street",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl9ySGhSUVBuRk1FS0VJRE13UFZMZFp6aDRFVU1EcDYwazExTWF2eGJXQ2tDMmVtVWMybmxYb3daZUpsRjgtZlBMTTlhTWs5dXRtNlM4WUdpZ3hsYmdpd1k4YXpYeDc3S1paUGZhOGFRd3NGbjBibzYwR3FFOXVhV1FkT3hwRVVwZVV2WklYSlVaeUN5YWhCZEJzV3pPbEwxZWlrZl9XYXpiLWRqaWI2WUhJaXV0RG0wYVFiSTE1WVltWEp6MWF0Z1NHWDVTU2dR0gHQAUFVX3lxTE1uX3JIaFJRUG5GTUVLRUlETXdQVkxkWnpoNEVVTURwNjBrMTFNYXZ4YldDa0MyZW1VYzJubFhvd1plSmxGOC1mUExNOWFNazl1dG02UzhZR2lneGxiZ2l3WThhelh4NzdLWlpQZmE4YVF3c0ZuMGJvNjBHcUU5dWFXUWRPeHBFVXBlVXZaSVhKVVp5Q3lhaEJkQnNXek9sTDFlaWtmX1dhemItZGppYjZZSElpdXREbTBhUWJJMTVZWW1YSnoxYXRnU0dYNVNTZ1E?oc=5",
+   "date": "2026-10-14T12:39:59+00:00",
+   "publisher": "Simply Wall Street",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 53
+  },
+  {
+   "title": "Capgemini perd 1,09% - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFA2NTB4U3pHTlA1cWR1XzFWeEJiNkRhM05UMElsSnEwTFlmWVB0eFBKWXhWdHNLT081RHlyMzRPWDFGc2pjRERMUGNkbDRmbUNKRGNzdWxsSXN1anNyUDJTby1KcjBFaE43WVJxQWFSSWx6TWhWQkxFWmdvTG0walNNMGNXUEk?oc=5",
+   "date": "2026-10-14T15:41:42+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 54
+  },
+  {
+   "title": "CAPGEMINI (4CAP.TI) H1 FY2026 earnings call transcript - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0Z4bC1Ea0RhbXphY0NkeXpNTHFZTW0xMmtOZzlBNWhIUUVTSll6QkV0MUQwOWRRSm5RMC1kNnRCUVMxSXpUdmlRQTY5bXBxUDRTMURNUVlHazJ3cDZKelB0UjNnVXhUVE5DNzJBN1NwdW4zZGxiUVhfSmp2MGV0bG1HNFVtcHFicWtYVDhsYWdMZl80?oc=5",
+   "date": "2026-10-14T15:41:48+00:00",
+   "publisher": "Yahoo Finance",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 55
+  },
+  {
+   "title": "PERM challenge - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QNjdIeDBzQUlLZWM5bFZqVW42WkJPX1hpWlp4eGU4d0VaQ0JJNTB2SUMwM05mMjY4dmZUb3ZteEtDaVFEOGJINDk0WnBrdnBzOXFVN0pHVVZSUGs5VE5XNVJtaGcwTW1YUUVSMHRDZjhiMlg3U3djWFJ3?oc=5",
+   "date": "2026-10-14T15:51:02+00:00",
+   "publisher": "TradingView",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 56
+  },
+  {
+   "title": "ArcelorMittal, Icade, JCDecaux, Medincell, Air Liquide, URW, Covivio, Alstom, Capgemini, Airbus, Havas, Argan, Gecina, Klépierre, Mercialys et DHL, SAP ailleurs en Europe : toutes les recommandations des analystes - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQMlBrUkNWTFRzaGgwUzRwRmVOcV9wSW9GNlpCWXRHRzdSTmRJbnZvdUlxcDJreTN5c3pDc1hsYmlWSHktT0pUTktNU1FVdFpQdnIxT205UnROMXF6N2I2UWJzRG1qWmJoaTBCdWVycEVjdUFDRjZCT1FQbXpCNV8yY3g5ZnMza2pNUU1MdmxNRzF4b051OG9LakppTlJFQTdGWmRobHA5YlpHZ0I5V2ItR2M2SDgwal9yMXRpa2VKOE9acVd2UDF2QXJGNnNWNGxFaEhlTlJWRjdfRjZ5Q1R0SnNTU0psVGRPb3BKb25GSG0zbHVGYXpEY2doY05BU3lOTnFuUjBQZU93VUdGaklBUlVtekk3M3JjVlc5NkVCc3F5WlBkTC00TWM5QkxLaTdvdzZxVndsZTZhZDQ5aXFMVW5aVnpyT0dJbThBQk9adDJpOFBQ?oc=5",
+   "date": "2026-10-15T06:55:00+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 57
+  },
+  {
+   "title": "Make it real: Neelam Gupta talks about making sustainability real with AI. - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGRGbmRfcml2RFZiRTduUDRmVUx5QzM4TkdaSHBDZHJlQzRrcDJuQ1A3RWlady1zS1JIdmpudjVyWnVFeWlqcE1nZmpheVJ2QUlySUZkMURqYlQ5ekJxcWpJd0d0NGE0X2tiZ2pxamROeHBGNDNxUmZQLTllYVVxSlpWWk9FX3RhaWlYUkpZVDVHU3VNYVBoTzIyQlJoc05yZHU1TTJmOGF3cm1lejVLU2lxZ3U?oc=5",
+   "date": "2026-10-15T07:00:00+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 58
+  },
+  {
+   "title": "Point recommandations des analystes : JCDecaux, Stellantis, Capgemini - BFM Bourse",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVVtZlNsckRrUk8wVVdENUsyLVFFcjhnOWttSzhrNXZnc3prU1BNMGp2QUtIZzI4TjN0aFhOS1VGWEU2czEyWTI1N21aZGdPcFJyVUxRY2MyUU1uSHptUjl6SXFMNFdUMDBfX2ROTnhaQlNfX0JPWE14UzM2bm84XzRrbGcwaG9RY3dMaXlmd1llRzZpeGVBNW92MmplZmlRUkUyMGxXZml6VjM1WUJaZUYwME43cVJLLVk0dXRUckEyNWRKalRIaA?oc=5",
+   "date": "2026-10-15T07:10:43+00:00",
+   "publisher": "BFM Bourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 59
+  },
+  {
+   "title": "AI-powered product lifecycle management - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVdKXzROT1JjNUU2cjdXWWt2dTVScFY2b0FraHJOQ2FldGdWbkc1OTJnZUYwUkViQlV0MUNTTld0OGhWSVRRekczSHZWU01OcjFoV0pPZDJIcGJJWlhmTkJzSmRvaUF0ejF5V0pZUDJEbExHLXpZMnBsWFlRajNZSlF1Ylp5dVpxTWRBM1hOZ2RrTV9MM083Z3Bidk5GN00?oc=5",
+   "date": "2026-10-15T07:51:49+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 60
+  },
+  {
+   "title": "Stratégie à effet de levier sur Technip Energies, le suivi sur des bonus cappés Capgemini bien gagnants - Investir Les Echos",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQU3dXMDQ0Nkp0ejBtYml3S21KUEJqSl82dlN1RE5YOVhrSlR6a1VxQWFIZDZucFZhdXE3LXJjVXlmdTJNblV5eV85eS1KR3Fub1l0U3JKdVFMcGdjV3JLRHdCTUNVV2Z6NUNqSWNrSXVMbkhTbVRfLU1ybEJwZTFNRlFrRVBGTFpmQ01jWXd4eHlibFRTWnA4VkhTZy1tUXRvNkExMnNSZng3TFlWN1o5WTFZSzQ1LWZyWmQzRFlRUTV5RWlnR1ZCTnNudXRtN204Y01yYmVWMThSd3Rfb2lYWGhiM3Azel9fM1dtNktrVEVZNy11M2kwNG1YWXZhbEFYeEtSY0NmdVE3dEIwSjM2V1kzaw?oc=5",
+   "date": "2026-10-15T10:34:42+00:00",
+   "publisher": "Investir Les Echos",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 61
+  },
+  {
+   "title": "Capgemini SE : Deutsche Bank Research behält seine Kaufempfehlung bei - MarketScreener Deutschland",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3dzcmtGdXdvdUZ3ZlVIOWFHamNHU0tKcTZyR3c3LTdleXBrLVNuUVZoRHBwRl8zSWNLM1FZb0lxRkRtR3RIM0xxZGhmRHVjNHd3bDN2ZTYyYTZwUWtTYzdUSm5FT2V4RW1Tb0pTcFIxUU5ZdDZFZ3k3T0xFY3drb091MndFLVZ1R3puZjhZVWoyaHdGUXpSaHNrMGNIRjJiTE9nLVBzWU9oTkhRd0QwcDA3aThEZTZmZmNvVTBqSzh3WG9iQ1pHUlBUU1VNUGM?oc=5",
+   "date": "2026-10-15T14:13:55+00:00",
+   "publisher": "MarketScreener Deutschland",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 62
+  },
+  {
+   "title": "Qu'est-ce qui explique la récente hausse de 2,2 % de l'action Capgemini ? - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVQyc1dmbnpGLVZNWjVyOHQ1b1o5M1YwOHRGcU5hTnIxUDQ1QlBCREVHem80aE0wcEpNbWtTSk5MWWVxcnc4OXBtb1Y3RWpnMk5JbzJ6R2JHZWF2dWM1RzlxaTN1Y21sUF96TGJQVjhsQ0RCU3Ntc3Fyc3NqV0E5N1k5c0FYUXY2WGlWcXBSanJodms5SFE?oc=5",
+   "date": "2026-10-15T14:49:41+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 63
+  },
+  {
+   "title": "Capgemini prend 3,47% - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWktHQ1EtYkFwanFlaGFGeFJvV1h0ZzRPdUxLQXNFU0hfWGFId2wxRlF1OHdval95T01aSEFBTUU1Ty16TWhvOHd4b2toYTZNNHVJRl9NMUdaWFdiWTNVaURDUkpEYXB1akxmT0FhTTN0YTRzaEhaT0IwY2ppR3o3TFJ6YVpnaW9y?oc=5",
+   "date": "2026-10-15T15:41:43+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 64
+  },
+  {
+   "title": "From AI mandate to momentum: Capgemini joins AIRF 2026 as Knowledge Partner - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2xlUHZDcEJidVlkTDYtNWVlVksyMFI2a1Z5SzJXcUNkMm5Od2NHTlBCT3FrWW8yd3JRekdjdEtIV1JGS3ZxOGpQZWozTjNfcTRuMXVVMFFENVdCSHZxU0daSTJCclpELUxVYldHakZPR2NTc0d6eDNWeGNPSW5CSTA4UjhsQl9Lb1lnM1o0VXNxa3BPeXNmQUZrNWJOOWE1X1R6S3RpYXhXMW92VkxEOC1vMA?oc=5",
+   "date": "2026-10-15T19:39:52+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 65
+  },
+  {
+   "title": "The CAPGEMINI-Universitat de València Chair organises a workshop called the \"Capgemini-UV Classroom Training Pill\" on code tests - Universitat de València",
+   "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPRjJFOUhwaHRFQjRBMXFvVEI3MFdGQU9zN0JoSmoxT05NVXRhOVlNRW81T052bFdmS1pCODhET0swZVAzWU11Q2phekZpRmxLTC0wUWxwQ1NZOHVRN1RoYjBSYjVTSV81TUpSRzdzS1o3emF4RWFMXzdlUy1QLV9LM3dYWVlTVmJzSlNzU2hCUnJIbHpGVGF5dFZyRHJ6V1lrWlVFUDhRV3FVYUlReWVreGR0WXlaRDJsQ2JjcUExQ1dmb0xmUmRVVzY3LVhfbXQ4N0tFS0thODdnUDFDVnZRem9EaTJrMk9laWZLZ3lGZmVrRG1kWDFJR3E0S2tReldhS0lvTENFUUJLNUF3UlpYeHJROEVhMlhiNnNFNDBrT3ZUcFZhU2NJUmpHOWVDXzBibXNHWHNaYmxTbUdWZDZSdnVEN3luZk5t?oc=5",
+   "date": "2026-10-16T03:47:44+00:00",
+   "publisher": "Universitat de València",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 66
+  },
+  {
+   "title": "The next phase of materials discovery - Capgemini",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUzZaNVd2MVhaSzVQaGo4c0hfRlpHOVl0NlZPc1VjY0RZUDE5dUVzc256Y0lxZEFpeER2MThndXJVaHhIRFpaWjZ0ZmpyRkxYWUk4YVAzTzNFbk9UamxLUkFEQWhuWFk2UDZPWjQ5cTBsLTNvN0xURktpdWgwODRvb3QxTUNYWnIzaTdWeEhOc1VIZVlCdWR5MzVnUTg?oc=5",
+   "date": "2026-10-16T06:42:21+00:00",
+   "publisher": "Capgemini",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 67
+  },
+  {
+   "title": "Action Capgemini SE | Cours CAP Bourse Euronext Paris - Zonebourse Suisse - Zonebourse Suisse",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBWDNMaU41VHRKTHIxOEx4enBtZWdsX19xQkItWFpiX1hZOEtiMXFDaHprdTMwYzd6TTRMZklMM1JuX3NpRE1uODhnOVJXMkZFcWZkQkxIdVc1R21zUzdKMVNNTHpzckVQ?oc=5",
+   "date": "2026-10-16T07:00:00+00:00",
+   "publisher": "Zonebourse Suisse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 68
+  },
+  {
+   "title": "CAPGEMINI UNS.ADR 1/5/ Chart | Aktien-Chart | Intraday Chart - boerse.de",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR3dLWFBLaVBXeV8zUFoyT3dYNTZ3WThoRUVwemQtRVI1N2IwRHI5MXc0NlFXN2pNWjR1akJPNy1IamZJMDRGajhjbmJXTXBGMU5EWlN6OFhfV2VfRUE0X3MzVGE3SkdIeVRTR2p3?oc=5",
+   "date": "2026-10-16T07:00:00+00:00",
+   "publisher": "boerse.de",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 69
+  },
+  {
+   "title": "Qu'est-ce qui explique la récente hausse du cours de l'action Capgemini ? - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdy1sS3F6SzhiY2xGd01yS1ZHNVQyeGdieHRCVTJMMHhya25zYTRoZUtzNC0wNUdNOFJVM1ZvM1VtNmxZYnFqaTFuTmhPcE5qTWNYWWl1UXBsX215bFo4REdoOHhYdTEwMTd2QUFYa2JreEFFV3k1X3lHVlBUR2dPeGpTYUkzODN3cHljT2xjLVNkOW55?oc=5",
+   "date": "2026-10-16T08:43:39+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 70
+  },
+  {
+   "title": "10 ans du programme de Marrainage Capgemini | Témoignages de marraines et filleules - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbXhMYUNrWTV2bllBejJGb1VwbVJqczRfcjAwUkF0NmV2YzJjdWtlNnVIMUlSazl3NnZkME1GZkpDT0Y5Y1h5QnE3Y1dJNXBjTjQtV1N6Q21OUnZ4?oc=5",
+   "date": "2026-10-16T10:03:10+00:00",
+   "publisher": "YouTube",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 71
+  },
+  {
+   "title": "L'action Capgemini progresse, portée par un fort élan haussier qui attire le soutien des acheteurs - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV2xMc0xvSjUtWGN4a2twVldwY19hV0V3ZWtVQ2xXdi00WlpNMFZFYjZuTmV6c1lEOXpNUE9RTndibGVzV1RUdkxpMjR2SnZzOUlzRWhlSkdQLW50TS14TFcyTWZqblJrNXkyTWFfUkVHYTkwWnY0c1JyVXc4eVhRSE1SWW5fTHpzZlBKWEdxMmtnMDB2eFBXVg?oc=5",
+   "date": "2026-10-16T10:44:25+00:00",
+   "publisher": "Traders Union",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 72
+  },
+  {
+   "title": "Global digital payments to double by 2030 as new instruments gain ground - Business Standard",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWlhBTnlzb1FPX0YtR0ZGZUVlY3l6cnNoN2xLb0FSWmlheVhyZEswYWZzM2VyWWFhVktyYW9GWVZ3b3dNTWRreGVmd181NnA1dnBRSHVGbEk3TWhvN3B1RE1Ucm9zekZpU2ZzVFJOVThMUnVKQXJCLXN6YnIwbVlRNjlrN0NYTzhRWkRWeFh1elJ2Mko0b0dwYlVJOGVWRE1wR3VYVWlkQW9FZ3l6MmdLVG5La1NoSkRhZXRFWG1pbzE5d2xyNkZaa3NCVzVEeWZZd2VfeTNTLVAzM1k2T2EyV9IB4AFBVV95cUxNWlhBTnlzb1FPX0YtR0ZGZUVlY3l6cnNoN2xLb0FSWmlheVhyZEswYWZzM2VyWWFhVktyYW9GWVZ3b3dNTWRreGVmd181NnA1dnBRSHVGbEk3TWhvN3B1RE1Ucm9zekZpU2ZzVFJOVThMUnVKQXJCLXN6YnIwbVlRNjlrN0NYTzhRWkRWeFh1elJ2Mko0b0dwYlVJOGVWRE1wR3VYVWlkQW9FZ3l6MmdLVG5La1NoSkRhZXRFWG1pbzE5d2xyNkZaa3NCVzVEeWZZd2VfeTNTLVAzM1k2T2EyVw?oc=5",
+   "date": "2026-10-16T10:50:33+00:00",
+   "publisher": "Business Standard",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 73
+  },
+  {
+   "title": "Capgemini Share: Nearly 12% in Seven Days, Leading the CAC 40 - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWpjd0hlYU43cXFyZzBZUDRSR2JFUGFkNEhHc0NNUXAxcjJONVVJTlRLM0lFZ0FXaWFhQzZHa0xwRWIyaW8tbDlydWRWVVJLNG15VUJaRWFLZkNtWWlVOTN4NnB4dWExdzQ0anJITzdsUTVTZUR0aXVtdUlTS3llNFZ6Ym45MjBnNnlzZHVBX1lqdlByemtFMjZYSXo5QmFDQzd1anhWMmJqeGFXNmZ4VG1aWUZYWjZ6?oc=5",
+   "date": "2026-10-16T11:56:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 74
+  },
+  {
+   "title": "Action Capgemini : près de 12 % en sept jours, aux avant-postes du CAC 40 - Idéal Investisseur",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbkpZTXNEcHl2dmlZc24zdng0NnVfbmhteExweU9xUzduTkhFUmZLTjdlUWtaMTItYlF1NHdGQnVDQndnQWhJdG8yQnBUaVF4cGJ3bUZwZ2FtUVRjU2pqZWdmTVV2RlVLOGFJbWxuX0RxYmNtNmlsSUJ5dlcxZWVNQ1hxUk1PNFhIZEUxcUVidUNrTUxFX3pBU2p1RUZtMDEwU3hfckpJdjJpQnJlZERMSEVXSERHc3N5azRfRlpLRzE?oc=5",
+   "date": "2026-10-16T11:56:00+00:00",
+   "publisher": "Idéal Investisseur",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 75
+  },
+  {
+   "title": "CAPGEMINI Cours Action CAP, Cotation Bourse Euronext Paris - Boursorama",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xWm5HTWQ2S2xzeU5QS00xVTdHdWxMTDBESEltN2t5eUdxVzlfZnJTbUlnSUQ2ZC1mV3RuTW1FMGY5d3Fnb1pyWFZNLUx4RklvLVE?oc=5",
+   "date": "2026-10-16T15:35:07+00:00",
+   "publisher": "Boursorama",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 76
+  },
+  {
+   "title": "Séance en légère baisse pour Capgemini - Boursier.com",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWE5YjhfbG1nSkcwVWxRNWZZZXJQVHFwSmJyQTNRdVc4eWQ0S25EQ1pOcW4yMzRUUGhScmM2SlptSng0Ml9fN0lnYXpFMW9hcVQyV3RVTXhJbXNEel9YVnRBZ1kwTW9WaWxkSjhaQUUxaWhfYUs1WkN0dG05QU5EUk5HZGFjclI3Z3c?oc=5",
+   "date": "2026-10-16T15:41:44+00:00",
+   "publisher": "Boursier.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 77
+  },
+  {
+   "title": "Capgemini SE: Objectif de Cours et Consensus des Analystes | CAP | FR0000125338 - Zonebourse",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YSjliNzhuOHVucDNaRmtRNWM0VGsxRWJ5NUo1bm9lTmpTbGhYT2R6dUZOVDBxd1RLRlczVjJYWkR4UklrM29yeWdHdTc0ckJicE9qdmFhbUI0QnZhOHRydUJyQTNWMnE0TmFIT1p6UXlMMHdLWlRr?oc=5",
+   "date": "2026-10-16T15:55:00+00:00",
+   "publisher": "Zonebourse",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 78
+  },
+  {
+   "title": "Capgemini SE (CAPP.XD) cash flow - Yahoo Finance Australia",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VTWtaVWM4aDRTU1E1UlRSU3ZMTHJQV0d0dDBsYnhERHhPRnA4VTdacUpsQkJvNzIyc1Z6QXdzbnZxOEk2WXJtejdKSGVLdEVrWDFsM1RCY0d2enpjUDBTX1JuOA?oc=5",
+   "date": "2026-10-16T21:04:16+00:00",
+   "publisher": "Yahoo Finance Australia",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 79
+  },
+  {
+   "title": "BOTSI®-Advisor Hochstufung Capgemini von Rang 387 auf ... - boerse.de - boerse.de",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeFA0bzM0V3hXWjN5aHg0SXRtSkRGcnNGRHUxUjdadFJWV1BRVWUwTUpKOHhaSmFtWVpseHM4a3U3NGVrS1k5QXNpODd6akJhVnlSNHJBSnFHa25OQ3FmS1BKNmktVlJvOWV6UTFzNFNmc2ZnbWdhOGxBbF9IY3NUWUN5ZDk1SWZrUkFrSzZJNGh6MlRUWHpYbVVYOG82TTZw0gGgAUFVX3lxTFB4UDRvMzRXeFdaM3loeDRJdG1KREZyc0ZEdTFSN1p0UlZXUFFVZTBNSko4eFpKYW1ZWmx4czhrdTc0ZWtLWTlBc2k4N3pqQmFWeVI0ckFKcUdrbk5DcWZLUEo2aS1WUm85ZXpRMXM0U2ZzZmdtZ2E4bEFsX0hjc1RZQ3lkOTVJZmtSQWtLNkk0aHoyVFRYelhtVVg4bzZNNnA?oc=5",
+   "date": "2026-10-17T05:08:00+00:00",
+   "publisher": "boerse.de",
+   "feed": "gnews-general-DE",
+   "section": "general",
+   "evidence": null,
+   "id": 80
+  },
+  {
+   "title": "The Capgemini Chair organizes its second University Hackathon - Universitat de València",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZHF1Mm5XRG9hR2t6dnRYb0dKazRUYVNtR1dHTEtkVElmaExZTUtDWXEtVzEta2RHUjlZM3h6R0tvcUdqZ2FxOGVlV1NKV2JFTmR4UkFXa0R6WXpiLUVJSVVhMnYtNnpUdEpJellqWkJ6SzVvWUZXVlFnUmw4UVhBUHhCcFBhM0dITEtDVGtyeVR4aVJMUjRoUnBMWUQ0TjBWYzBmWkZRMGhxaV83ZEZXcDFIV25LZV9zUFR5am8tSjRvQkk2NDlSOGItTGZLZGlvRGpnbENGcms5cnc5MTVKeFg3TjZrUzVGWjdBa0ZOVnBidUJrVTkwNTQtRQ?oc=5",
+   "date": "2026-10-17T05:48:39+00:00",
+   "publisher": "Universitat de València",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 81
+  },
+  {
+   "title": "Paul Hermelin (Capgemini) : Quels axes de développement pour Capgemini ? - 13/10 - Orange Actualités",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcDI3XzlSNnk0NVd6LTladXZPdE5obGZiN1htcFllQWZpRThpbldGTGVESmlnQ1RHeF9QODl6WUdrbVd5NVNHSlNkeEdjVExtVlEzQjdJWlZPcmVveHJpb3lLcW9aN1M4Mlg1X1JFRnFIUXlETDVXZ1FuZFBQMDVkMWR5V3o1UUd3RmFIeEdkWGRrQTRvWE95SXc1VmFNRWtZbDU4bU9DZl9jWFV5LUFXc3B3SGowNkVBLWZiY0NqNDF5Q0sxQV9oX0RJZw?oc=5",
+   "date": "2026-10-18T05:06:41+00:00",
+   "publisher": "Orange Actualités",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 82
+  },
+  {
+   "title": "Capgemini and ServiceNow Partner for Governed AI with Agent 365 and AI Control Tower - Aerocontact.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEVxS09QSFYxVVRyaW84MEdTMXRVcjhDOU94bklUU1BFanY4LU5YLXlFaG02cldGcFNSU2o2ZTRMc2YtMmdaQnRibDNmODJTYmpvMTNCQVdXMl9JcnZ3M1BJTFI0NG1OUlpUZU9rcmFKOHE1NGpBSnA5TXB0bDE3X09OcWxHVjNTbDFpMFM1QV9sYmNvbnFzMGtnLXd2SU1kUGlkY1VyWjc4Zm9NclY2NXM3V0NZMEtLYk5VM0ZYUEZiajU1?oc=5",
+   "date": "2026-10-18T16:36:08+00:00",
+   "publisher": "Aerocontact.com",
+   "feed": "gnews-general-FR",
+   "section": "general",
+   "evidence": null,
+   "id": 83
+  },
+  {
+   "title": "DH Interview | ‘Enterprises should own their data, avoid solutions dependent on one model’ - Deccan Herald",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEFQZHdBWFhUT05yQjhhMFBpWjRTR3BFODA4RnRYMTlGMWZwMS1HUDczNVlPcEFheGtTZ0NlaWVjVGNpUnphUmZCYmtSaXJFTThnRkxfWmdEU3pYOF9DeDliYzRodHQ1RlJmeGoxTENONzZYc3QzNGdkc2piSjltSnJpS2d6a2ctaGpFOTdDaUpST2ZoU2h0WWFPWV8wWHhTV3VwbzFsTFFGVWQwV1JRVWplNEk5cFNyZzhFVEZsenc1WGpVU0VzY25RONIB2wFBVV95cUxOR0QxMGdxQmxFdDdwSjNzeWhfM2hYcEw1REQzZFdQRjMza2hjN0FQLWo3WDlZTEJqVnpFRFFwdDdXa2k0NW9ObGFzOHFNVnRZUkpVVVFOblBzbmcwdDJGT0dlVzBwVS1mTmN0UWZyZ2hjalo0NXQ0MmRmeGRNYm5ONTJSLWY2RFZmV081U3hnNy1RUXpUeW04REhSaDc2eFRSTVVTSHBneExVTFRFR3c1NmxSbGRVa0NVRVRXTWJBSV9hVkVXX1N5RnN0MlhMbnZlSXQ3anJIZXJaX3c?oc=5",
+   "date": "2026-10-18T20:07:50+00:00",
+   "publisher": "Deccan Herald",
+   "feed": "gnews-general-GB",
+   "section": "general",
+   "evidence": null,
+   "id": 84
+  }
+ ]
+}
