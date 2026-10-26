@@ -12,33 +12,141 @@
       "section": "general",
       "url": "https://www.capgemini.com/de-de/feed/"
     },
-    {"id": "capgemini-ae", "section": "general", "url": "https://www.capgemini.com/ae-en/feed/"},
-    {"id": "capgemini-au", "section": "general", "url": "https://www.capgemini.com/au-en/feed/"},
-    {"id": "capgemini-be", "section": "general", "url": "https://www.capgemini.com/be-en/feed/"},
-    {"id": "capgemini-br", "section": "general", "url": "https://www.capgemini.com/br-pt/feed/"},
-    {"id": "capgemini-ca-en", "section": "general", "url": "https://www.capgemini.com/ca-en/feed/"},
-    {"id": "capgemini-ca-fr", "section": "general", "url": "https://www.capgemini.com/ca-fr/feed/"},
-    {"id": "capgemini-ch", "section": "general", "url": "https://www.capgemini.com/ch-en/feed/"},
-    {"id": "capgemini-cn", "section": "general", "url": "https://www.capgemini.com/cn-zh/feed/"},
-    {"id": "capgemini-co", "section": "general", "url": "https://www.capgemini.com/co-es/feed/"},
-    {"id": "capgemini-dk", "section": "general", "url": "https://www.capgemini.com/dk-en/feed/"},
-    {"id": "capgemini-eg", "section": "general", "url": "https://www.capgemini.com/eg-en/feed/"},
-    {"id": "capgemini-es", "section": "general", "url": "https://www.capgemini.com/es-es/feed/"},
-    {"id": "capgemini-fi", "section": "general", "url": "https://www.capgemini.com/fi-en/feed/"},
-    {"id": "capgemini-fr", "section": "general", "url": "https://www.capgemini.com/fr-fr/feed/"},
-    {"id": "capgemini-gb", "section": "general", "url": "https://www.capgemini.com/gb-en/feed/"},
-    {"id": "capgemini-in", "section": "general", "url": "https://www.capgemini.com/in-en/feed/"},
-    {"id": "capgemini-it", "section": "general", "url": "https://www.capgemini.com/it-it/feed/"},
-    {"id": "capgemini-jp", "section": "general", "url": "https://www.capgemini.com/jp-jp/feed/"},
-    {"id": "capgemini-mx", "section": "general", "url": "https://www.capgemini.com/mx-es/feed/"},
-    {"id": "capgemini-nl", "section": "general", "url": "https://www.capgemini.com/nl-nl/feed/"},
-    {"id": "capgemini-no", "section": "general", "url": "https://www.capgemini.com/no-no/feed/"},
-    {"id": "capgemini-nz", "section": "general", "url": "https://www.capgemini.com/nz-en/feed/"},
-    {"id": "capgemini-pl", "section": "general", "url": "https://www.capgemini.com/pl-pl/feed/"},
-    {"id": "capgemini-pt", "section": "general", "url": "https://www.capgemini.com/pt-en/feed/"},
-    {"id": "capgemini-se", "section": "general", "url": "https://www.capgemini.com/se-en/feed/"},
-    {"id": "capgemini-sg", "section": "general", "url": "https://www.capgemini.com/sg-en/feed/"},
-    {"id": "capgemini-us", "section": "general", "url": "https://www.capgemini.com/us-en/feed/"}
+    {
+      "id": "capgemini-ae",
+      "section": "general",
+      "url": "https://www.capgemini.com/ae-en/feed/"
+    },
+    {
+      "id": "capgemini-au",
+      "section": "general",
+      "url": "https://www.capgemini.com/au-en/feed/"
+    },
+    {
+      "id": "capgemini-be",
+      "section": "general",
+      "url": "https://www.capgemini.com/be-en/feed/"
+    },
+    {
+      "id": "capgemini-br",
+      "section": "general",
+      "url": "https://www.capgemini.com/br-pt/feed/"
+    },
+    {
+      "id": "capgemini-ca-en",
+      "section": "general",
+      "url": "https://www.capgemini.com/ca-en/feed/"
+    },
+    {
+      "id": "capgemini-ca-fr",
+      "section": "general",
+      "url": "https://www.capgemini.com/ca-fr/feed/"
+    },
+    {
+      "id": "capgemini-ch",
+      "section": "general",
+      "url": "https://www.capgemini.com/ch-en/feed/"
+    },
+    {
+      "id": "capgemini-cn",
+      "section": "general",
+      "url": "https://www.capgemini.com/cn-zh/feed/"
+    },
+    {
+      "id": "capgemini-co",
+      "section": "general",
+      "url": "https://www.capgemini.com/co-es/feed/"
+    },
+    {
+      "id": "capgemini-dk",
+      "section": "general",
+      "url": "https://www.capgemini.com/dk-en/feed/"
+    },
+    {
+      "id": "capgemini-eg",
+      "section": "general",
+      "url": "https://www.capgemini.com/eg-en/feed/"
+    },
+    {
+      "id": "capgemini-es",
+      "section": "general",
+      "url": "https://www.capgemini.com/es-es/feed/"
+    },
+    {
+      "id": "capgemini-fi",
+      "section": "general",
+      "url": "https://www.capgemini.com/fi-en/feed/"
+    },
+    {
+      "id": "capgemini-fr",
+      "section": "general",
+      "url": "https://www.capgemini.com/fr-fr/feed/"
+    },
+    {
+      "id": "capgemini-gb",
+      "section": "general",
+      "url": "https://www.capgemini.com/gb-en/feed/"
+    },
+    {
+      "id": "capgemini-in",
+      "section": "general",
+      "url": "https://www.capgemini.com/in-en/feed/"
+    },
+    {
+      "id": "capgemini-it",
+      "section": "general",
+      "url": "https://www.capgemini.com/it-it/feed/"
+    },
+    {
+      "id": "capgemini-jp",
+      "section": "general",
+      "url": "https://www.capgemini.com/jp-jp/feed/"
+    },
+    {
+      "id": "capgemini-mx",
+      "section": "general",
+      "url": "https://www.capgemini.com/mx-es/feed/"
+    },
+    {
+      "id": "capgemini-nl",
+      "section": "general",
+      "url": "https://www.capgemini.com/nl-nl/feed/"
+    },
+    {
+      "id": "capgemini-no",
+      "section": "general",
+      "url": "https://www.capgemini.com/no-no/feed/"
+    },
+    {
+      "id": "capgemini-nz",
+      "section": "general",
+      "url": "https://www.capgemini.com/nz-en/feed/"
+    },
+    {
+      "id": "capgemini-pl",
+      "section": "general",
+      "url": "https://www.capgemini.com/pl-pl/feed/"
+    },
+    {
+      "id": "capgemini-pt",
+      "section": "general",
+      "url": "https://www.capgemini.com/pt-en/feed/"
+    },
+    {
+      "id": "capgemini-se",
+      "section": "general",
+      "url": "https://www.capgemini.com/se-en/feed/"
+    },
+    {
+      "id": "capgemini-sg",
+      "section": "general",
+      "url": "https://www.capgemini.com/sg-en/feed/"
+    },
+    {
+      "id": "capgemini-us",
+      "section": "general",
+      "url": "https://www.capgemini.com/us-en/feed/"
+    }
   ],
   "google_news": {
     "locales": [
@@ -102,5 +210,6 @@
   },
   "aliases_regex": "Capgemini|\\bWNS\\b|\\bKipi\\b",
   "drive_folder_id": "1ePyr-PclAiCu3f94X0Utx9htXrgIpmWg",
-  "web_app_url": "https://script.google.com/a/macros/snowflake.com/s/AKfycbzyCkooeR8mRfkbeV6964bScg6vcdmoMoAah8ANNmt10jsNuSvn4Q24VLGiA1VK40IT_w/exec"
+  "web_app_url": "https://script.google.com/a/macros/snowflake.com/s/AKfycbzyCkooeR8mRfkbeV6964bScg6vcdmoMoAah8ANNmt10jsNuSvn4Q24VLGiA1VK40IT_w/exec",
+  "site_url": "https://sites.google.com/snowflake.com/capgemini-news/home"
 }
